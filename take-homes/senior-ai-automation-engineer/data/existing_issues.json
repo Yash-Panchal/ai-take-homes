@@ -1,0 +1,52 @@
+[
+  {
+    "key": "PROJ-101",
+    "type": "Bug",
+    "status": "Open",
+    "summary": "Scheduled reports display times in UTC instead of the workspace timezone",
+    "description": "Customers on non-UTC workspaces report that scheduled report timestamps are several hours off. Affects the emailed PDF and the in-app schedule view.",
+    "created": "2026-05-18",
+    "reported_by_accounts": ["Meridian Health"]
+  },
+  {
+    "key": "PROJ-110",
+    "type": "Bug",
+    "status": "Open",
+    "summary": "Android app crashes on launch for some users after the 4.2 update",
+    "description": "Intermittent crash-on-open on Android following the 4.2 release. Appears device/OS-version dependent. iOS unaffected.",
+    "created": "2026-06-09",
+    "reported_by_accounts": ["Northwind Logistics"]
+  },
+  {
+    "key": "PROJ-087",
+    "type": "Bug",
+    "status": "In Progress",
+    "summary": "Occasional duplicate webhook deliveries to customer endpoints",
+    "description": "Some outbound webhooks are delivered more than once. Customers ask for idempotency keys on the payload.",
+    "created": "2026-04-30"
+  },
+  {
+    "key": "PROJ-095",
+    "type": "Feature",
+    "status": "Open",
+    "summary": "Bulk CSV export of the member roster",
+    "description": "Admins want to export the full member roster as CSV in one action rather than page by page.",
+    "created": "2026-05-02"
+  },
+  {
+    "key": "PROJ-064",
+    "type": "Bug",
+    "status": "Open",
+    "summary": "SSO session expires earlier than the configured lifetime for Okta-federated users",
+    "description": "Okta-federated users are forced to re-authenticate well before the configured session lifetime.",
+    "created": "2026-03-21"
+  },
+  {
+    "key": "PROJ-120",
+    "type": "Feature",
+    "status": "Open",
+    "summary": "Slack notifications for at-risk accounts",
+    "description": "CSMs want a Slack ping when an account crosses an at-risk threshold.",
+    "created": "2026-06-01"
+  }
+]

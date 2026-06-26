@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Local stub output — should never be committed
+**/outbox/*.jsonl
