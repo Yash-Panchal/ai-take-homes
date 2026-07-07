@@ -6,7 +6,7 @@ We use a fork-based flow so your work stays your own and so one candidate's solu
 
 1. **Fork** this repository to your own GitHub account. (Your fork can be public or private — your call. If private, add your recruiter's GitHub handle as a collaborator when you're done.)
 2. **Branch** in your fork, e.g. `solution/your-name`.
-3. **Build** your solution inside the relevant `take-homes/<role>/` folder, in a `solution/` subfolder, alongside your `WRITEUP.md`. Keep the original exercise files unchanged so the diff is just your work.
+3. **Build** your solution inside the relevant `take-homes/<role>/` folder, in a `solution/` subfolder, alongside your `WRITEUP.md`. Keep the original exercise files unchanged so the diff is just your work. (Leaf Support note: the harness looks for `agent.py` next to `harness.py` first and falls back to `solution/agent.py` — either location works; add a `solution/__init__.py` if you use the subfolder.)
 4. **Open a pull request _within your own fork_** (your `solution/your-name` branch → your fork's `main`). This gives us a clean, reviewable diff without publishing it back here. Then send your recruiter the link to that PR (or to your fork if it's private).
 
 ## What to include

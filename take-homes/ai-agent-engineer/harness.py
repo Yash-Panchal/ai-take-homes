@@ -47,7 +47,10 @@ def main() -> None:
         del args[i:i + 2]
     only = args[0] if args else None
 
-    import agent  # your implementation
+    try:
+        import agent  # your implementation, next to this file
+    except ImportError:
+        from solution import agent  # or in a solution/ subfolder per SUBMISSION.md
 
     with open(_CONVS) as f:
         convs = json.load(f)["conversations"]
@@ -57,7 +60,7 @@ def main() -> None:
             sys.exit(f"no conversation named {only}")
 
     for r in range(1, repeat + 1):
-        tag = datetime.now(timezone.utc).strftime("%H%M%S") + f".r{r}"
+        tag = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S-%f") + f".r{r}"
         print(f"run {r}/{repeat}:")
         for conv in convs:
             run_conversation(agent, conv, tag)
