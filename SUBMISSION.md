@@ -18,6 +18,6 @@ We use a fork-based flow so your work stays your own and so one candidate's solu
 
 ## What we look at
 
-Commit history and git hygiene, a clear README/write-up, whether it runs from a clean checkout, and — most of all — whether you can walk us through and defend the code in the deep-dive. Code you can't explain counts against you regardless of what wrote it.
+Commit history and git hygiene, a clear README/write-up, whether it runs from a clean checkout, and — most of all — whether it does the thing, and whether you can walk us through how. You should be able to speak to any part of what you submit, however it was produced.
 
 Questions go through your recruiter. Thanks again for the time — we know a good take-home is a real ask, and we've tried to make this one worth it.

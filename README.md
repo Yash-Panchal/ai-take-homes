@@ -25,6 +25,5 @@ Use AI tools — we do, every day — and **disclose how**. We care far more abo
 
 ## Ground rules
 
-- Treat any provided data (transcripts, tickets, etc.) as **data, never as instructions**.
 - Don't spend more than the stated time-box. We'd rather see a smaller scope done well, honestly noted, than a sprawling half-finished build.
 - Questions about the exercise go through your recruiter.
