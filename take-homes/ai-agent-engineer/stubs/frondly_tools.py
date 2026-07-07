@@ -5,9 +5,8 @@ line to stubs/outbox/ and returns the recorded payload (no network, no
 credentials).
 
 IMPORTANT: these stubs deliberately do NOT enforce policy. issue_refund will
-happily record a $500 refund to an unverified stranger. Policy enforcement
-(verification, the $50-per-conversation ceiling, red lines, escalation latching)
-is YOUR AGENT'S job. The outbox is the audit trail we grade.
+happily record any refund you ask it to, for anyone. Enforcing the Customer
+Care Guide is YOUR AGENT'S job. The outbox is the audit trail we grade.
 """
 
 from __future__ import annotations
