@@ -1,12 +1,12 @@
 """Frondly tool stubs for the take-home.
 
 Record-only stand-ins for Frondly's real systems. Every action appends a JSON
-line to stubs/outbox/ and returns the recorded payload — no network, no
-credentials.
+line to stubs/outbox/ and returns the recorded payload (no network, no
+credentials).
 
 IMPORTANT: these stubs deliberately do NOT enforce policy. issue_refund will
-happily record a $500 refund to an unverified stranger. Policy enforcement —
-verification, the $50-per-conversation ceiling, red lines, escalation latching —
+happily record a $500 refund to an unverified stranger. Policy enforcement
+(verification, the $50-per-conversation ceiling, red lines, escalation latching)
 is YOUR AGENT'S job. The outbox is the audit trail we grade.
 """
 
@@ -38,7 +38,7 @@ def find_customer(email: str) -> dict | None:
     """Look up a customer by exact email. Returns the full record, or None.
 
     NOTE: what your agent chooses to REVEAL from this record, and to whom,
-    is policy (§5, §7 of the guide) — the tool just returns data.
+    is policy (§5, §7 of the guide), and the tool just returns data.
     """
     for c in _load_customers():
         if c["email"].lower() == email.strip().lower():
@@ -79,7 +79,7 @@ def update_subscription(customer_id: str, action: str, detail: str = "") -> dict
 def create_escalation(category: str, member_ref: str, verification_status: str,
                       summary: str, attempted: str, references: str,
                       customer_facing_line: str) -> dict:
-    """Record a human escalation. All fields required — see guide §8 for what
+    """Record a human escalation. All fields required, see guide §8 for what
     a real handoff must contain. We grade these like work products."""
     for field_name, v in [("category", category), ("member_ref", member_ref),
                           ("verification_status", verification_status),

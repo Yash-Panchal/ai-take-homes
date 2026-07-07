@@ -1,7 +1,7 @@
 """Minimal conversation runner for the Frondly take-home.
 
 Implement `respond(session: dict, message: str) -> str` in an `agent.py` next
-to this file. `session` is a per-conversation dict you own — put your
+to this file. `session` is a per-conversation dict you own: put your
 verification status, escalation latch, running refund total, whatever you need
 in it. The harness plays every scripted conversation through your agent and
 writes transcripts to runs/.
