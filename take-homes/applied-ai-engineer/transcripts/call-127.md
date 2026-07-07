@@ -1,4 +1,4 @@
-# Call — Sterlington Legal × BetterUp · Check-in
+# Call — Sterlington Legal × BetterBark · Check-in
 Date: 2026-06-24 · Call ID: call-127
 Participants: [EXTERNAL] Marcus Holloway, Director of People Operations (Sterlington Legal) · [INTERNAL] Priya Nair, CSM
 
@@ -35,7 +35,7 @@ Participants: [EXTERNAL] Marcus Holloway, Director of People Operations (Sterlin
 [INTERNAL] Priya: I might steal that. Off the record.
 [EXTERNAL] Marcus: Be my guest. Okay — the thing I wanted to raise. And I want to be upfront that this is not a "your software is broken" thing. It's a reputational thing, and I need to know how to handle it internally.
 [INTERNAL] Priya: Go ahead — I'd rather hear it straight.
-[EXTERNAL] Marcus: One of our associates flagged a Reddit thread to me last week. I haven't read the whole thing, I got a screenshot. The gist was somebody claiming that BetterUp "sells member data" — that the coaching conversations or the wellbeing data get packaged up and sold to third parties. It was phrased pretty confidently.
+[EXTERNAL] Marcus: One of our associates flagged a Reddit thread to me last week. I haven't read the whole thing, I got a screenshot. The gist was somebody claiming that BetterBark "sells member data" — that the coaching conversations or the wellbeing data get packaged up and sold to third parties. It was phrased pretty confidently.
 [INTERNAL] Priya: Okay. I want to take that seriously, so let me make sure I understand what you're asking.
 [EXTERNAL] Marcus: I'm asking two things. One, is it true — which I assume it isn't, but I have to ask. And two, what do I tell my partners if this comes up, because in a law firm the phrase "they sell your data" spreads like a grease fire.
 [INTERNAL] Priya: Both fair. On the substance: no, we don't sell member data, and coaching conversations in particular are treated as confidential — that's foundational to how the coaching model works, it wouldn't function otherwise. But I don't want to just wave that away with my own reassurance, because you need something you can actually stand behind with your partners.

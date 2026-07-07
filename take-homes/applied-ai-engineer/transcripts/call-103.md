@@ -1,4 +1,4 @@
-# Call — Winslow Group × BetterUp · Support Escalation
+# Call — Winslow Group × BetterBark · Support Escalation
 Date: 2026-06-20 · Call ID: call-103
 Participants: [EXTERNAL] Harriet Bloomquist, People Analytics Lead (Winslow Group) · [INTERNAL] Lena Kowalski, Implementation · [INTERNAL] Ravi Patel, Support Engineer
 

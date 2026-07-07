@@ -1,4 +1,4 @@
-# Call — Internal BetterUp Prep (no customer present)
+# Call — Internal BetterBark Prep (no customer present)
 Date: 2026-06-19 · Call ID: call-007
 Participants: [INTERNAL] Priya Nair, CSM · [INTERNAL] Sam Oduya, CSM
 

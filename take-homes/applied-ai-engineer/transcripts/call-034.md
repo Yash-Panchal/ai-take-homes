@@ -1,4 +1,4 @@
-# Call — Pemrose Insurance × BetterUp · Support Escalation / Check-in
+# Call — Pemrose Insurance × BetterBark · Support Escalation / Check-in
 Date: 2026-06-22 · Call ID: call-034
 Participants: [EXTERNAL] Gloria Tan, HR Systems Analyst (Pemrose Insurance) · [INTERNAL] Ravi Patel, Support Engineer · [INTERNAL] Maya Chen, CSM
 

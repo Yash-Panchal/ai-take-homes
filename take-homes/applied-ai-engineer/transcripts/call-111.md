@@ -1,4 +1,4 @@
-# Call — Beacon Point Marina × BetterUp · Support Check-in
+# Call — Beacon Point Marina × BetterBark · Support Check-in
 Date: 2026-06-16 · Call ID: call-111
 Participants: [EXTERNAL] Delia Cruz, Operations Manager (Beacon Point Marina) · [INTERNAL] Ravi Patel, Support Engineer
 

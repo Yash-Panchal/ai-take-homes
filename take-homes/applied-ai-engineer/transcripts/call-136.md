@@ -1,4 +1,4 @@
-# Call — Portman Grand Hotels × BetterUp · Admin Sync
+# Call — Portman Grand Hotels × BetterBark · Admin Sync
 Date: 2026-06-29 · Call ID: call-136
 Participants: [EXTERNAL] Renata Kohl, HR Systems Administrator (Portman Grand Hotels) · [INTERNAL] Lena Kowalski, Implementation
 

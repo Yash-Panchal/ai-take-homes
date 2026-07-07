@@ -1,4 +1,4 @@
-# Call — Pemberton Foods × BetterUp · Quarterly Business Review
+# Call — Pemberton Foods × BetterBark · Quarterly Business Review
 Date: 2026-06-16 · Call ID: call-057
 Participants: [EXTERNAL] Danielle Frost, Director of Learning & Development (Pemberton Foods) · [EXTERNAL] Marcus Bly, HRIS Analyst (Pemberton Foods) · [INTERNAL] Priya Nair, CSM
 
@@ -22,10 +22,10 @@ Participants: [EXTERNAL] Danielle Frost, Director of Learning & Development (Pem
 [EXTERNAL] Marcus: Finance has us at 1,400 seats but they think 1,450 got provisioned back in Q1. I suspect it's a rounding thing on their side, but I wanted to confirm the number of your record is 1,400.
 [INTERNAL] Priya: Of my record, 1,400. The order form from February was 1,400, no amendments since. I can send you the order form line so you have it in writing for finance.
 [EXTERNAL] Marcus: That'd close it out, thanks. Finance loves a document more than a fact.
-[INTERNAL] Priya: Don't we all. Okay Danielle, you flagged a program-health item when you accepted the invite — "coaching momentum in the back half." Want to walk me through what you're seeing?
+[INTERNAL] Priya: Don't we all. Okay Danielle, you flagged a program-health item when you accepted the invite — "training momentum in the back half." Want to walk me through what you're seeing?
 [EXTERNAL] Danielle: Yeah. So the numbers look fine, like you said, but I've been getting a trickle of complaints that I can't quite pin down, and I wanted to raise them while we're all here rather than open a bunch of tickets.
 [INTERNAL] Priya: That's exactly the right instinct. Let's talk through them. What's the trickle?
-[EXTERNAL] Danielle: The loudest one is about the video sessions. And before you ask — no, it's not "the video is bad," people are specific. Several of my corporate members have said that during their live coaching sessions in the browser, the video just freezes. Like, the coach's picture locks up.
+[EXTERNAL] Danielle: The loudest one is about the video sessions. And before you ask — no, it's not "the video is bad," people are specific. Several of my corporate members have said that during their live training sessions in the browser, the video just freezes. Like, the coach's picture locks up.
 [INTERNAL] Priya: Locks up how — does the whole session drop, or?
 [EXTERNAL] Danielle: That's the weird part. The audio keeps going. So you're mid-conversation, the coach's face freezes on some unflattering frame, and you keep talking like nothing happened. One of my directors said she spent ten minutes talking to a frozen coach before she realized the video had died.
 [INTERNAL] Priya: Ten minutes with a frozen coach. Okay. Do you know roughly when in the session it happens? Beginning, random?

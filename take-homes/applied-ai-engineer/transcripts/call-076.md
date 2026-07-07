@@ -1,4 +1,4 @@
-# Call — Jasper Winery × BetterUp · Check-in
+# Call — Jasper Winery × BetterBark · Check-in
 Date: 2026-06-20 · Call ID: call-076
 Participants: [EXTERNAL] Marisol Vega, HR Director (Jasper Winery) · [INTERNAL] Tomás Vela, CSM
 

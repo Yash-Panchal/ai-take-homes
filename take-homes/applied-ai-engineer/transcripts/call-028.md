@@ -1,4 +1,4 @@
-# Call — Quill Publishing × BetterUp · Support Escalation
+# Call — Quill Publishing × BetterBark · Support Escalation
 Date: 2026-06-25 · Call ID: call-028
 Participants: [EXTERNAL] Deborah Kang, HR Systems Admin (Quill Publishing) · [INTERNAL] Ravi Patel, Support Engineer · [INTERNAL] Maya Chen, CSM
 

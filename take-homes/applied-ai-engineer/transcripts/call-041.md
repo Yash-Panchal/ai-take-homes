@@ -1,4 +1,4 @@
-# Call — Verity Accounting × BetterUp · Check-in
+# Call — Verity Accounting × BetterBark · Check-in
 Date: 2026-06-26 · Call ID: call-041
 Participants: [EXTERNAL] Camille Fontaine, VP Human Resources (Verity Accounting) · [INTERNAL] Tomás Vela, CSM
 
@@ -13,35 +13,35 @@ Participants: [EXTERNAL] Camille Fontaine, VP Human Resources (Verity Accounting
 [INTERNAL] Tomás: We'll come back to it. This is just a check-in — no agenda I need to push through. Mostly I want to hear how the program's landing and whether there's anything you need.
 [EXTERNAL] Camille: Honestly, I asked for this call because I wanted to tell you something positive for once. I feel like every vendor call is me complaining, and this one's the opposite.
 [INTERNAL] Tomás: I will happily receive good news. Please.
-[EXTERNAL] Camille: So you know we rolled the coaching out to our whole manager population back in the winter — about 140 people. And I was nervous, because accountants are a skeptical bunch and I thought they'd treat it like fluffy nonsense.
+[EXTERNAL] Camille: So you know we rolled the training out to our whole manager population back in the winter — about 140 people. And I was nervous, because accountants are a skeptical bunch and I thought they'd treat it like fluffy nonsense.
 [INTERNAL] Tomás: The "we deal in hard numbers, spare us the feelings" crowd.
-[EXTERNAL] Camille: Exactly that crowd. And I was braced for eye-rolling. What actually happened was the opposite. It's become one of the most talked-about benefits we offer. In our engagement survey last month, coaching came up unprompted in the free-text responses more than anything else.
+[EXTERNAL] Camille: Exactly that crowd. And I was braced for eye-rolling. What actually happened was the opposite. It's become one of the most talked-about benefits we offer. In our engagement survey last month, the dog training came up unprompted in the free-text responses more than anything else.
 [INTERNAL] Tomás: Unprompted in free-text is the gold standard. People don't type paragraphs about things they're indifferent to.
-[EXTERNAL] Camille: Right? These are people who bill their time in fractions of an hour and they voluntarily wrote paragraphs. One manager wrote, and I'm quoting from memory, "my coach helped me have the hardest conversation of my career and I didn't fall apart." That's not fluff. That's a manager who kept a team together.
+[EXTERNAL] Camille: Right? These are people who bill their time in fractions of an hour and they voluntarily wrote paragraphs. One manager wrote, and I'm quoting from memory, "my coach helped me get through the worst of my rescue dog's separation anxiety and I didn't lose my mind." That's not fluff. That's someone who kept a dog out of a shelter.
 [INTERNAL] Tomás: That's exactly the kind of outcome that's hard to put in a spreadsheet but is the whole point. Can I ask what you did on the rollout that worked? I'd love to bottle it.
 [EXTERNAL] Camille: A few things. We didn't oversell it. I hate when HR launches something with balloons and a big email and then it fizzles. We did a quiet, credible launch. "This is available, it's confidential, it's yours if you want it." Low-key, high-trust.
 [INTERNAL] Tomás: The understated launch. Counterintuitive but it works.
-[EXTERNAL] Camille: And second, our managing partner did it himself and mentioned it casually in a partner meeting. Not a big endorsement, just "yeah, I've been doing the coaching, it's been useful." That did more than any campaign I could've run.
+[EXTERNAL] Camille: And second, our managing partner did it himself and mentioned it casually in a partner meeting. Not a big endorsement, just "yeah, I've been doing the training with my dog, it's been useful." That did more than any campaign I could've run.
 [INTERNAL] Tomás: Senior leader modeling it authentically. That's the single strongest adoption driver we see anywhere.
-[EXTERNAL] Camille: And here's the thing about the two-office challenge I mentioned — the coaching's been a quiet unifier. Managers in both locations are having the same kinds of coaching conversations, working on the same leadership muscles. It's giving the two offices a shared culture without me having to force it.
-[INTERNAL] Tomás: That's a genuinely clever unintended benefit. A common developmental experience as connective tissue across sites.
+[EXTERNAL] Camille: And here's the thing about the two-office challenge I mentioned — the training's been a quiet unifier. People in both locations are working with their coaches on the same kinds of things, swapping dog stories in the hallway. It's giving the two offices a shared culture without me having to force it.
+[INTERNAL] Tomás: That's a genuinely clever unintended benefit. A common experience as connective tissue across sites.
 [EXTERNAL] Camille: I didn't plan it, but I'll take credit for it in my next board update. The new-office managers especially — they don't feel like outsiders because they're in the same program as everyone else from day one.
 [INTERNAL] Tomás: That's a real integration win. Multi-site firms struggle with exactly that, and you stumbled into a solution.
 [EXTERNAL] Camille: Stumbling into solutions is 80% of my job. The other 20% is taking credit for the stumbling. It's almost annoying how much it comes down to leadership modeling. I could've run the most beautiful comms campaign and it wouldn't have touched what one offhand comment from the managing partner did.
 [INTERNAL] Tomás: The comms campaign gives permission; the leader modeling gives proof. You need both, but the proof does the heavy lifting.
 [EXTERNAL] Camille: Well put. There's a third thing too, now that I think about it — we made it genuinely voluntary. No tracking of who used it, no reporting up to their partners about engagement. People trusted it was confidential because we structured it to actually be confidential.
-[INTERNAL] Tomás: That trust piece is huge, especially in a firm where everyone's watching everyone's utilization. If people thought their coaching engagement was being reported to their reviewer, they'd never be honest in a session.
+[INTERNAL] Tomás: That trust piece is huge, especially in a firm where everyone's watching everyone's utilization. If people thought their training engagement was being reported to their reviewer, they'd never be honest in a session.
 [EXTERNAL] Camille: Precisely. The moment it feels like surveillance, it's dead. We drew a hard line: this is yours, nobody's watching, use it or don't. And paradoxically, removing the pressure increased the usage.
 [INTERNAL] Tomás: Autonomy driving engagement. It's counterintuitive to leadership but it's consistent — people lean into what they've genuinely chosen.
 [EXTERNAL] Camille: The hardest lesson for control-oriented partners to swallow, but it's real. Anyway — I just wanted you to hear it, because you all helped me get the rollout right and I don't think I said thank you properly at the time. So: thank you. It's working better than I dared hope.
-[INTERNAL] Tomás: That genuinely means a lot, and I'll pass it to the coaching team — they don't hear the wins often enough. Would you be open to letting us share some of this, anonymized? "Skeptical accounting firm, quiet launch, became most-cited benefit" is a story a lot of our other customers would learn from.
+[INTERNAL] Tomás: That genuinely means a lot, and I'll pass it to the coaching team — they don't hear the wins often enough. Would you be open to letting us share some of this, anonymized? "Skeptical accounting firm, quiet launch, dog training became most-cited benefit" is a story a lot of our other customers would learn from.
 [EXTERNAL] Camille: I'd be open to it, yes. Anonymized to start. And honestly if it'd help another HR person avoid the balloon-launch mistake, I'd even do a reference call. I've been on the other side, desperate for someone to tell me what actually works.
 [INTERNAL] Tomás: I'll take you up on both — a short anonymized write-up first, and I'll keep the reference offer in my back pocket for the right peer. That's generous of you.
 [EXTERNAL] Camille: The generosity is repaying a favor. You helped me not screw it up. And honestly, having a case study with my firm's fingerprints on it, even anonymized, is good for me internally too — it makes the program feel like something we're proud of, not just something we bought.
 [INTERNAL] Tomás: That's a smart way to think about it. The write-up becomes an internal artifact as much as an external one.
 [EXTERNAL] Camille: Everything's internal politics if you look closely enough. I've made peace with that.
 [INTERNAL] Tomás: The mark of a seasoned HR leader. Speaking of internal politics — how's the managing partner feeling about renewing? Is he a champion or just a tolerator?
-[EXTERNAL] Camille: Full champion now, which wasn't guaranteed. Six months ago he was a tolerator. His own coaching experience converted him. So renewal won't be a fight, which is a rare gift in my world.
+[EXTERNAL] Camille: Full champion now, which wasn't guaranteed. Six months ago he was a tolerator. His own experience with his dog's coach converted him. So renewal won't be a fight, which is a rare gift in my world.
 [INTERNAL] Tomás: A champion at the top makes my job easy and your budget safe. That's the best possible position to be in heading into a renewal conversation.
 [EXTERNAL] Camille: Don't jinx it. But yes, I'm optimistic. Which, for me, is a wildly out-of-character emotion.
 [INTERNAL] Tomás: Let me ask the obligatory question so I'm doing my job — is there anything not working? Any friction, any complaints, even small ones? I always want the rough edges alongside the wins.

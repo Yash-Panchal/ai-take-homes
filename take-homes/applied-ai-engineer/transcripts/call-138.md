@@ -1,4 +1,4 @@
-# Call — Gilded Lily Events × BetterUp · Check-in
+# Call — Gilded Lily Events × BetterBark · Check-in
 Date: 2026-06-30 · Call ID: call-138
 Participants: [EXTERNAL] Tanya Brightwater, Founder & CEO (Gilded Lily Events) · [INTERNAL] Derek Okafor, CSM
 

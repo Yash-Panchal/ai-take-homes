@@ -1,4 +1,4 @@
-# Call — Hartley Insurance × BetterUp · Support escalation
+# Call — Hartley Insurance × BetterBark · Support escalation
 Date: 2026-06-23 · Call ID: call-121
 Participants: [EXTERNAL] Bianca Torres, Office Manager (Hartley Insurance) · [INTERNAL] Ravi Patel, Support Engineer
 
@@ -22,12 +22,12 @@ Participants: [EXTERNAL] Bianca Torres, Office Manager (Hartley Insurance) · [I
 [EXTERNAL] Bianca Torres: Right. The buzz and the banner. That's what's gone.
 [INTERNAL] Ravi Patel: Okay, that narrows it down a lot. When the notifications are in the app but the phone alert isn't firing, nine times out of ten it's a settings layer between the app and the phone's operating system. Let's check a couple things.
 [EXTERNAL] Bianca Torres: Sure. Walk me through it, I've got my phone here.
-[INTERNAL] Ravi Patel: First, in the BetterUp app itself, go to your settings, notification preferences. Are session reminders and coach messages toggled on there?
+[INTERNAL] Ravi Patel: First, in the BetterBark app itself, go to your settings, notification preferences. Are session reminders and coach messages toggled on there?
 [EXTERNAL] Bianca Torres: Let me look. Settings... notifications... Yeah, they're all on. Session reminders, on. Messages, on. Everything's green in here.
 [INTERNAL] Ravi Patel: Good, so the app wants to notify you. That rules out the in-app settings. Now let's check your phone's operating system settings, one level up. What kind of phone?
 [EXTERNAL] Bianca Torres: iPhone.
-[INTERNAL] Ravi Patel: Okay. Go to your phone's Settings app — not the BetterUp app, the gray gear icon. Then scroll down to find BetterUp in the list of apps, and tap it.
-[EXTERNAL] Bianca Torres: Settings... scrolling... BetterUp. Okay, I'm on the BetterUp page in my phone settings.
+[INTERNAL] Ravi Patel: Okay. Go to your phone's Settings app — not the BetterBark app, the gray gear icon. Then scroll down to find BetterBark in the list of apps, and tap it.
+[EXTERNAL] Bianca Torres: Settings... scrolling... BetterBark. Okay, I'm on the BetterBark page in my phone settings.
 [INTERNAL] Ravi Patel: Great. Do you see a "Notifications" option on that page? Tap it.
 [EXTERNAL] Bianca Torres: Yep. Tapping. Oh.
 [INTERNAL] Ravi Patel: What do you see?

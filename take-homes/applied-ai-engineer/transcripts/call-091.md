@@ -1,4 +1,4 @@
-# Call — Lumen Dance Academy × BetterUp · Support escalation
+# Call — Lumen Dance Academy × BetterBark · Support escalation
 Date: 2026-06-22 · Call ID: call-091
 Participants: [EXTERNAL] Bianca Torres, Studio Operations Manager (Lumen Dance Academy) · [INTERNAL] Maya Chen, CSM
 

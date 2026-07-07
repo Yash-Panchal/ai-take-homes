@@ -1,4 +1,4 @@
-# Call — Vantage Credit Union × BetterUp · Support Follow-up
+# Call — Vantage Credit Union × BetterBark · Support Follow-up
 Date: 2026-06-25 · Call ID: call-051
 Participants: [EXTERNAL] Nadia Farr, IT Operations Manager (Vantage Credit Union) · [INTERNAL] Ravi Patel, Support Engineer
 
@@ -15,7 +15,7 @@ Participants: [EXTERNAL] Nadia Farr, IT Operations Manager (Vantage Credit Union
 [INTERNAL] Ravi: I saw the ticket, and I remember the initial read was that your users were getting an error during the SAML handshake. That's what our engineer noted when it came in. Where did it go from there?
 [EXTERNAL] Nadia: It went to me realizing, about two hours in, that it wasn't you at all. It was us. Our identity provider certificate expired.
 [INTERNAL] Ravi: The signing certificate on your IdP side.
-[EXTERNAL] Nadia: The signing certificate. It had a renewal date I had in a spreadsheet somewhere that I absolutely did not look at. It lapsed overnight, and once it lapsed, the assertions our IdP was sending were signed with an expired cert, so your side correctly refused them. From our users' perspective, "BetterUp login is broken." From reality's perspective, our cert was dead and your platform did exactly what it should have.
+[EXTERNAL] Nadia: The signing certificate. It had a renewal date I had in a spreadsheet somewhere that I absolutely did not look at. It lapsed overnight, and once it lapsed, the assertions our IdP was sending were signed with an expired cert, so your side correctly refused them. From our users' perspective, "BetterBark login is broken." From reality's perspective, our cert was dead and your platform did exactly what it should have.
 [INTERNAL] Ravi: That's the system behaving correctly, then — we reject assertions signed with an expired certificate on purpose. It's a security control, not a bug. If we accepted them, that'd be the actual problem.
 [EXTERNAL] Nadia: I know, and that's what makes it embarrassing. I opened an urgent ticket accusing your SSO of being down when your SSO was the only thing in the chain doing its job. I should have checked our own cert first. It's the first thing I tell my team to check and I didn't take my own advice.
 [INTERNAL] Ravi: Genuinely, don't worry about it — an expired-cert outage looks exactly like a platform outage from the help-desk queue, and the pressure of sixty people locked out doesn't leave much room for calm diagnosis. You got there in two hours, which is fast.
@@ -36,7 +36,7 @@ Participants: [EXTERNAL] Nadia Farr, IT Operations Manager (Vantage Credit Union
 [EXTERNAL] Nadia: My branch managers might, they got a lot of "please try logging in again" messages Tuesday night. But they'll survive.
 [INTERNAL] Ravi: They always do. And next time it'll be a thirty-day cert alert instead of a scramble, so they won't get the midnight messages at all.
 [EXTERNAL] Nadia: That's the goal. Fewer midnight messages, more sleep for everyone, including me.
-[INTERNAL] Ravi: Let me confirm what I'm hearing so I can close the ticket accurately. The login failures Tuesday were caused by an expired signing certificate on your identity provider, not by anything on the BetterUp side. You renewed the certificate, updated the federation metadata, and logins have been clean since Tuesday afternoon across all locations.
+[INTERNAL] Ravi: Let me confirm what I'm hearing so I can close the ticket accurately. The login failures Tuesday were caused by an expired signing certificate on your identity provider, not by anything on the BetterBark side. You renewed the certificate, updated the federation metadata, and logins have been clean since Tuesday afternoon across all locations.
 [EXTERNAL] Nadia: That's exactly right. Please close it as resolved, root cause on our side. I don't want it sitting in your system as an open SSO defect against your platform, because it isn't one.
 [INTERNAL] Ravi: I'll close it as resolved with root cause noted as an expired customer-side IdP certificate. Nothing on our end to fix or track — the platform behaved as designed. I want to be precise about that in the record so nobody down the line misreads it as a product issue.
 [EXTERNAL] Nadia: Good. I appreciate you being precise about that. I'd hate for it to look like your product had an SSO problem when it was my calendar reminder that had the problem.

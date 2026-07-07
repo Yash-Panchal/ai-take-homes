@@ -1,4 +1,4 @@
-# Call — Gardner Aerospace × BetterUp · Support Escalation
+# Call — Gardner Aerospace × BetterBark · Support Escalation
 Date: 2026-06-25 · Call ID: call-065
 Participants: [EXTERNAL] Renata Voss, HR Systems Manager (Gardner Aerospace) · [EXTERNAL] Devon Marsh, Employee Experience Specialist (Gardner Aerospace) · [INTERNAL] Ravi Patel, Support Engineer · [INTERNAL] Sam Oduya, CSM
 
@@ -29,7 +29,7 @@ Participants: [EXTERNAL] Renata Voss, HR Systems Manager (Gardner Aerospace) · 
 [EXTERNAL] Renata: That's exactly it. The update resets them to defaults and re-opts-them-in.
 [INTERNAL] Ravi: And this happens on every app update, or was it a one-time thing after a specific version?
 [EXTERNAL] Renata: Every update, as far as we can tell. Devon's tracked it more closely than I have.
-[EXTERNAL] Devon: Yeah. It's happened at least three times now, each time lining up with an app update. I keep a little log because people complain to me directly. After the update in — I want to say early May — I got eleven complaints in two days, all the same thing: "why is BetterUp buzzing me again, I turned this off." Then it went quiet. Then the next update, another wave.
+[EXTERNAL] Devon: Yeah. It's happened at least three times now, each time lining up with an app update. I keep a little log because people complain to me directly. After the update in — I want to say early May — I got eleven complaints in two days, all the same thing: "why is BetterBark buzzing me again, I turned this off." Then it went quiet. Then the next update, another wave.
 [INTERNAL] Ravi: Eleven in two days is a real signal, not a fluke. Is this iOS, Android, or both?
 [EXTERNAL] Devon: Both. I've got iPhone complainers and Android complainers in the same wave. It's not platform-specific from what I can see.
 [INTERNAL] Ravi: Both platforms, correlated with app updates, resets opt-outs back to all-on. That's a clear reproduction pattern. Do you know if it's just the mobile app's notification settings, or does it also affect what they'd set on the web?

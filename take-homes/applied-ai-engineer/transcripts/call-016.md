@@ -1,4 +1,4 @@
-# Call — Bexley & Sons × BetterUp · Renewal
+# Call — Bexley & Sons × BetterBark · Renewal
 Date: 2026-06-17 · Call ID: call-016
 Participants: [EXTERNAL] Eleanor Vance, Director of Talent (Bexley & Sons) · [INTERNAL] Sam Oduya, CSM
 
@@ -19,7 +19,7 @@ Participants: [EXTERNAL] Eleanor Vance, Director of Talent (Bexley & Sons) · [I
 [INTERNAL] Sam: Honestly? The senior people used it first and quietly, and the associates noticed. Nothing sells a tool to a lawyer like a partner they respect already using it.
 [EXTERNAL] Eleanor: That tracks. Our associates would rather die than be seen not doing something a partner does. It's a very anxious ecosystem.
 [INTERNAL] Sam: Anxiety is a powerful adoption engine, it turns out. I'd never put it in a marketing deck, but it's true.
-[EXTERNAL] Eleanor: You should. "BetterUp: your associates are terrified of falling behind." I'd buy it.
+[EXTERNAL] Eleanor: You should. "BetterBark: your associates are terrified of falling behind." I'd buy it.
 [INTERNAL] Sam: I'll pass it to marketing and watch them recoil. Okay — terms.
 [EXTERNAL] Eleanor: I'll take the win. Don't tell the associates they're a statistic, they'll bill you for the conversation.
 [INTERNAL] Sam: Noted, no telling the associates anything. On terms — I'd propose holding your seat count flat and a two-year to lock your rate. There's an annual uplift otherwise, and a two-year lets me freeze it.

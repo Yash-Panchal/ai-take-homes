@@ -1,4 +1,4 @@
-# Call — Kirkfield College × BetterUp · Program Review
+# Call — Kirkfield College × BetterBark · Program Review
 Date: 2026-06-19 · Call ID: call-047
 Participants: [EXTERNAL] Dr. Alan Pruett, Associate Dean of Faculty Development (Kirkfield College) · [INTERNAL] Tomás Vela, CSM
 
@@ -9,12 +9,12 @@ Participants: [EXTERNAL] Dr. Alan Pruett, Associate Dean of Faculty Development 
 [INTERNAL] Tomás: That is a triumph. The logistics of that alone.
 [EXTERNAL] Alan: You have no idea. Anyway, I've got about forty minutes before a dean's meeting, so let's be productive.
 [INTERNAL] Tomás: Let's. What's top of your list for us today?
-[EXTERNAL] Alan: I wanted to review how the faculty coaching cohort went this year, talk about whether we expand it to adjuncts next year, and there's one small operational nuisance I want to mention before I forget it again. I keep meaning to and then a meeting eats the thought.
+[EXTERNAL] Alan: I wanted to review how the faculty training cohort went this year, talk about whether we expand it to adjuncts next year, and there's one small operational nuisance I want to mention before I forget it again. I keep meaning to and then a meeting eats the thought.
 [INTERNAL] Tomás: We'll make sure the nuisance survives this call. Actually, let me write it at the top of my notes right now so it can't get lost — "operational nuisance, timestamps." There. Now it's safe. Let's take the cohort first. My read is it went well — participation held through the spring, which is rare, usually people fall off after midterms.
 [EXTERNAL] Alan: That's oddly reassuring, watching you write it down. I've been the person who forgets the small thing at the end of every meeting for twenty years.
 [INTERNAL] Tomás: Then we're a good match, because I write everything down. Occupational habit. Where were we — the cohort.
 [EXTERNAL] Alan: The cohort. Yes. It held, and I was surprised it held.
-[EXTERNAL] Alan: It did hold, and I was surprised. My theory is that faculty responded to it being framed as development rather than remediation. Nobody wants to feel like they were sent to coaching because they're bad at their job.
+[EXTERNAL] Alan: It did hold, and I was surprised. My theory is that faculty responded to it being framed as a perk rather than a fix. Nobody wants to feel like they were sent to a trainer because their dog is a disaster.
 [INTERNAL] Tomás: That framing matters enormously. The accounts that position it as a perk see the engagement you're seeing. The ones that position it as a fix see people hide. What was your participation rate, roughly? I want to compare it to my sense of it.
 [EXTERNAL] Alan: Of the tenured and tenure-track faculty we enrolled, I'd say we held about seventy percent active through the whole year. Which for faculty — a famously herd-resistant population — I consider a miracle.
 [INTERNAL] Tomás: That is strong for faculty. My data agrees with your seventy, for what it's worth. Faculty are the population most likely to opt out of anything institutional, so holding that through spring is a real result.

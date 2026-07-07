@@ -1,4 +1,4 @@
-# Call — Basil & Sage Catering × BetterUp · Check-in
+# Call — Basil & Sage Catering × BetterBark · Check-in
 Date: 2026-06-19 · Call ID: call-102
 Participants: [EXTERNAL] Dominic Rasi, Co-Owner & Operations Head (Basil & Sage Catering) · [INTERNAL] Priya Nair, CSM
 
@@ -21,7 +21,7 @@ Participants: [EXTERNAL] Dominic Rasi, Co-Owner & Operations Head (Basil & Sage 
 [INTERNAL] Priya: Gush. I insist. It's the best part of my job.
 [EXTERNAL] Dominic: So my event captains. These are the people who run a wedding or a corporate gala on the ground — they manage fifteen, twenty temp staff for a night, they handle the client when the client is losing their mind because the flowers are late, they keep the kitchen and the floor in sync. It's a leadership job disguised as a logistics job. And historically I promoted my best line cooks into it and they'd flounder, because being great with a knife does not make you great with people.
 [INTERNAL] Priya: The classic promotion trap. Your best individual contributor is not automatically your best leader.
-[EXTERNAL] Dominic: Right. And I could never articulate what they were missing, I just knew a good captain when I saw one. The coaching gave them language for it. My captain Teresa — she came up through the pastry side, brilliant baker, terrified of confrontation — she did the leadership track and she is a completely different manager now. She had a client screaming about a seating chart last month and she handled it with this calm I have never seen from her. Her coach worked with her on exactly that, staying regulated when someone's dysregulated at you.
+[EXTERNAL] Dominic: Right. And I could never articulate what they were missing, I just knew a good captain when I saw one. The coaching gave them language for it. My captain Teresa — she came up through the pastry side, brilliant baker, terrified of confrontation — her dog did the reactive-dog rehabilitation track and she is a completely different manager now. She had a client screaming about a seating chart last month and she handled it with this calm I have never seen from her. Her coach worked with her on exactly that, staying regulated when someone's dysregulated at you.
 [INTERNAL] Priya: Teresa's story is the whole thesis of the program in one person. That's not a small change — de-escalation under pressure is a genuinely hard skill and it directly protects your client relationships.
 [EXTERNAL] Dominic: It saved that account, honestly. The old Teresa would have either crumbled or snapped back, and either way we'd have lost the client. New Teresa kept them, and they rebooked for the fall. I did the math — one coaching-influenced save paid for a chunk of the annual contract.
 [INTERNAL] Priya: I love when the ROI shows up in a specific saved account. That's not a vanity metric, that's real money.

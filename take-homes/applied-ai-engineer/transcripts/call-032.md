@@ -1,4 +1,4 @@
-# Call — Marlowe Consulting × BetterUp · Check-in
+# Call — Marlowe Consulting × BetterBark · Check-in
 Date: 2026-06-20 · Call ID: call-032
 Participants: [EXTERNAL] Priyanka Desai, Talent Development Lead (Marlowe Consulting) · [INTERNAL] Priya Nair, CSM
 
@@ -9,14 +9,14 @@ Participants: [EXTERNAL] Priyanka Desai, Talent Development Lead (Marlowe Consul
 [INTERNAL] Priya: The talent-development one, right? In Chicago?
 [EXTERNAL] Priyanka: That's the one. It's the big annual gathering for people in my role. Lots of vendor booths, lots of panels, a genuinely alarming amount of branded stress balls.
 [INTERNAL] Priya: You can never have too many stress balls in this line of work.
-[EXTERNAL] Priyanka: Speak for yourself, I have a drawer. Was BetterUp there, actually? I looked for a booth and didn't see one.
+[EXTERNAL] Priyanka: Speak for yourself, I have a drawer. Was BetterBark there, actually? I looked for a booth and didn't see one.
 [INTERNAL] Priya: We were there but smaller this year — a couple of our field folks rather than a big booth. I'll pass along that a customer went looking and couldn't find us, that's useful.
 [EXTERNAL] Priyanka: Do. I wanted to say hi and grab a stress ball out of loyalty. Instead I got a competitor's.
 [INTERNAL] Priya: The betrayal. Whose?
 [EXTERNAL] Priyanka: I won't name names, but it was squishier than yours would've been, I'm sure.
 [INTERNAL] Priya: We'll invest in squish for next year. Anyway — this is just our regular check-in, I don't have a huge agenda. Things are humming along here.
 [INTERNAL] Priya: That's what I like to hear. Let me give you the two-minute health picture and then it's your floor. Your consultant cohort is at 79% activation, sessions are steady, satisfaction's high. No fires.
-[EXTERNAL] Priyanka: That matches my read. The consultants like having a confidential person who isn't in their chain of command. In our business everyone's always managing up, so a coach is the one place they can drop the act.
+[EXTERNAL] Priyanka: That matches my read. The consultants like having a confidential person who isn't in their chain of command. In our business everyone's always managing up, so their dog's trainer is the one place they can drop the act.
 [INTERNAL] Priya: That's exactly the value for a firm like yours. High-pressure, up-or-out, everyone performing constantly.
 [EXTERNAL] Priyanka: You get it. Before I forget, one genuinely good thing — the new consultants we onboarded in May got set up without a hitch. Usually onboarding is where things go sideways for me, but it was clean.
 [INTERNAL] Priya: Glad to hear it. How many did you bring on?
@@ -24,7 +24,7 @@ Participants: [EXTERNAL] Priyanka Desai, Talent Development Lead (Marlowe Consul
 [INTERNAL] Priya: That's a smart use for a new-hire class — it says "we're investing in you" on day one.
 [EXTERNAL] Priyanka: That was the intent. And it seems to be working — a couple of them mentioned it in their thirty-day check-ins, unprompted. Okay, so, nothing's wrong per se, but I picked up something at the conference I want to run by you. Not a complaint — more of a "should I be worried" question.
 [INTERNAL] Priya: Go for it.
-[EXTERNAL] Priyanka: So I was at a happy hour, one of those vendor-sponsored ones, and I got to talking with a woman who runs L&D at another firm. Bigger than us, I think — financial services, maybe insurance, I honestly don't remember. And she's a BetterUp customer too.
+[EXTERNAL] Priyanka: So I was at a happy hour, one of those vendor-sponsored ones, and I got to talking with a woman who runs L&D at another firm. Bigger than us, I think — financial services, maybe insurance, I honestly don't remember. And she's a BetterBark customer too.
 [INTERNAL] Priya: Small world.
 [EXTERNAL] Priyanka: Right? So we're comparing notes, and at one point she says — and I'm paraphrasing, we'd both had a glass of wine — she says something like "just watch out when you pull big exports, we've heard they drop rows sometimes."
 [INTERNAL] Priya: Huh. "Drop rows."

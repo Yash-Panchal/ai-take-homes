@@ -1,11 +1,11 @@
-# Call — Redgate Systems × BetterUp · Support Escalation
+# Call — Redgate Systems × BetterBark · Support Escalation
 Date: 2026-06-29 · Call ID: call-053
 Participants: [EXTERNAL] Marcus Feld, Integrations Engineer (Redgate Systems) · [INTERNAL] Ravi Patel, Support Engineer
 
 [INTERNAL] Ravi: Marcus, thanks for the detailed ticket — it's rare I get one from an actual engineer, so this should go fast. Before we dive in, quick check — you're on the current API version, right? I saw your account's on v4 but I want to confirm before we chase anything.
 [EXTERNAL] Marcus: We're on v4, yeah. Migrated off v3 back in the spring. That went smoothly, for the record — your migration guide was actually good, which I don't say often about API docs.
 [INTERNAL] Ravi: I'll pass that to the docs team, they'll be stunned. Okay — you're seeing something with the webhooks?
-[EXTERNAL] Marcus: Yeah. Appreciate you jumping on it. First, so you have context on why I care so much — I own the integration layer here. We're a mid-size firm but we run a genuinely serious data platform internally, everything flows into one warehouse, and the coaching data is one of the feeds.
+[EXTERNAL] Marcus: Yeah. Appreciate you jumping on it. First, so you have context on why I care so much — I own the integration layer here. We're a mid-size firm but we run a genuinely serious data platform internally, everything flows into one warehouse, and the training data is one of the feeds.
 [INTERNAL] Ravi: Understood, so this feeds something real downstream, not just a nice-to-have dashboard.
 [EXTERNAL] Marcus: Exactly. So background — we consume your webhooks to sync session and membership events into that HR data platform. Every time a session completes, a member's added, that kind of thing, you fire a webhook at our endpoint and we process it.
 [INTERNAL] Ravi: Standard event pipeline. Which event types are you subscribed to, roughly?
@@ -21,7 +21,7 @@ Participants: [EXTERNAL] Marcus Feld, Integrations Engineer (Redgate Systems) ·
 [INTERNAL] Ravi: Understood. And the downstream impact of a duplicate?
 [EXTERNAL] Marcus: It depends on the event, but the bad one is session completions, because that feeds a usage counter that some of our internal reporting keys off. A duplicated completion double-counts, and then our numbers drift from yours, and someone in finance asks why. We've had to build defensive dedup logic on our side just to survive it.
 [INTERNAL] Ravi: When you say finance asks why — is this feeding a chargeback or a billing reconciliation on your side? I want to understand how visible the error gets.
-[EXTERNAL] Marcus: It's an internal chargeback. We allocate the coaching cost across business units based on usage, so if a unit's session count is inflated by duplicates, they get overcharged internally. It's not your invoice that's wrong — your invoice is fine — it's our internal allocation that goes sideways. But try explaining that nuance to a business-unit lead who thinks they're being billed for sessions that didn't happen.
+[EXTERNAL] Marcus: It's an internal chargeback. We allocate the training cost across business units based on usage, so if a unit's session count is inflated by duplicates, they get overcharged internally. It's not your invoice that's wrong — your invoice is fine — it's our internal allocation that goes sideways. But try explaining that nuance to a business-unit lead who thinks they're being billed for sessions that didn't happen.
 [INTERNAL] Ravi: So the duplicates don't corrupt your bill from us, but they corrupt how you split that bill internally, and that lands as a very real complaint from a unit lead. That's a concrete, money-adjacent impact and I'll make sure it's captured that way — it's more compelling than "our counts drift."
 [EXTERNAL] Marcus: Exactly. "Our counts drift" is a shrug. "A department got overcharged and complained to their VP" is a fire. It's the second one.
 [INTERNAL] Ravi: So you're already de-duplicating on your end as a workaround. What are you keying that dedup on, out of curiosity?

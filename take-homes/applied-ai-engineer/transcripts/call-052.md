@@ -1,4 +1,4 @@
-# Call — Kiwi Southern Freight × BetterUp · Support Escalation
+# Call — Kiwi Southern Freight × BetterBark · Support Escalation
 Date: 2026-06-26 · Call ID: call-052
 Participants: [EXTERNAL] Hemi Walker, People & Capability Lead (Kiwi Southern Freight) · [INTERNAL] Lena Kowalski, Implementation
 
@@ -7,7 +7,7 @@ Participants: [EXTERNAL] Hemi Walker, People & Capability Lead (Kiwi Southern Fr
 [INTERNAL] Lena: Appreciated. I had to do the mental math on our window three times before I sent the invite — I'm never confident I've got the date line right.
 [EXTERNAL] Hemi: Nobody is, which is going to be relevant in about five minutes, believe it or not. But first — how are you? We only ever talk when something's up, which isn't fair to you.
 [INTERNAL] Lena: I'm well, thanks. Genuinely can't complain. How's the rollout going overall, before we get into the specific thing you flagged? I like to get the big picture first.
-[EXTERNAL] Hemi: Big picture's good. We onboarded the second depot in the autumn — your autumn, our — whatever, a few months back — and adoption's climbing. People like the coaching, the drivers especially, which surprised me. I figured they'd never touch it.
+[EXTERNAL] Hemi: Big picture's good. We onboarded the second depot in the autumn — your autumn, our — whatever, a few months back — and adoption's climbing. People like the training, the drivers especially, which surprised me. Turns out half of them have a dog riding shotgun in the cab, so it lands. I figured they'd never touch it.
 [INTERNAL] Lena: The drivers taking to it is a great sign, they're usually the hardest group. What's your active rate sitting at?
 [EXTERNAL] Hemi: Somewhere around seventy percent last I looked, which for a freight company where half the workforce is on the road is honestly better than I promised the board. So the program itself, no complaints. That's why I want to fix the thing I'm about to describe, because it's the one blemish on an otherwise good story.
 [INTERNAL] Lena: That's exactly the right time to fix something — while the program's healthy, before the blemish becomes the story. So you flagged something with the coach booking that's been affecting your members. I wanted to dig in properly rather than trade emails across the time difference forever.

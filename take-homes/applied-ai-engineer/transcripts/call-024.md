@@ -1,4 +1,4 @@
-# Call — Ashwell Clinics × BetterUp · Renewal
+# Call — Ashwell Clinics × BetterBark · Renewal
 Date: 2026-06-23 · Call ID: call-024
 Participants: [EXTERNAL] Dr. Marcus Feldman, Chief People Officer (Ashwell Clinics) · [INTERNAL] Priya Nair, CSM
 
@@ -11,7 +11,7 @@ Participants: [EXTERNAL] Dr. Marcus Feldman, Chief People Officer (Ashwell Clini
 [INTERNAL] Priya: Both of those feelings are correct. The best sign of a healthy org is that it runs while you're gone.
 [EXTERNAL] Marcus: My coach told me the same thing, almost word for word. I do the coaching myself, did I mention? Started last fall.
 [INTERNAL] Priya: You had, and I think that's great — modeling it from the top does more for adoption than any campaign. Your clinicians see the CPO using it and it de-stigmatizes.
-[EXTERNAL] Marcus: That was partly the point. Hard to tell a burned-out nurse to try coaching if I won't. Practice what you prescribe.
+[EXTERNAL] Marcus: That was partly the point. Hard to tell a burned-out nurse to get her dog into training if I won't put mine through it. Practice what you prescribe.
 [INTERNAL] Priya: Exactly right. Okay — this is our renewal conversation. You're up at the end of August, and I wanted to walk it with you well ahead so there are no surprises when it hits your desk.
 [EXTERNAL] Marcus: I appreciate the runway. My board finance committee meets in early August and I'd rather bring them a settled number than a "we're still negotiating."
 [INTERNAL] Priya: Then let's settle it now. You're on 620 seats. Utilization's been strong — 79% activation, and your clinical staff engage better than most healthcare accounts, which historically run lower because clinicians are time-starved.

@@ -1,4 +1,4 @@
-# Call — Southgate Retail × BetterUp · Admin Sync
+# Call — Southgate Retail × BetterBark · Admin Sync
 Date: 2026-06-16 · Call ID: call-044
 Participants: [EXTERNAL] Derek Whitlow, HRIS Administrator (Southgate Retail) · [INTERNAL] Sam Oduya, CSM
 
@@ -19,7 +19,7 @@ Participants: [EXTERNAL] Derek Whitlow, HRIS Administrator (Southgate Retail) ·
 [INTERNAL] Sam: Then what's on your list?
 [EXTERNAL] Derek: The big one is offboarding. You know our headcount balloons for holiday and then we shed a couple thousand seasonal workers in January. When we offboard, I need to deactivate people in bulk, and I've hit a wall with it.
 [INTERNAL] Sam: Tell me about the wall.
-[EXTERNAL] Derek: So the way I do it, I pull the list of terms from Workday, filter to the ones who had a BetterUp seat, and I've got a CSV of member IDs. Then in the admin panel I select them and hit deactivate. Small batches, fine. Fifty, a hundred, no problem.
+[EXTERNAL] Derek: So the way I do it, I pull the list of terms from Workday, filter to the ones who had a BetterBark seat, and I've got a CSV of member IDs. Then in the admin panel I select them and hit deactivate. Small batches, fine. Fifty, a hundred, no problem.
 [INTERNAL] Sam: And the big batches?
 [EXTERNAL] Derek: The big batches are where it falls apart. Anything over about two hundred at once and the thing just spins. The progress spinner sits there, and then eventually the page either times out or throws a generic error and dumps me back to the member list.
 [INTERNAL] Sam: Okay. And when it fails like that — what state are the accounts in?
@@ -50,7 +50,7 @@ Participants: [EXTERNAL] Derek Whitlow, HRIS Administrator (Southgate Retail) ·
 [EXTERNAL] Derek: Same flow, opposite button. I select the new hires and hit activate. I've never pushed it past a couple hundred at once because I stagger onboarding over the first week anyway, so I honestly don't know if it has the same wall.
 [INTERNAL] Sam: That staggering might be why you've never hit it. I'll get you a straight answer on the activation ceiling so you can decide whether to keep staggering or do it in one shot.
 [EXTERNAL] Derek: Either's fine as long as I know the limit going in. Surprises are the enemy.
-[INTERNAL] Sam: Surprises are the enemy. While we're on holiday planning — do the seasonal folks get the same coaching access as permanent staff, or a lighter version? Just so I understand what we're activating and deactivating.
+[INTERNAL] Sam: Surprises are the enemy. While we're on holiday planning — do the seasonal folks get the same training access as permanent staff, or a lighter version? Just so I understand what we're activating and deactivating.
 [EXTERNAL] Derek: Same access, actually. Corporate decided a couple years back that if we're going to have someone for four months, we treat them like they matter for four months. Retention play. So they get the full program, which means the full activate-and-deactivate cycle, which is exactly why the bulk operations matter so much to me.
 [INTERNAL] Sam: That's a good policy, and it does mean your bulk-operation reliability is directly tied to how well you can honor it. If deactivate is flaky, you either leave ex-seasonals with lingering access or you spend your January reconciling by hand.
 [EXTERNAL] Derek: Both of which are bad. Lingering access is a security-review finding waiting to happen, and hand-reconciliation is my sanity gone. So yeah, the fix isn't a nice-to-have for me, it's the thing that makes the whole seasonal model workable.

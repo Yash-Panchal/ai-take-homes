@@ -1,4 +1,4 @@
-# Call — Bristlecone Labs × BetterUp · Renewal Planning
+# Call — Bristlecone Labs × BetterBark · Renewal Planning
 Date: 2026-06-30 · Call ID: call-135
 Participants: [EXTERNAL] Dr. Helena Voss, Chief Scientific Officer (Bristlecone Labs) · [EXTERNAL] Marco Reyes, Director of Talent (Bristlecone Labs) · [INTERNAL] Maya Chen, CSM
 

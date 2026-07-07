@@ -1,4 +1,4 @@
-# Call — Taro Logistics × BetterUp · Program Review
+# Call — Taro Logistics × BetterBark · Program Review
 Date: 2026-06-18 · Call ID: call-101
 Participants: [EXTERNAL] Kenji Morita, HR Business Partner (Taro Logistics) · [EXTERNAL] Aiko Tanaka, People Development Manager (Taro Logistics) · [INTERNAL] Sam Oduya, CSM
 
@@ -11,7 +11,7 @@ Participants: [EXTERNAL] Kenji Morita, HR Business Partner (Taro Logistics) · [
 [INTERNAL] Sam: The electronics supply chain has been chaotic for years — I imagine that's kept you busy in ways you'd rather it hadn't.
 [EXTERNAL] Kenji: Chaotic is polite. There are weeks where the schedule is fiction and we are simply reacting. But it is steady work, and steady work is a blessing even when it is exhausting. The Osaka hub added about two hundred people, mostly warehouse and logistics coordinators, and a fair number of new team leads.
 [INTERNAL] Sam: And the team leads are your coaching population, mostly?
-[EXTERNAL] Aiko: Team leads and above. We have about six hundred and fifty members now across Tokyo, Osaka, Nagoya, and the Fukuoka office. The program has been well received. Japanese workplace culture can be reserved about the idea of "coaching" — it can sound like remediation, like something is wrong with you — but we positioned it as leadership development, a privilege, and that framing worked.
+[EXTERNAL] Aiko: Team leads and above. We have about six hundred and fifty members now across Tokyo, Osaka, Nagoya, and the Fukuoka office. The program has been well received. Japanese workplace culture can be reserved about the idea of "coaching" — it can sound like remediation, like something is wrong with your dog — but we positioned it as a development perk, a privilege, and that framing worked.
 [INTERNAL] Sam: The framing matters enormously and you nailed it. "Development, not remediation" is exactly the right positioning, and honestly it's the right positioning everywhere, not just Japan.
 [EXTERNAL] Aiko: People are proud to be selected. That was the goal.
 [EXTERNAL] Kenji: There was resistance at first from the older managers. One senior man told me coaching was "for people who cannot manage themselves." I did not argue. I simply put him in the program and let him discover otherwise.
@@ -24,7 +24,7 @@ Participants: [EXTERNAL] Kenji Morita, HR Business Partner (Taro Logistics) · [
 [INTERNAL] Sam: Right, the goal check-in reminders. They're meant to nudge people during their working day.
 [EXTERNAL] Aiko: During their working day. Yes. That is the problem. They are not arriving during the working day. They are arriving in the middle of the night.
 [INTERNAL] Sam: The middle of the night. Say more — what time exactly?
-[EXTERNAL] Aiko: Around three in the morning. Consistently. My phone, Kenji's phone, and we started asking members and it is the same for them. The goal reminder buzzes at roughly three a.m. local. People are being woken up by their leadership development tool telling them to reflect on their goals, which is not the reflective mood you want to induce at three in the morning.
+[EXTERNAL] Aiko: Around three in the morning. Consistently. My phone, Kenji's phone, and we started asking members and it is the same for them. The goal reminder buzzes at roughly three a.m. local. People are being woken up by their dog-training tool telling them to reflect on their goals, which is not the reflective mood you want to induce at three in the morning.
 [EXTERNAL] Kenji: I turned mine off after the second time. A notification at three a.m. from a wellness product is, how to say, ironic.
 [INTERNAL] Sam: That's more than ironic, that's a real problem, and I want to make sure I understand it precisely. The goal-tracking reminder notifications are arriving around 3 a.m. local time for your members — in Japan, which is APAC — when they're clearly meant to arrive during working hours.
 [EXTERNAL] Aiko: Exactly. And here is the detail I think is the clue, because I did a little investigating myself. Three a.m. in Japan is — Japan is UTC plus nine — so three a.m. here is around lunchtime the previous day in the United States. Around noon Central time, roughly. Late morning on the West Coast.

@@ -1,4 +1,4 @@
-# Call — Bluewater Marina × BetterUp · Check-in
+# Call — Bluewater Marina × BetterBark · Check-in
 Date: 2026-06-24 · Call ID: call-064
 Participants: [EXTERNAL] Curtis Deane, General Manager (Bluewater Marina) · [INTERNAL] Maya Chen, CSM
 
@@ -23,9 +23,9 @@ Participants: [EXTERNAL] Curtis Deane, General Manager (Bluewater Marina) · [IN
 [INTERNAL] Maya: I will happily take a good-news call. What's working?
 [EXTERNAL] Curtis: So, context — my whole worry going in was that my dock staff and mechanics would never touch a coaching app. These are hands-in-the-water people, not app people. I figured it'd be the office crew using it and everyone else ignoring it.
 [INTERNAL] Maya: A reasonable worry for a frontline-heavy team.
-[EXTERNAL] Curtis: Right. And I was wrong. The dock crew took to it way more than I expected. Turns out a lot of them are dealing with the same thing — young guys, first real leadership responsibility, running a team of seasonal hires for the first time, and nobody ever taught them how. The coaching hit that exactly.
-[INTERNAL] Maya: That's fantastic. First-time frontline leaders are often the highest-impact population precisely because nobody's ever developed them.
-[EXTERNAL] Curtis: That's what I found. My head dock master — good kid, promoted fast, was drowning a little — he's been doing sessions and I've watched him get noticeably better at handling the seasonal staff. Fewer blowups, better delegation. I can see it on the dock.
+[EXTERNAL] Curtis: Right. And I was wrong. The dock crew took to it way more than I expected. Turns out a lot of them are dealing with the same thing — young guys, first dog, adopted on impulse and in over their heads, and nobody ever taught them how. The training hit that exactly.
+[INTERNAL] Maya: That's fantastic. First-time dog owners are often the highest-impact population precisely because nobody's ever shown them the foundations.
+[EXTERNAL] Curtis: That's what I found. My head dock master — good kid, adopted a rowdy shepherd mix, was drowning a little — he's been doing sessions and I've watched the dog get noticeably better. Fewer blowups, actual leash manners. I can see it when he brings it around.
 [INTERNAL] Maya: You can see it on the dock. That's the sentence I live for. That's the whole point of the program made physical.
 [EXTERNAL] Curtis: It's real. I'm not blowing smoke. And the app itself — no complaints. It works, it's fast, my guys can book from their phones between boats. That was the make-or-break and it passed.
 [INTERNAL] Maya: I'm genuinely glad. Frontline booking from a phone is exactly the use case we build for, so hearing it works in a real marina under real conditions matters.
@@ -48,8 +48,8 @@ Participants: [EXTERNAL] Curtis Deane, General Manager (Bluewater Marina) · [IN
 [EXTERNAL] Curtis: Coaches are good. My dock master's coach in particular clearly gets the frontline world — doesn't talk to him in HR language, which would've killed it instantly. Whoever matched them nailed it.
 [INTERNAL] Maya: I'll pass that to the matching team — "coach spoke frontline, not HR, and it worked." That kind of match feedback helps them.
 [EXTERNAL] Curtis: Do that. Match quality was the thing I most worried they'd get wrong and they got it right.
-[INTERNAL] Maya: I'll make sure they hear it. Out of curiosity — are your guys using it mostly for the leadership stuff, or is any of it the personal side, stress and burnout?
-[EXTERNAL] Curtis: Both, I think, though they don't tell me the personal side and I don't ask. I just see them steadier. A couple mentioned it helped with stuff at home, but that's their business, not mine.
+[INTERNAL] Maya: I'll make sure they hear it. Out of curiosity — are your guys using it mostly for the training foundations, or is any of it the harder-case stuff, reactivity and anxiety?
+[EXTERNAL] Curtis: Both, I think, though they don't tell me the harder-case stuff and I don't ask. I just see the dogs steadier. A couple mentioned it helped with stuff at home, but that's their business, not mine.
 [INTERNAL] Maya: That's exactly the right boundary, and it's a sign of trust in the program that they'll even mention it. The personal side is confidential to them, always.
 [EXTERNAL] Curtis: Good. That's what I told them — nobody at the marina sees what they talk about. That mattered to the crew, honestly, more than I expected.
 [INTERNAL] Maya: Confidentiality is often the thing that makes or breaks adoption with frontline teams. If they think the boss is watching, they won't touch it. Sounds like you set that up right.

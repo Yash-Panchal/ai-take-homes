@@ -1,4 +1,4 @@
-# Call — Cobalt Gyms × BetterUp · Check-in
+# Call — Cobalt Gyms × BetterBark · Check-in
 Date: 2026-06-24 · Call ID: call-079
 Participants: [EXTERNAL] Tyrell Odom, Director of People (Cobalt Gyms) · [INTERNAL] Sam Oduya, CSM
 

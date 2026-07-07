@@ -1,4 +1,4 @@
-# Call — Sablewood Furniture × BetterUp · Relationship check-in
+# Call — Sablewood Furniture × BetterBark · Relationship check-in
 Date: 2026-06-28 · Call ID: call-097
 Participants: [EXTERNAL] Roland Beck, VP People Operations (Sablewood Furniture) · [INTERNAL] Tomás Vela, CSM
 

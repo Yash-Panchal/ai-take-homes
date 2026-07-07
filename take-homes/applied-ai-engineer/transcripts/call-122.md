@@ -1,4 +1,4 @@
-# Call — Vesper Finance × BetterUp · Support escalation
+# Call — Vesper Finance × BetterBark · Support escalation
 Date: 2026-06-24 · Call ID: call-122
 Participants: [EXTERNAL] Aditi Menon, Program Operations Lead (Vesper Finance) · [INTERNAL] Priya Nair, CSM · [INTERNAL] Ravi Patel, Support Engineer
 

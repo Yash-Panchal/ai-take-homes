@@ -1,4 +1,4 @@
-# Call — Beacon Charter Schools × BetterUp · Program Review
+# Call — Beacon Charter Schools × BetterBark · Program Review
 Date: 2026-06-22 · Call ID: call-033
 Participants: [EXTERNAL] Marcus Webb, Director of Leadership Development (Beacon Charter Schools) · [INTERNAL] Tomás Vela, CSM
 
@@ -13,7 +13,7 @@ Participants: [EXTERNAL] Marcus Webb, Director of Leadership Development (Beacon
 [INTERNAL] Tomás: Tell me. What worked?
 [EXTERNAL] Marcus: So, context. We put 55 school leaders through it — principals, assistant principals, a few instructional coaches. This is a brutally hard job. Turnover in charter leadership is savage. People burn out in three years and leave education entirely.
 [INTERNAL] Tomás: Right, the churn is the whole problem.
-[EXTERNAL] Marcus: It's the whole problem. And my hypothesis going in was that coaching might help people feel less alone in the role. That's it. Modest goal. Just — don't quit.
+[EXTERNAL] Marcus: It's the whole problem. And my hypothesis going in was that a well-trained dog at home might help people feel less alone and less frazzled in the role. That's it. Modest goal. Just — don't quit.
 [INTERNAL] Tomás: And?
 [EXTERNAL] Marcus: And it exceeded that. We had two principals who told me, unprompted, in exit-of-year conversations, that their coach was the reason they didn't resign in February. February's the killer month, by the way. Everyone wants to quit in February.
 [INTERNAL] Tomás: That's a real outcome, Marcus. Two people staying in the profession is not a soft metric.

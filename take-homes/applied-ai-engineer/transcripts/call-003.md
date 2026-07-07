@@ -1,11 +1,11 @@
-# Call — Atlas Financial × BetterUp · Onboarding / Security Review
+# Call — Atlas Financial × BetterBark · Onboarding / Security Review
 Date: 2026-06-17 · Call ID: call-003
 Participants: [EXTERNAL] Renee Park, IT Security Lead (Atlas Financial) · [INTERNAL] Tomás Vela, Implementation
 
 [INTERNAL] Tomás: Renee, good morning. How's the rollout treating you — you sounded a little frayed in your email.
-[EXTERNAL] Renee: Frayed is accurate. We're a regulated financial-services shop trying to stand up a new vendor, which means everything I do gets read three times by three different committees. My job this month is basically translating "the coaching app" into a language my audit team will sign off on.
+[EXTERNAL] Renee: Frayed is accurate. We're a regulated financial-services shop trying to stand up a new vendor, which means everything I do gets read three times by three different committees. My job this month is basically translating "the dog-training app" into a language my audit team will sign off on.
 [INTERNAL] Tomás: I've done a few of these with banks and insurers. The pattern's always the same — the product is the easy part, the access-control paperwork is the mountain.
-[EXTERNAL] Renee: You get it. My favorite part is that the coaching product itself, the actual thing people use — nobody's worried about that. It's genuinely well-liked. It's the plumbing behind it that gets me summoned to conference rooms.
+[EXTERNAL] Renee: You get it. My favorite part is that the training product itself, the actual thing people use — nobody's worried about that. It's genuinely well-liked. It's the plumbing behind it that gets me summoned to conference rooms.
 [INTERNAL] Tomás: That's usually a good sign, honestly. When the complaints are all about paperwork and never about the app, the app is doing its job. How's your coffee situation this morning, by the way — you sound like it's been a two-cup start.
 [EXTERNAL] Renee: Three, and it's not yet nine. My auditors run on a different clock than the rest of us. Speaking of which — you're an hour behind me, right? You're on the West Coast?
 [INTERNAL] Tomás: Pacific, yeah. So this is a civilized hour for you and a slightly aspirational one for me. Don't worry, I've had enough caffeine to keep up.
@@ -37,7 +37,7 @@ Participants: [EXTERNAL] Renee Park, IT Security Lead (Atlas Financial) · [INTE
 [INTERNAL] Tomás: And "someone" is always the person who's been staring at the same screen for three hours by row two hundred.
 [EXTERNAL] Renee: You've met my admins. Around row two hundred everyone's eyes glaze and that's precisely when the mistakes creep in. I'd rather not build the rollout on the assumption that a tired human clicks four hundred times without error.
 [INTERNAL] Tomás: So what you need is role assignment driven automatically from group membership.
-[EXTERNAL] Renee: Right. We need role assignment to happen automatically from SAML group membership, at login. Our IdP already exposes the groups in the assertion — finance-managers, people-admins, read-only-auditors, and so on. What I want is: you map an IdP group to a BetterUp role, and you apply that mapping on every login, so if someone's group changes on our side, their role changes on yours the next time they sign in.
+[EXTERNAL] Renee: Right. We need role assignment to happen automatically from SAML group membership, at login. Our IdP already exposes the groups in the assertion — finance-managers, people-admins, read-only-auditors, and so on. What I want is: you map an IdP group to a BetterBark role, and you apply that mapping on every login, so if someone's group changes on our side, their role changes on yours the next time they sign in.
 [INTERNAL] Tomás: Let me play it back to be sure I've got it exactly. Group-to-role mapping, driven off the SAML assertion, evaluated on each login — not only at first provision. So membership changes on your side propagate to our roles automatically, without an admin touching anything.
 [EXTERNAL] Renee: That's it precisely. Evaluated every login is the important part. First-provision-only doesn't help me, because people move between groups constantly and I need it to stay in sync, not snapshot once.
 [INTERNAL] Tomás: Understood, and the "every login" distinction is exactly the kind of thing that gets lost if I file it sloppily, so I'm glad you emphasized it. And to be blunt about the stakes — what does this block, concretely?

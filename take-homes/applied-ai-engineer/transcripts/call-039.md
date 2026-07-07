@@ -1,4 +1,4 @@
-# Call — Loomis Daycare Group × BetterUp · Renewal Planning
+# Call — Loomis Daycare Group × BetterBark · Renewal Planning
 Date: 2026-06-25 · Call ID: call-039
 Participants: [EXTERNAL] Renata Silva, Director of Operations (Loomis Daycare Group) · [INTERNAL] Maya Chen, CSM
 
@@ -16,13 +16,13 @@ Participants: [EXTERNAL] Renata Silva, Director of Operations (Loomis Daycare Gr
 [INTERNAL] Maya: Understood. So let's make sure the renewal is defensible to that board. Where you are now — you've got 90 seats, mostly your center directors and assistant directors, the people running individual daycare locations.
 [EXTERNAL] Renata: Right. The directors are the whole ballgame. A good center director means happy staff, happy staff means low turnover, low turnover means the parents trust us. It all flows from leadership at the center level.
 [INTERNAL] Maya: And turnover's your killer, I imagine. Childcare's brutal on retention.
-[EXTERNAL] Renata: It's catastrophic industry-wide. The wages are low, the work is exhausting, and burnout is constant. Anything I can do to make my directors better leaders — and to make them feel supported enough to stay — pays for itself many times over.
-[INTERNAL] Maya: That's exactly the ROI story that renews programs. Have you seen it move for you — the directors who've used coaching, are they staying?
-[EXTERNAL] Renata: Anecdotally, yes. Let me give you a real example. I had a center director last year who was on the brink of quitting — great with the kids, drowning in the management side. Scheduling, parent conflicts, staff drama. She was ready to walk.
+[EXTERNAL] Renata: It's catastrophic industry-wide. The wages are low, the work is exhausting, and burnout is constant. Anything I can do to support my directors' whole lives — and to make them feel valued enough to stay — pays for itself many times over.
+[INTERNAL] Maya: That's exactly the ROI story that renews programs. Have you seen it move for you — the directors who've used the training, are they staying?
+[EXTERNAL] Renata: Anecdotally, yes. Let me give you a real example. I had a center director last year who was on the brink of quitting — great with the kids, drowning at home. New rescue dog, tearing the house apart, keeping her up half the night. She was fried and ready to walk.
 [INTERNAL] Maya: And?
-[EXTERNAL] Renata: And her coach helped her get her arms around the operational chaos. She's still here, running one of my strongest centers, and last month she told me the coaching was the reason she didn't quit. That's one director I didn't have to replace, and replacing a center director costs me a fortune and destabilizes a whole location.
-[INTERNAL] Maya: That's exactly the kind of concrete story your board needs. Not "engagement is up" — "we nearly lost our best director and coaching kept her." A board understands a saved person.
-[EXTERNAL] Renata: That's a better way to frame it than my usual spreadsheet. I'll use that. My two longest-tenured directors are also my most engaged with the coaching. Chicken and egg, maybe — engaged people stay and stayers engage — but I'll take the correlation. I can't run a controlled experiment on human beings.
+[EXTERNAL] Renata: And her coach helped her get her arms around the dog. She's still here, running one of my strongest centers, and last month she told me the training was the reason she didn't quit. That's one director I didn't have to replace, and replacing a center director costs me a fortune and destabilizes a whole location.
+[INTERNAL] Maya: That's exactly the kind of concrete story your board needs. Not "engagement is up" — "we nearly lost our best director and the training kept her." A board understands a saved person.
+[EXTERNAL] Renata: That's a better way to frame it than my usual spreadsheet. I'll use that. My two longest-tenured directors are also my most engaged with the training. Chicken and egg, maybe — engaged people stay and stayers engage — but I'll take the correlation. I can't run a controlled experiment on human beings.
 [INTERNAL] Maya: No, and honestly the anecdote plus the logic is enough for most boards. "Our best directors use it and stay" is a sentence a board understands.
 [EXTERNAL] Renata: That's the sentence I'll use. Steal-worthy.
 [INTERNAL] Maya: So for renewal — are you thinking same 90 seats, or is the organization changing size?

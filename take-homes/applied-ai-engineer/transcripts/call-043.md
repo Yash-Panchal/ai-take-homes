@@ -1,4 +1,4 @@
-# Call — Dunmore Textiles × BetterUp · Quarterly Check-in
+# Call — Dunmore Textiles × BetterBark · Quarterly Check-in
 Date: 2026-06-15 · Call ID: call-043
 Participants: [EXTERNAL] Marguerite Ellison, People Ops Director (Dunmore Textiles) · [INTERNAL] Maya Chen, CSM
 
@@ -17,7 +17,7 @@ Participants: [EXTERNAL] Marguerite Ellison, People Ops Director (Dunmore Textil
 [INTERNAL] Maya: Suspicious is good. Let it be boring. How's the team settling with the program overall?
 [EXTERNAL] Marguerite: Good. Really good, actually. You remember we rolled it to the mill supervisors first as a pilot?
 [INTERNAL] Maya: I do. That was the group you were nervous about.
-[EXTERNAL] Marguerite: I was nervous because half of them have been here longer than I've been alive and they do not, as a rule, love being told to reflect on their leadership journey.
+[EXTERNAL] Marguerite: I was nervous because half of them have been here longer than I've been alive and they do not, as a rule, love being told to work on their dog's behavior with a stranger on a video call.
 [INTERNAL] Maya: And?
 [EXTERNAL] Marguerite: And one of them, Ferg, who I would have bet money would ghost his coach, has apparently not missed a single session. He mentioned it in a floor meeting. Unprompted. I nearly fell over.
 [INTERNAL] Maya: That's the one you want. When the skeptic converts, the rest follow.
@@ -31,7 +31,7 @@ Participants: [EXTERNAL] Marguerite Ellison, People Ops Director (Dunmore Textil
 [INTERNAL] Maya: That's the healthiest kind of increase — it means the habit's forming on its own rather than depending on you. Anything shifting on your side org-wise I should know about?
 [EXTERNAL] Marguerite: We opened a second facility in the spring, the one down near Greenville. Still ramping. Maybe forty people so far, will be closer to a hundred and twenty by fall.
 [INTERNAL] Maya: Are those folks getting folded into the same program or run separately?
-[EXTERNAL] Marguerite: Same program, I want one culture, not two. But I'm not going to push coaching on them until they've got their feet under them. New site, new everything, the last thing they need is another initiative.
+[EXTERNAL] Marguerite: Same program, I want one culture, not two. But I'm not going to push the training on them until they've got their feet under them. New site, new everything, the last thing they need is another initiative.
 [INTERNAL] Maya: Sensible. When you're ready to bring them on, ping me and we'll do a clean onboarding wave rather than dribbling them in. Cleaner reporting that way too.
 [EXTERNAL] Marguerite: Noted. Probably September, October. After the summer chaos.
 [INTERNAL] Maya: I'll pencil a nudge for late August so it's on both our radars.
@@ -45,7 +45,7 @@ Participants: [EXTERNAL] Marguerite Ellison, People Ops Director (Dunmore Textil
 [INTERNAL] Maya: That's exactly the intent. Continuity through a coach change is one of the things we try hard to get right, because losing your history mid-journey is demoralizing. Glad it held up.
 [EXTERNAL] Marguerite: It held up. No notes, as they say.
 [INTERNAL] Maya: I'll take a no-notes handoff. How are you, though? Genuinely. Portugal aside.
-[EXTERNAL] Marguerite: Tired but the good kind. This job was a slog for about eighteen months and it's finally feeling like it's paying off. The coaching thing is part of that, honestly. It gave me something concrete to point at when leadership asked what People Ops actually does.
+[EXTERNAL] Marguerite: Tired but the good kind. This job was a slog for about eighteen months and it's finally feeling like it's paying off. The training benefit is part of that, honestly. It gave me something concrete to point at when leadership asked what People Ops actually does.
 [INTERNAL] Maya: That's a hard thing to make visible and you did it.
 [EXTERNAL] Marguerite: With a lot of spreadsheets and a lot of coffee.
 [INTERNAL] Maya: The two great engines of People Ops.

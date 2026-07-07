@@ -1,4 +1,4 @@
-# Call — Harmon Optics × BetterUp · Renewal
+# Call — Harmon Optics × BetterBark · Renewal
 Date: 2026-06-22 · Call ID: call-104
 Participants: [EXTERNAL] Gwen Alderton, VP Human Resources (Harmon Optics) · [INTERNAL] Tomás Vela, CSM
 
@@ -59,7 +59,7 @@ Participants: [EXTERNAL] Gwen Alderton, VP Human Resources (Harmon Optics) · [I
 [EXTERNAL] Gwen: Everyone who's ever sold to a finance-run org has been burned by it. It's a rite of passage. Anything else on renewal, or should we let each other go?
 [EXTERNAL] Gwen: Actually, one genuinely last thing, and it's a compliment disguised as a question. Do you ever lose accounts like us? Stable, happy, low-drama? Or are we the boring accounts you take for granted until we quietly leave?
 [INTERNAL] Tomás: That's a sharp and slightly pointed question, and I'll answer it honestly. Stable happy accounts are the ones a lazy CSM takes for granted, yes. The ones that leave quietly usually leave because nobody paid attention until a competitor did. I try not to be that CSM — which is partly why I'd rather have this clean early conversation than assume you're fine.
-[EXTERNAL] Gwen: Good answer. I asked because Modern Health or somebody will eventually come knocking with a shiny pitch, and I want to know my vendor isn't asleep. You're not asleep. That's reassuring.
+[EXTERNAL] Gwen: Good answer. I asked because WagWell or somebody will eventually come knocking with a shiny pitch, and I want to know my vendor isn't asleep. You're not asleep. That's reassuring.
 [INTERNAL] Tomás: Not asleep, and when the shiny pitch comes — it always comes — tell me. I'd rather help you evaluate it honestly than pretend competitors don't exist.
 [EXTERNAL] Gwen: I'll tell you. I don't play games, remember. I think we're done, which is the nicest kind of renewal call. No drama, clear terms, a small tidy expansion. Send the proposal, I'll route it, we'll sign in August.
 [INTERNAL] Tomás: My favorite kind of call too. Proposal first week of July with the two-year discount figure confirmed and the principal-engineer scenario modeled. Thanks, Gwen — genuinely easy to work with.

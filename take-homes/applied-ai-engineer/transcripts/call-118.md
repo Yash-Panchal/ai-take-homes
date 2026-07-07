@@ -1,4 +1,4 @@
-# Call — Juniper & Finch × BetterUp · Check-in
+# Call — Juniper & Finch × BetterBark · Check-in
 Date: 2026-06-20 · Call ID: call-118
 Participants: [EXTERNAL] Priyanka Rao, Chief People Officer (Juniper & Finch) · [INTERNAL] Derek Okafor, CSM
 

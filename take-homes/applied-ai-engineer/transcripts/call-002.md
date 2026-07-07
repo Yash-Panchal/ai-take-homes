@@ -1,4 +1,4 @@
-# Call — Northwind Logistics × BetterUp · QBR
+# Call — Northwind Logistics × BetterBark · QBR
 Date: 2026-06-16 · Call ID: call-002
 Participants: [EXTERNAL] Marcus Reed, HR Director (Northwind Logistics) · [INTERNAL] Sam Oduya, CSM
 
@@ -46,8 +46,8 @@ Participants: [EXTERNAL] Marcus Reed, HR Director (Northwind Logistics) · [INTE
 [EXTERNAL] Marcus: The exec team asked me for a recommendation on expanding to the drivers' org, and I said yes.
 [INTERNAL] Sam: That's excellent. How big is the drivers' org?
 [EXTERNAL] Marcus: Big. We're talking about six hundred people, give or take, spread across the regional hubs. Long-haul, regional, and the yard crews. It's a totally different population from the DC and corporate folks — they live in their cabs, so anything we do has to work on a phone, in a truck stop, on spotty signal.
-[INTERNAL] Sam: That's a meaningful design constraint and honestly a good one to name up front. Mobile-first, low-bandwidth-tolerant, async-friendly. It'll shape which coaching formats we push.
-[EXTERNAL] Marcus: Right. A driver's not going to sit through a scheduled video session from a rest area in Nebraska. But they might do something on their phone between loads.
+[INTERNAL] Sam: That's a meaningful design constraint and honestly a good one to name up front. Mobile-first, low-bandwidth-tolerant, async-friendly. It'll shape which training formats we push.
+[EXTERNAL] Marcus: Right. A driver's not going to sit through a scheduled video session with a trainer from a rest area in Nebraska, dog in the cab or not. But they might do something on their phone between loads.
 [INTERNAL] Sam: Then let's build the proposal around that reality rather than pretending they're desk workers. I'll put something together — seat model, a rollout sequence that starts with one hub as a pilot, and a format mix that fits the drivers' actual day.
 [EXTERNAL] Marcus: A pilot hub is smart. If I try to light up all six hundred at once, the wheels come off. Start with one hub, prove it, then scale.
 [INTERNAL] Sam: My thinking exactly. And a clean pilot gives you the internal proof point to sell the rest — nothing convinces a skeptical hub like another hub's drivers vouching for it.

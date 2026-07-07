@@ -1,4 +1,4 @@
-# Call — Palmetto Hotels × BetterUp · Check-in
+# Call — Palmetto Hotels × BetterBark · Check-in
 Date: 2026-06-26 · Call ID: call-040
 Participants: [EXTERNAL] Wesley Grant, Regional HR Manager (Palmetto Hotels) · [INTERNAL] Derek Okafor, CSM
 
@@ -10,14 +10,14 @@ Participants: [EXTERNAL] Wesley Grant, Regional HR Manager (Palmetto Hotels) · 
 [EXTERNAL] Wesley: No signal is the real luxury now. I took my family to one of our own coastal properties for a few days — staff discount, obviously — and I still ended up putting out fires from a beach chair.
 [INTERNAL] Derek: You can take the manager out of the hotel, but you can't take the hotel out of the manager.
 [EXTERNAL] Wesley: My wife has said exactly those words, less kindly. Okay, what've we got today?
-[INTERNAL] Derek: Just our check-in. See how the program's landing across your properties, catch anything on your mind. You run coaching across, what, twelve hotels now?
+[INTERNAL] Derek: Just our check-in. See how the program's landing across your properties, catch anything on your mind. You run the training benefit across, what, twelve hotels now?
 [EXTERNAL] Wesley: Fourteen as of last month. We added two boutique properties on the coast. So it's fourteen general managers and their deputy managers, plus some corporate folks. About 200 people all told.
 [INTERNAL] Derek: The two boutique ones — those are a different animal from your big convention hotels, right? Smaller, more design-forward?
-[EXTERNAL] Wesley: Completely different. Forty rooms, artisanal everything, a clientele that expects the GM to know their name and their dog's name. Running a boutique is a different skill than running a 300-room conference hotel. The GMs we put in there need a lighter touch and more emotional intelligence.
-[INTERNAL] Derek: Which is a great argument for coaching those GMs specifically — the boutique role is more about the human than the logistics.
-[EXTERNAL] Wesley: Exactly why I enrolled them immediately. The logistics you can train. The "make a guest feel like the only person in the world" part, that's coaching territory.
+[EXTERNAL] Wesley: Completely different. Forty rooms, artisanal everything, a clientele that expects the GM to know their name and their dog's name. Running a boutique is a different skill than running a 300-room conference hotel. The GMs we put in there work brutal, unpredictable hours.
+[INTERNAL] Derek: Which is a great argument for the pet benefit for those GMs specifically — the ones with the least predictable schedules are the ones whose dogs at home suffer for it.
+[EXTERNAL] Wesley: Exactly why I enrolled them immediately. A GM who's never home has a dog that acts out, and then the home stress bleeds into the property. The training gives them somewhere to fix that.
 [INTERNAL] Derek: Well said. And activation's holding up nicely — 73% across the properties, which given how spread out and busy your GMs are is solid.
-[EXTERNAL] Wesley: Hotel GMs are the hardest people in the world to get to sit still. They're firefighting from the moment they walk in. The fact that any of them do coaching is impressive.
+[EXTERNAL] Wesley: Hotel GMs are the hardest people in the world to get to sit still. They're firefighting from the moment they walk in. The fact that any of them do the training is impressive.
 [INTERNAL] Derek: How are they fitting it in?
 [EXTERNAL] Wesley: Mostly early mornings before the property wakes up, or late after the dinner rush settles. They do a lot of it on their phones, honestly. A GM isn't sitting at a desk — they're walking the property, they're in the back office for ten minutes, they grab their phone and do a quick reflection or catch a session.
 [INTERNAL] Derek: So the mobile app is really central for your population.
@@ -29,7 +29,7 @@ Participants: [EXTERNAL] Wesley Grant, Regional HR Manager (Palmetto Hotels) · 
 [INTERNAL] Derek: Go for it.
 [EXTERNAL] Wesley: So a chunk of my GMs are on iPhones — probably 60, 70% of them, it skews Apple in management for some reason. And they've been complaining about getting kicked out of the app.
 [INTERNAL] Derek: Kicked out how — mid-session? Randomly?
-[EXTERNAL] Wesley: No, not randomly, that's the thing. It's specific. They update their phone — you know how Apple pushes those iOS updates, and everyone eventually taps "install tonight" — and then the next time they open the BetterUp app, they've been logged out. It makes them sign in all over again.
+[EXTERNAL] Wesley: No, not randomly, that's the thing. It's specific. They update their phone — you know how Apple pushes those iOS updates, and everyone eventually taps "install tonight" — and then the next time they open the BetterBark app, they've been logged out. It makes them sign in all over again.
 [INTERNAL] Derek: After an iOS update specifically.
 [EXTERNAL] Wesley: After the phone's operating system updates. That's the pattern. The app was fine, they update iOS overnight, they open the app in the morning, and boom — logged out, back to the login screen, gotta re-enter everything.
 [INTERNAL] Derek: And this is happening across multiple people, not just one person with a weird phone.
@@ -52,8 +52,8 @@ Participants: [EXTERNAL] Wesley Grant, Regional HR Manager (Palmetto Hotels) · 
 [EXTERNAL] Wesley: They'll love that. It makes the whole thing feel premium, which matters for how they talk about it to their staff.
 [INTERNAL] Derek: Then consider it done. How's the deputy-manager layer engaging, by the way? Sometimes the GMs take to it but the deputies get left out.
 [EXTERNAL] Wesley: The deputies are actually my most engaged group. I think because they're the ambitious ones — they want to become GMs, so anything that helps them level up, they grab with both hands. My GMs are established; my deputies are hungry.
-[INTERNAL] Derek: The hungry ones. That's your future GM bench, so coaching them is a direct investment in your succession pipeline.
-[EXTERNAL] Wesley: Exactly how I pitch it upstairs. "We're not spending on coaching, we're building our next generation of GMs so we don't have to hire expensive outsiders." Finance likes that framing.
+[INTERNAL] Derek: The hungry ones. That's your future GM bench, so a perk they value is a direct investment in keeping your succession pipeline intact.
+[EXTERNAL] Wesley: Exactly how I pitch it upstairs. "We're not spending on a dog-training benefit, we're holding onto our next generation of GMs so we don't have to hire expensive outsiders." Finance likes that framing.
 [INTERNAL] Derek: It's a good framing because it's true. Growing your own GMs is far cheaper than poaching them. Alright — anything else, or should I let you get back to a hotel that's presumably on fire in some minor way?
 [EXTERNAL] Wesley: Something's always mildly on fire. But no, that's my list — the iOS logout thing and the new-property welcome. Both handled, by the sound of it.
 [INTERNAL] Derek: Both handled. Recap: I'll write up the iOS-update logout issue with your mobile-first impact framing and account details attached, and I'll set up welcome sessions for your two new coastal GMs once you send me their names.

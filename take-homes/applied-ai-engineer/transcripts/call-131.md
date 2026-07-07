@@ -1,4 +1,4 @@
-# Call — Montclair Cosmetics × BetterUp · Support Escalation
+# Call — Montclair Cosmetics × BetterBark · Support Escalation
 Date: 2026-06-26 · Call ID: call-131
 Participants: [EXTERNAL] Sylvie Renard, Global HR Operations Director (Montclair Cosmetics) · [INTERNAL] Derek Okafor, CSM
 

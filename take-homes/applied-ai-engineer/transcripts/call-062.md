@@ -1,4 +1,4 @@
-# Call — BetterUp Internal · QBR Prep Sync
+# Call — BetterBark Internal · QBR Prep Sync
 Date: 2026-06-22 · Call ID: call-062
 Participants: [INTERNAL] Priya Nair, CSM · [INTERNAL] Derek Okafor, CSM · [INTERNAL] Ravi Patel, Support Engineer
 

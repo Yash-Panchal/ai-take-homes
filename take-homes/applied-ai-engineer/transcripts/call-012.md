@@ -1,4 +1,4 @@
-# Call — Gable Group × BetterUp · Admin Check-in
+# Call — Gable Group × BetterBark · Admin Check-in
 Date: 2026-06-21 · Call ID: call-012
 Participants: [EXTERNAL] Devon Wu, People Systems Lead (Gable Group) · [INTERNAL] Sam Oduya, CSM
 

@@ -12,6 +12,10 @@ It is the spine of the loop: submit it **at least 24 hours before your technical
 
 This role connects the systems BetterUp runs on — Gong, Salesforce, Jira, Slack, Google Workspace — and turns AI-automation asks from across the company into shipped, reliable workflows. The signals that matter most — real software-engineering depth, cross-system reliability instincts, and the judgment to know where AI belongs and where it doesn't — show up in code, not on a resume. So we ask you to build, then talk it through.
 
+## The scenario
+
+**BetterBark** is a corporate pet-wellbeing benefit ("good dogs, better workplaces"): companies give their employees dog-training and pet-wellbeing coaching, delivered by professional trainers through virtual and in-person sessions, with dashboards and reports for the program admins. Everything about BetterBark — the company, its customers, its product, its issues — is fictional. You've been handed a month of BetterBark's customer calls.
+
 ## The build
 
 Build an automation that turns a noisy stream of customer-call signal into clean, tracked, de-duplicated product issues — **without filing garbage.** Bugs and feature requests surface on customer calls, disappear into the recording, and never become tracked work. Fix that.
@@ -32,7 +36,7 @@ Then build the scaffolding that makes it trustworthy enough to run on a schedule
 
 ## What's provided (in this folder)
 
-- `transcripts/` — **140 mock call transcripts** (`call-001` … `call-140`), each marking `[EXTERNAL]` vs `[INTERNAL]` speakers: long, meandering, realistic calls between customers and the team, in all their variety.
+- `transcripts/` — **140 mock call transcripts** (`call-001` … `call-140`), each marking `[EXTERNAL]` vs `[INTERNAL]` speakers: long, meandering, realistic calls between BetterBark's customers and its team, in all their variety.
 - `data/existing_issues.json` — the currently tracked (and recently shipped) issues, for de-duplication.
 - `data/dev_labels.json` — **a labeled dev set: expected outcomes for calls 001–015.** Build and tune your eval against these. The other 125 calls are the holdout we grade.
 - `stubs/` — local Jira and Slack sinks (`jira_stub.py`, `slack_stub.py`). They validate and **record the payload they would send** to `stubs/outbox/` — no network, no credentials. They're intentionally naive: they do **not** de-duplicate. Idempotency is your job.

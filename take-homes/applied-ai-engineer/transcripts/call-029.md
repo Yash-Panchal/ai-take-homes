@@ -1,4 +1,4 @@
-# Call — Hanamura Trading × BetterUp · Quarterly Business Review
+# Call — Hanamura Trading × BetterBark · Quarterly Business Review
 Date: 2026-06-18 · Call ID: call-029
 Participants: [EXTERNAL] Kenji Watanabe, People Operations Director (Hanamura Trading) · [INTERNAL] Maya Chen, CSM
 
@@ -11,7 +11,7 @@ Participants: [EXTERNAL] Kenji Watanabe, People Operations Director (Hanamura Tr
 [INTERNAL] Maya: Great. So headline — you're in a really healthy spot. Activation across your enrolled population is at 74%, which is up from 66 last quarter.
 [EXTERNAL] Kenji: That's better than I expected, honestly. We had a rough patch in April where I thought engagement was sliding.
 [INTERNAL] Maya: What happened in April?
-[EXTERNAL] Kenji: Reorg. We folded the Osaka logistics group into the main commercial org, and for a few weeks nobody knew who reported to whom. People stop doing their coaching sessions when they're worried about their jobs.
+[EXTERNAL] Kenji: Reorg. We folded the Osaka logistics group into the main commercial org, and for a few weeks nobody knew who reported to whom. People stop doing their training sessions when they're worried about their jobs.
 [INTERNAL] Maya: That's fair. But it recovered — May and June are both trending up. Your Tokyo commercial team especially, they're your power users.
 [EXTERNAL] Kenji: They love it. My VP over there, Aiko, she's basically become an unpaid evangelist. She brings it up in her staff meetings.
 [INTERNAL] Maya: We should send Aiko something. A mug or nothing, but something.

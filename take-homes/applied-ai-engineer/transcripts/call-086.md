@@ -1,4 +1,4 @@
-# Call — Halcyon Robotics × BetterUp · QBR
+# Call — Halcyon Robotics × BetterBark · QBR
 Date: 2026-06-16 · Call ID: call-086
 Participants: [EXTERNAL] Dr. Elaine Voss, VP People Analytics (Halcyon Robotics) · [EXTERNAL] Tobias Renn, HR Systems Analyst (Halcyon Robotics) · [INTERNAL] Sam Oduya, CSM
 
@@ -21,7 +21,7 @@ Participants: [EXTERNAL] Dr. Elaine Voss, VP People Analytics (Halcyon Robotics)
 [INTERNAL] Sam: Okay, ominous. What's the worry?
 [EXTERNAL] Elaine: Not a worry exactly. More that I'm getting pressure from above to prove out the coaching investment in the language finance speaks, and right now the way I do that is clunky.
 [INTERNAL] Sam: Say more about clunky.
-[EXTERNAL] Elaine: So every month I go into the dashboards, I look at the engagement numbers, the utilization, the wellbeing trend, and I basically screenshot them into a slide deck. Tobias, how many screenshots was the last board pack?
+[EXTERNAL] Elaine: So every month I go into the dashboards, I look at the engagement numbers, the utilization, the program-wellbeing trends, participation, progress milestones, and I basically screenshot them into a slide deck. Tobias, how many screenshots was the last board pack?
 [EXTERNAL] Tobias: For the coaching section? Eleven. I counted because it was miserable.
 [INTERNAL] Sam: Eleven screenshots. Okay.
 [EXTERNAL] Elaine: And here's the thing. Our whole analytics function runs on a proper BI stack. Everything else the board sees is a live dashboard I built. Attrition, comp bands, DEI metrics, hiring funnel, all of it flows into our BI tool and updates automatically.

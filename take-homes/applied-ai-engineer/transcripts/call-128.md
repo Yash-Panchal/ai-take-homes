@@ -1,4 +1,4 @@
-# Call — Kestrel Airlines × BetterUp · QBR
+# Call — Kestrel Airlines × BetterBark · QBR
 Date: 2026-06-25 · Call ID: call-128
 Participants: [EXTERNAL] Deborah Fontaine, VP Talent Development (Kestrel Airlines) · [EXTERNAL] Raj Mehta, L&D Program Manager (Kestrel Airlines) · [INTERNAL] Sam Oduya, CSM
 
@@ -31,7 +31,7 @@ Participants: [EXTERNAL] Deborah Fontaine, VP Talent Development (Kestrel Airlin
 [INTERNAL] Sam: Those are my favorite. Walk me through it.
 [EXTERNAL] Raj: So our ops-center folks — the ones on laptops — have started reporting that during longer coaching sessions, the video just freezes. Like the coach's video image locks up, a still frame, but you can still hear them talking. Audio keeps going fine. It's just the picture that dies.
 [INTERNAL] Sam: The video freezes but the audio continues. Do you have a sense of when in the session it happens?
-[EXTERNAL] Raj: That's the pattern I finally noticed. It's not random. It's around the forty-minute mark. Our sessions run fifty, sixty minutes for the leadership track, and it's like clockwork — you get to roughly forty minutes and the coach's face turns into a photograph.
+[EXTERNAL] Raj: That's the pattern I finally noticed. It's not random. It's around the forty-minute mark. Our sessions run fifty, sixty minutes for the reactive-dog rehabilitation track, and it's like clockwork — you get to roughly forty minutes and the coach's face turns into a photograph.
 [INTERNAL] Sam: Around forty minutes, consistently. And how do people recover from it?
 [EXTERNAL] Raj: They refresh the page. Reload the browser tab and the video comes back. It's annoying because you lose a couple seconds reconnecting, but it works every time. Refresh and you're back in business.
 [INTERNAL] Sam: Refresh recovers it. Is this happening in a particular browser, or across the board?
@@ -48,7 +48,7 @@ Participants: [EXTERNAL] Deborah Fontaine, VP Talent Development (Kestrel Airlin
 [INTERNAL] Sam: Right. So let me capture this properly. How many people are we talking about — is this one or two, or is it widespread in the ops center?
 [EXTERNAL] Raj: I've had it come up from at least five or six different people, and those are just the ones who bothered to tell me. My guess is it's happening to anyone on the corporate side who runs a long session in Chrome.
 [INTERNAL] Sam: That's helpful scope. And the impact — is it disrupting the coaching, or is it more of an annoyance?
-[EXTERNAL] Raj: Somewhere in between. One coach reads body language a lot, apparently, and losing the video mid-session throws off the flow. People deal with it, but it's not a great experience, and for a leadership program where the whole point is presence, staring at a frozen face is a bad look.
+[EXTERNAL] Raj: Somewhere in between. One coach reads body language a lot, apparently, and losing the video mid-session throws off the flow. People deal with it, but it's not a great experience, and for a rehabilitation program where the whole point is reading the dog's body language in real time, staring at a frozen face is a bad look.
 [INTERNAL] Sam: Understood, and that context matters — I'll attach it. Let me read it back so I've got it exactly: ops-center users, laptop, Chrome, in-browser session video freezes to a still frame around the forty-minute mark while audio keeps playing, refreshing the page recovers it, started roughly five to six weeks ago, multiple users affected. That right?
 [EXTERNAL] Raj: That's it exactly. You said it better than I did.
 [INTERNAL] Sam: I'll write that up with your account attached. If you can get me one specific example — a date, a rough time, the coach if they're comfortable — that helps the engineers reproduce it, but honestly what you've given me is already the strongest kind of report because it's a clear pattern.

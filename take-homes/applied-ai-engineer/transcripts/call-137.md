@@ -1,4 +1,4 @@
-# Call — BetterUp Internal · Annual CS Planning
+# Call — BetterBark Internal · Annual CS Planning
 Date: 2026-06-29 · Call ID: call-137
 Participants: [INTERNAL] Priya Nair, CSM · [INTERNAL] Sam Oduya, CSM · [INTERNAL] Derek Okafor, CSM · [INTERNAL] Lena Kowalski, Implementation
 

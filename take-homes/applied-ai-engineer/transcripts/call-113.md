@@ -1,4 +1,4 @@
-# Call — Thistle Brewing × BetterUp · Check-in
+# Call — Thistle Brewing × BetterBark · Check-in
 Date: 2026-06-15 · Call ID: call-113
 Participants: [EXTERNAL] Gordon Pyle, People Ops Lead (Thistle Brewing) · [INTERNAL] Maya Chen, CSM
 
@@ -17,7 +17,7 @@ Participants: [EXTERNAL] Gordon Pyle, People Ops Lead (Thistle Brewing) · [INTE
 [INTERNAL] Maya Chen: That's the good kind of annoying.
 [EXTERNAL] Gordon Pyle: I actually restructured how I run my one-on-ones because of something she said. My team noticed.
 [INTERNAL] Maya Chen: That's great to hear. How's adoption looking across the rest of the crew? Not asking for a report, just your read.
-[EXTERNAL] Gordon Pyle: The office folks are steady. Where I'm fighting is the production floor. Brewers, packaging, the warehouse guys. They finish a shift, they don't want to open an app and reflect on their leadership journey.
+[EXTERNAL] Gordon Pyle: The office folks are steady. Where I'm fighting is the production floor. Brewers, packaging, the warehouse guys. They finish a shift, they don't want to open an app and work on their dog's training plan.
 [INTERNAL] Maya Chen: That's a genuinely hard population. Frontline hourly is the toughest nut in this whole business.
 [EXTERNAL] Gordon Pyle: Right? And I don't want to force it. Mandatory reflection is an oxymoron.
 [INTERNAL] Maya Chen: I agree with you. Forced adoption tends to poison the well. Have you tried the small-group session format for that crowd? Sometimes the peer thing lands better than solo.

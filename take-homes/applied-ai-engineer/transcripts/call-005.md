@@ -1,4 +1,4 @@
-# Call — Vanta Retail × BetterUp · Monthly Sync
+# Call — Vanta Retail × BetterBark · Monthly Sync
 Date: 2026-06-18 · Call ID: call-005
 Participants: [EXTERNAL] Jordan Mills, Workplace Tech (Vanta Retail) · [INTERNAL] Sam Oduya, CSM
 
@@ -8,8 +8,8 @@ Participants: [EXTERNAL] Jordan Mills, Workplace Tech (Vanta Retail) · [INTERNA
 [EXTERNAL] Jordan: I don't, that's the secret. Coffee and spite. Last year I set a personal record — forty-one password resets before lunch on the first Monday.
 [INTERNAL] Sam: That deserves a plaque. Or at least a very large mug.
 [EXTERNAL] Jordan: My wife got me a mug that says "I survived the seasonal ramp." It's aspirational. I have not, technically, survived one gracefully yet.
-[INTERNAL] Sam: The back-to-school ramp. Do any of those seasonal folks touch BetterUp, or is it corporate-only?
-[EXTERNAL] Jordan: Corporate and store leadership only, thankfully. The seasonal army doesn't get coaching seats, they get a name tag and a lanyard. So from your perspective my population is stable — it's the corporate side that matters and that number barely moves.
+[INTERNAL] Sam: The back-to-school ramp. Do any of those seasonal folks touch BetterBark, or is it corporate-only?
+[EXTERNAL] Jordan: Corporate and store leadership only, thankfully. The seasonal army doesn't get training seats for their dogs, they get a name tag and a lanyard. So from your perspective my population is stable — it's the corporate side that matters and that number barely moves.
 [INTERNAL] Sam: That's a relief for both of us. I've got customers whose headcount swings by thousands twice a year and reconciling seat counts against that is its own part-time job.
 [EXTERNAL] Jordan: Oh, I don't envy whoever's managing a company that scales like an accordion. We're boring by comparison. Corporate hovers right around where it's been for two years.
 [INTERNAL] Sam: Boring is my love language. Steady seat count means I get to spend our time on the stuff that actually helps people instead of chasing spreadsheets.

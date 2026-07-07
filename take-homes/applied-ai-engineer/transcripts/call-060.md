@@ -1,4 +1,4 @@
-# Call — Harlow Health × BetterUp · Program Review
+# Call — Harlow Health × BetterBark · Program Review
 Date: 2026-06-19 · Call ID: call-060
 Participants: [EXTERNAL] Gwen Achterberg, Program Manager, Clinician Wellbeing (Harlow Health) · [EXTERNAL] Tobias Reyes, Coordinator (Harlow Health) · [INTERNAL] Maya Chen, CSM
 
@@ -12,7 +12,7 @@ Participants: [EXTERNAL] Gwen Achterberg, Program Manager, Clinician Wellbeing (
 [INTERNAL] Maya: The archaeology of the departed coordinator. A universal experience. Okay — I've got us for the program review. My plan: engagement snapshot, then the clinician-specific stuff you flagged, then Tobias's ops questions. Good?
 [EXTERNAL] Gwen: Good.
 [INTERNAL] Maya: Sharing the dashboard. So — you're at 890 active clinicians against 1,000 seats. For a clinician population, that activation rate is honestly exceptional. Physicians are famously hard to get into any program.
-[EXTERNAL] Gwen: They are. The thing that cracked it was framing coaching as burnout prevention rather than "development." Nobody with an MD wants to be "developed." Everybody wants to not burn out.
+[EXTERNAL] Gwen: They are. The thing that cracked it was framing the dog training as burnout prevention rather than "development." Nobody with an MD wants to be "developed." Everybody wants to come home to a calm dog instead of chaos.
 [INTERNAL] Maya: That reframe is gold and I'm going to steal it, credited to you, for other healthcare accounts.
 [EXTERNAL] Gwen: Steal freely. If it helps another clinician not quit medicine, take it.
 [INTERNAL] Maya: Completion's at 74%, which is up four points. The night-shift nurses in particular are engaging more than last quarter — did something change there?

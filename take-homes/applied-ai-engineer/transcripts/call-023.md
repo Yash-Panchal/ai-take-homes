@@ -1,4 +1,4 @@
-# Call — Nordvik Shipping × BetterUp · QBR
+# Call — Nordvik Shipping × BetterBark · QBR
 Date: 2026-06-23 · Call ID: call-023
 Participants: [EXTERNAL] Henrik Bauer, VP HR (Nordvik Shipping) · [EXTERNAL] Lise Andersen, HR Operations Analyst (Nordvik Shipping) · [INTERNAL] Maya Chen, CSM
 
@@ -6,7 +6,7 @@ Participants: [EXTERNAL] Henrik Bauer, VP HR (Nordvik Shipping) · [EXTERNAL] Li
 [EXTERNAL] Henrik: Tight is correct. I have a board thing after this. Let's do: are people using it, is it working, and then Lise has a reporting requirement that's become important. That last one is the real reason we asked for the full slot.
 [INTERNAL] Maya: Then we'll spend our time there. Quick on the first two: activation is 71% across your 800 seats, steady quarter over quarter. Your shore-side staff engage well; your seafaring crew less so, which is expected given connectivity at sea.
 [EXTERNAL] Henrik: The ships are always going to lag. I've made peace with it. Bandwidth on a container vessel is not what it is in the office.
-[EXTERNAL] Lise: And just so it's on the record, the seafaring numbers aren't a program failure, they're a physics failure. There's no coaching app that beats a satellite blackout.
+[EXTERNAL] Lise: And just so it's on the record, the seafaring numbers aren't a program failure, they're a physics failure. There's no dog-training app that beats a satellite blackout.
 [INTERNAL] Maya: Agreed, and I'll never present the ship numbers as an adoption problem — it's a connectivity constraint, full stop. Right, and your shore numbers carry the program. Completion rates on the shore side are actually strong — better than most logistics accounts I run.
 [EXTERNAL] Henrik: Give me the shore-side completion number specifically, I want it for my own deck.
 [INTERNAL] Maya: Shore-side session completion is running about 82% — meaning of the sessions booked, 82% actually happen and aren't cancelled or no-showed. Logistics as a sector usually sits in the 60s, so you're well above.
@@ -21,7 +21,7 @@ Participants: [EXTERNAL] Henrik Bauer, VP HR (Nordvik Shipping) · [EXTERNAL] Li
 [INTERNAL] Maya: Cost center and region as core attributes on every person. Got it.
 [EXTERNAL] Lise: Right. Now — when I pull data out of your platform, I get member name, email, activation status, session counts, that whole standard set. What I cannot get is cost center or region, because your system doesn't know they exist. There's nowhere to put them.
 [INTERNAL] Maya: So the platform has no field for cost center or region on a member profile, and therefore they're not in your exports.
-[EXTERNAL] Lise: Exactly. And here's why it's a problem and not just a nice-to-have. My CFO wants coaching engagement broken down by cost center, because that's how he thinks about everything — cost center is his native language. And our COO wants it by region, because she runs the org geographically. I currently cannot give either of them what they want from your data.
+[EXTERNAL] Lise: Exactly. And here's why it's a problem and not just a nice-to-have. My CFO wants training engagement broken down by cost center, because that's how he thinks about everything — cost center is his native language. And our COO wants it by region, because she runs the org geographically. I currently cannot give either of them what they want from your data.
 [INTERNAL] Maya: How are you handling it now, if the data isn't there?
 [EXTERNAL] Lise: Manually, and it's miserable. I export the member list from you, then I export a separate roster from our HRIS that has everyone's cost center and region, and I VLOOKUP the two together in a spreadsheet by email address. Every single month. It takes me the better part of a day and it breaks constantly because people's emails don't always match perfectly between systems.
 [INTERNAL] Maya: So you're stitching our export to your HRIS roster by hand, monthly, and it's brittle on the email match.

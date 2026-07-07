@@ -1,4 +1,4 @@
-# Call — BetterUp Internal · Support triage rotation sync
+# Call — BetterBark Internal · Support triage rotation sync
 Date: 2026-06-20 · Call ID: call-090
 Participants: [INTERNAL] Ravi Patel, Support Engineer · [INTERNAL] Lena Kowalski, Implementation · [INTERNAL] Derek Okafor, CSM · [INTERNAL] Sam Oduya, CSM
 

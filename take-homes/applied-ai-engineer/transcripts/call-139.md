@@ -1,4 +1,4 @@
-# Call — Andes Mining Co × BetterUp · Program Review
+# Call — Andes Mining Co × BetterBark · Program Review
 Date: 2026-06-30 · Call ID: call-139
 Participants: [EXTERNAL] Isabel Marquez, Global L&D Lead (Andes Mining Co) · [EXTERNAL] Diego Fuentes, Regional HR Manager, LatAm (Andes Mining Co) · [INTERNAL] Maya Chen, CSM
 

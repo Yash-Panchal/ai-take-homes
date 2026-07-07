@@ -1,4 +1,4 @@
-# Call — BetterUp Internal · CS Roadmap Chatter (Bi-weekly)
+# Call — BetterBark Internal · CS Roadmap Chatter (Bi-weekly)
 Date: 2026-06-24 · Call ID: call-106
 Participants: [INTERNAL] Derek Okafor, CSM · [INTERNAL] Maya Chen, CSM · [INTERNAL] Sam Oduya, CSM · [INTERNAL] Priya Nair, CSM
 

@@ -1,4 +1,4 @@
-# Call — Golden Hour Photography × BetterUp · Check-in
+# Call — Golden Hour Photography × BetterBark · Check-in
 Date: 2026-06-25 · Call ID: call-094
 Participants: [EXTERNAL] Nadia Belhaj, Head of People & Culture (Golden Hour Photography) · [INTERNAL] Priya Nair, CSM
 

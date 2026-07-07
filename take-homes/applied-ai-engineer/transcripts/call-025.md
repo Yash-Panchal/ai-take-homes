@@ -1,4 +1,4 @@
-# Call — BetterUp Internal · CS Pipeline Review
+# Call — BetterBark Internal · CS Pipeline Review
 Date: 2026-06-24 · Call ID: call-025
 Participants: [INTERNAL] Derek Okafor, CSM · [INTERNAL] Sam Oduya, CSM · [INTERNAL] Maya Chen, CSM · [INTERNAL] Lena Kowalski, Implementation
 

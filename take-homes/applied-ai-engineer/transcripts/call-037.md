@@ -1,4 +1,4 @@
-# Call — Osprey Rail × BetterUp · Program Review
+# Call — Osprey Rail × BetterBark · Program Review
 Date: 2026-06-24 · Call ID: call-037
 Participants: [EXTERNAL] Declan Murphy, Head of Talent (Osprey Rail) · [INTERNAL] Sam Oduya, CSM
 
@@ -14,10 +14,10 @@ Participants: [EXTERNAL] Declan Murphy, Head of Talent (Osprey Rail) · [INTERNA
 [EXTERNAL] Declan: I do, and it's the main thing I want to spend time on. But let's do the numbers first so I look responsible.
 [INTERNAL] Sam: Ha. So — you've got about 350 enrolled, operations and engineering leadership mostly. Activation's at 76%, up a touch from last quarter. Sessions are steady. Your engineering managers are your heaviest users, which is a bit unusual — usually it's the general-management types.
 [EXTERNAL] Declan: That's deliberate. We pushed hard on the engineering side because that's where our retention risk is. A good rail engineer can walk into any infrastructure job in the country. We have to give them a reason to stay that isn't just money.
-[INTERNAL] Sam: And coaching's part of that reason.
-[EXTERNAL] Declan: It's part of it. It says "we're investing in you as a leader, not just squeezing you for uptime." Whether it works, I'll know in a year when I see who stayed.
-[INTERNAL] Sam: Fair measure. Any early signals on that front — anyone tell you directly the coaching's why they're sticking around?
-[EXTERNAL] Declan: One of my best signaling engineers, actually. He had a competing offer — more money, cushier job at a consultancy. He turned it down. And in the conversation about why, he mentioned the development he was getting here, the coaching included. Not the only factor, but on the list.
+[INTERNAL] Sam: And the pet benefit's part of that reason.
+[EXTERNAL] Declan: It's part of it. It says "we're investing in your whole life, not just squeezing you for uptime." Whether it works, I'll know in a year when I see who stayed.
+[INTERNAL] Sam: Fair measure. Any early signals on that front — anyone tell you directly the benefit's why they're sticking around?
+[EXTERNAL] Declan: One of my best signaling engineers, actually. He had a competing offer — more money, cushier job at a consultancy. He turned it down. And in the conversation about why, he mentioned the stuff we offer here, the dog-training benefit included. Not the only factor, but on the list.
 [INTERNAL] Sam: On the list is meaningful. When a retention decision comes down to a few factors and you're one of them, you mattered.
 [EXTERNAL] Declan: That's how I read it. I'm not going to overclaim — the man also likes his team and hates commuting to the city. But it counted.
 [INTERNAL] Sam: Honest attribution, I respect it. Alright, the numbers are healthy. Tell me about the feature you want.
@@ -25,7 +25,7 @@ Participants: [EXTERNAL] Declan Murphy, Head of Talent (Osprey Rail) · [INTERNA
 [INTERNAL] Sam: Their own notes from their coaching sessions.
 [EXTERNAL] Declan: Right. So the way it works now — the member and coach have sessions, notes get taken, there's a reflection, action items, all that. And members can see them in the platform. But they can't take them with them. They can't export or download their own notes.
 [INTERNAL] Sam: And they want a copy.
-[EXTERNAL] Declan: They want a copy, and the reasons are actually good ones. First, some of them want to bring their coaching insights into their performance reviews. Like, "here's the growth area I've been working on with my coach, here's my progress." They want to reference their own development journey in their own words.
+[EXTERNAL] Declan: They want a copy, and the reasons are actually good ones. First, some of them want to bring their dog's training notes to their own vet or a new trainer. Like, "here's the behavior we've been working on with the coach, here's the progress." They want to reference their dog's whole training journey in their own words.
 [INTERNAL] Sam: That's a legitimate use.
 [EXTERNAL] Declan: Second — and this one's more emotional — a few people have said they want their notes because the coaching has genuinely mattered to them and they want to keep it. Like a journal. If they ever left the company and lost platform access, all that reflection just... vanishes. And that feels wrong to them. It's their growth, their words.
 [INTERNAL] Sam: That's a really human reason, honestly. It's their own reflective work and right now it's trapped behind a login they might lose.
@@ -42,8 +42,8 @@ Participants: [EXTERNAL] Declan Murphy, Head of Talent (Osprey Rail) · [INTERNA
 [EXTERNAL] Declan: Good. As long as it's captured properly I'm happy. I know these things take time. I just want it in the queue with a real rationale, not as a throwaway.
 [INTERNAL] Sam: It'll be in with a real rationale. You have my word. Anything else on your list, or is that the headline?
 [EXTERNAL] Declan: That's the headline. Before I forget, one bit of praise — the coach matching for my engineers has been excellent. A couple of them wanted coaches with a technical or operations background, and they got good matches. One of my signaling leads has a coach who used to run infrastructure teams. They speak the same language.
-[INTERNAL] Sam: That's the ideal — a coach who doesn't need the domain explained. The whole session goes to the leadership work instead of translation.
-[EXTERNAL] Declan: Exactly. He said the best part is not having to explain what a failure at 2am feels like. The coach just gets the weight of it.
+[INTERNAL] Sam: That's the ideal — a coach who doesn't need the context explained. The whole session goes to the training work instead of translation.
+[EXTERNAL] Declan: Exactly. He said the best part is not having to explain what a working dog's temperament is like. The coach just gets the weight of it.
 [INTERNAL] Sam: That shared context is worth a lot. Good to hear the matching's landing.
 [EXTERNAL] Declan: It's landing well. Everything else is minor. The scheduling's smooth, the coaches are strong, no technical complaints. Honestly the notes thing is the only real gap between "good" and "great" for us right now.
 [INTERNAL] Sam: That's a good place to be — one clear, well-reasoned ask and otherwise healthy. Much easier than a laundry list of vague grievances.
@@ -56,7 +56,7 @@ Participants: [EXTERNAL] Declan Murphy, Head of Talent (Osprey Rail) · [INTERNA
 [EXTERNAL] Declan: Then we've done the job. Send me the recap so I can tell my members "it's officially requested" — that alone will buy me some goodwill.
 [INTERNAL] Sam: I'll send the recap today with the feature request called out explicitly so you can forward it. Recap: I'm filing the member-owned session-notes download request, policy-gated so orgs can allow or restrict it, with your retention-and-ownership rationale attached.
 [EXTERNAL] Declan: One more, purely logistical — when the signaling project wraps in the autumn, I'll have a cohort of exhausted engineers coming off eighteen months of hell. Can we do something for them specifically? A reset, almost.
-[INTERNAL] Sam: That's a great use case — a post-project recovery focus. We can orient their coaching around decompression and re-engagement, not just forward-looking development. Coming off a grind like that, people need to reset before they can grow.
+[INTERNAL] Sam: That's a great use case — a post-project recovery focus. We can orient their training sessions around decompression and re-engagement, not just forward-looking goals. Coming off a grind like that, people need to reset before they take on anything new at home.
 [EXTERNAL] Declan: Exactly. I don't want them to burn out at the finish line, which is when it usually happens. You survive the marathon and collapse a step past the tape.
 [INTERNAL] Sam: The post-crunch collapse is real and predictable. Let's plan for it now so it's ready when they cross the line. I'll note it for our autumn conversation.
 [EXTERNAL] Declan: Perfect. That's exactly what I needed. Thanks, Sam.

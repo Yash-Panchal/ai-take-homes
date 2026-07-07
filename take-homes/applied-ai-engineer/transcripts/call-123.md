@@ -1,4 +1,4 @@
-# Call — Oakhaven Senior Living × BetterUp · QBR
+# Call — Oakhaven Senior Living × BetterBark · QBR
 Date: 2026-06-25 · Call ID: call-123
 Participants: [EXTERNAL] Constance Reyes, Director of Talent (Oakhaven Senior Living) · [INTERNAL] Maya Chen, CSM
 
@@ -29,7 +29,7 @@ Participants: [EXTERNAL] Constance Reyes, Director of Talent (Oakhaven Senior Li
 [INTERNAL] Maya Chen: Perfect, I'll set it up. Now — anything else on your mind? Program direction, coaching focus, anything.
 [EXTERNAL] Constance Reyes: There is one thing, and it's not a complaint about you, it's more of a heads-up. I want to be transparent because we've had a good relationship.
 [INTERNAL] Maya Chen: I appreciate transparency. What's up?
-[EXTERNAL] Constance Reyes: We got pitched by one of your competitors. Lyra. Pretty aggressively, actually. Their salesperson reached out to our CHRO directly, went over my head.
+[EXTERNAL] Constance Reyes: We got pitched by one of your competitors. PackMind. Pretty aggressively, actually. Their salesperson reached out to our CHRO directly, went over my head.
 [INTERNAL] Maya Chen: That's good for me to know. What were they pitching? I'd rather understand it than pretend it didn't happen.
 [EXTERNAL] Constance Reyes: A few things. The one that got our CHRO's attention was — they claimed they have twenty-four-seven live chat support. Like, instant human support any time, day or night. Our CHRO liked that because our communities operate around the clock, night shifts and all.
 [INTERNAL] Maya Chen: That's a fair thing for a twenty-four-hour operation to care about. Let me be straight with you about where we are on that, so you're comparing accurately.

@@ -1,4 +1,4 @@
-# Call — Grafton Utilities × BetterUp · Renewal Planning
+# Call — Grafton Utilities × BetterBark · Renewal Planning
 Date: 2026-06-20 · Call ID: call-031
 Participants: [EXTERNAL] Harold Finch, VP People (Grafton Utilities) · [INTERNAL] Sam Oduya, CSM
 
@@ -7,16 +7,16 @@ Participants: [EXTERNAL] Harold Finch, VP People (Grafton Utilities) · [INTERNA
 [INTERNAL] Sam: Completely agree, which is why I wanted to start early. Your term's up end of September, so we've got a good runway. How's the summer treating the grid — you folks always seem to be bracing for something.
 [EXTERNAL] Harold: We're in peak-load season. When it's hot, everyone runs their air conditioning, and my operations people don't sleep. It's our version of a retailer's holiday rush, except if we fail people's food spoils and their grandmothers overheat.
 [INTERNAL] Sam: Higher stakes than a missed Black Friday sale.
-[EXTERNAL] Harold: Considerably. Which is part of why I care about the leadership development — the people running those control rooms during a heat wave are making real-time decisions under pressure. I want them steady.
+[EXTERNAL] Harold: Considerably. Which is part of why I care about the dog program — the people running those control rooms during a heat wave are making real-time decisions under pressure. A calm dog at home is one less thing eating at them. I want them steady.
 [INTERNAL] Sam: That's a compelling throughline for the renewal story, actually. We'll come back to it. Good. So walk me through where we are.
 [INTERNAL] Sam: Sure. You're currently on 600 seats, you've been on the platform two years, and your utilization has been steady. The question for renewal is really: same size, bigger, smaller, and any changes to the mix.
 [EXTERNAL] Harold: Let me give you the lay of the land on our end and you can tell me what's realistic.
 [INTERNAL] Sam: Please.
 [EXTERNAL] Harold: We're a regulated utility. Our budget cycle is glacial and our finance team treats every recurring cost like a personal insult. So the framing that works for me internally is "flat or justified growth," never "surprise increase."
 [INTERNAL] Sam: Understood. Before the numbers — how's the current program actually landing? Usage-wise you've been steady, but I care more about whether your people find it valuable.
-[EXTERNAL] Harold: They do, more than I expected honestly. My commercial and corporate leaders took to it fast. The engineering managers were slower — engineers are skeptical of anything that isn't a schematic — but even they've come around. I had a plant manager tell me his coach helped him not fire someone he'd have regretted firing.
+[EXTERNAL] Harold: They do, more than I expected honestly. My commercial and corporate leaders took to it fast. The engineering managers were slower — engineers are skeptical of anything that isn't a schematic — but even they've come around. I had a plant manager tell me his trainer helped him fix a fear-biting problem he'd have otherwise had to rehome the dog over.
 [INTERNAL] Sam: That's a real outcome. A retained employee is worth more than the whole program cost.
-[EXTERNAL] Harold: That's the math I run in my head. One good decision pays for a lot of coaching seats.
+[EXTERNAL] Harold: That's the math I run in my head. One good decision pays for a lot of training seats.
 [INTERNAL] Sam: What does the population look like heading into next year — growing, stable?
 [EXTERNAL] Harold: Stable-ish. We're not hiring aggressively. Utilities don't exactly have a talent gold rush. But we are pushing coaching deeper into our field-operations leadership, which is a group we hadn't really touched.
 [INTERNAL] Sam: The field-ops leaders — that's new. How many?

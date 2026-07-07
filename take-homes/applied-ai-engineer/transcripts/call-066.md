@@ -1,4 +1,4 @@
-# Call — Pillar & Oak × BetterUp · Check-in
+# Call — Pillar & Oak × BetterBark · Check-in
 Date: 2026-06-26 · Call ID: call-066
 Participants: [EXTERNAL] Gregory Tam, Head of Talent (Pillar & Oak) · [INTERNAL] Maya Chen, CSM
 
@@ -8,11 +8,11 @@ Participants: [EXTERNAL] Gregory Tam, Head of Talent (Pillar & Oak) · [INTERNAL
 [EXTERNAL] Gregory: Just under ninety. We added a whole motion-design team this year, which is why I bumped our seats last renewal, if you remember.
 [INTERNAL] Maya: I remember — you went from sixty to ninety seats. Did the motion team fill those, or are you sitting on headroom?
 [EXTERNAL] Gregory: Filled them, basically. We're at maybe eighty-two active, so a little headroom but not much.
-[INTERNAL] Maya: Healthy. How's that motion team taking to coaching? Creatives can be a tough crowd for anything that smells like management-speak.
-[EXTERNAL] Gregory: Surprisingly into it. Turns out even people who reject authority want someone to talk to about their careers. Who knew.
+[INTERNAL] Maya: Healthy. How's that motion team taking to the training? Creatives can be a tough crowd for anything that smells like a lecture.
+[EXTERNAL] Gregory: Surprisingly into it. Turns out even people who reject authority want someone to talk to about their dogs. Who knew.
 [INTERNAL] Maya: Everyone wants a thinking partner, they just don't want a boss.
-[EXTERNAL] Gregory: That's it exactly. The second it feels like performance management they're out. The second it feels like a smart friend who happens to know the industry, they're in.
-[INTERNAL] Maya: That framing is why creative shops either love coaching or bounce off it hard — it's all in whether it reads as development or surveillance.
+[EXTERNAL] Gregory: That's it exactly. The second it feels like being graded they're out. The second it feels like a smart friend who happens to know dogs, they're in.
+[INTERNAL] Maya: That framing is why creative shops either love the program or bounce off it hard — it's all in whether it reads as help or surveillance.
 [EXTERNAL] Gregory: We landed on the right side of that, thankfully. Okay, what's the actual agenda here?
 [INTERNAL] Maya: This is a check-in, so no agenda, honestly. I mostly wanted to see how things are landing and hear anything on your mind. How's the program feeling from your seat?
 [EXTERNAL] Gregory: Good, mostly. The numbers are fine, people are booking, I've got no fires. Honestly there's just one thing nagging at me and I can't quite put my finger on it, which is annoying.
@@ -34,10 +34,10 @@ Participants: [EXTERNAL] Gregory Tam, Head of Talent (Pillar & Oak) · [INTERNAL
 [EXTERNAL] Gregory: When you put it that way, yeah. If it were real, my motion team would be roasting it in the group chat.
 [INTERNAL] Maya: Is there a group chat where app complaints usually surface? Sometimes that's a better early-warning system than tickets.
 [EXTERNAL] Gregory: Oh, absolutely. We have a "#tech-gripes" channel that is pure venom. If something's actually broken, it's in there within an hour, usually with a meme.
-[INTERNAL] Maya: And has BetterUp shown up in #tech-gripes lately?
+[INTERNAL] Maya: And has BetterBark shown up in #tech-gripes lately?
 [EXTERNAL] Gregory: ...No. Now that I check my memory, no. The most recent gripe was about the printer, as always.
 [INTERNAL] Maya: The printer is the eternal villain of every office.
-[EXTERNAL] Gregory: The printer will outlive us all out of pure spite. But no, nothing about BetterUp in there.
+[EXTERNAL] Gregory: The printer will outlive us all out of pure spite. But no, nothing about BetterBark in there.
 [INTERNAL] Maya: That's genuinely useful — a venom-filled gripe channel that's silent on us is stronger evidence than any dashboard I could pull.
 [EXTERNAL] Gregory: Yeah, I'm now fairly convinced I imagined it.
 [INTERNAL] Maya: Let me try one more angle so I'm not just talking you out of it. Is there a particular moment you remember it feeling slow — a day, a specific thing you were doing?
@@ -51,8 +51,8 @@ Participants: [EXTERNAL] Gregory Tam, Head of Talent (Pillar & Oak) · [INTERNAL
 [INTERNAL] Maya: Don't — I'd rather you raise the fog than sit on a real problem because it wasn't fully formed yet. Raising early is the right instinct, it just didn't have enough to grab onto this time.
 [EXTERNAL] Gregory: Appreciate you not making me feel dumb about it.
 [INTERNAL] Maya: Never. Okay, changing gears — anything on the actual concrete stuff? Coaches, content, seats?
-[EXTERNAL] Gregory: Coaches are good. Content, the creatives want more stuff on managing creative burnout specifically, but that's a wish, not a complaint.
-[INTERNAL] Maya: I'll pass the creative-burnout content wish to our content team as a demand signal — that's a genuinely underserved topic, so it's useful to hear.
+[EXTERNAL] Gregory: Coaches are good. Content, the creatives want more stuff on dogs in small apartments specifically, since half of them are in studios, but that's a wish, not a complaint.
+[INTERNAL] Maya: I'll pass the small-space-dog content wish to our content team as a demand signal — that's a genuinely underserved topic, so it's useful to hear.
 [EXTERNAL] Gregory: Cool. And seats are fine at ninety, we're not growing again until next year probably.
 [INTERNAL] Maya: Any hiring on the horizon I should know about for planning?
 [EXTERNAL] Gregory: Maybe a couple of designers in Q1, nothing that'd move the seat count much.

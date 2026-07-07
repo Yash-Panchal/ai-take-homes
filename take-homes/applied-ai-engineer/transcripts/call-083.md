@@ -1,4 +1,4 @@
-# Call — Osier Textiles × BetterUp · Support escalation
+# Call — Osier Textiles × BetterBark · Support escalation
 Date: 2026-06-30 · Call ID: call-083
 Participants: [EXTERNAL] Gwen Marsh, HR Analytics Lead (Osier Textiles) · [INTERNAL] Priya Nair, CSM
 

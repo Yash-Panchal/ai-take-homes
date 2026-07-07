@@ -1,4 +1,4 @@
-# Call — Drummond Steel × BetterUp · Support Escalation Debrief
+# Call — Drummond Steel × BetterBark · Support Escalation Debrief
 Date: 2026-06-16 · Call ID: call-099
 Participants: [EXTERNAL] Curtis Vane, IT Systems Lead (Drummond Steel) · [INTERNAL] Ravi Patel, Support Engineer · [INTERNAL] Derek Okafor, CSM
 
@@ -10,10 +10,10 @@ Participants: [EXTERNAL] Curtis Vane, IT Systems Lead (Drummond Steel) · [INTER
 [EXTERNAL] Curtis: Pittsburgh's headquarters, but I cover all four mills — Pittsburgh, the one outside Gary, Birmingham Alabama, and the little specialty shop in Ohio. IT for a steel company is mostly keeping thirty-year-old machines talking to five-year-old software, so a coaching platform is honestly the easy part of my week.
 [INTERNAL] Derek: I'll take "easy part of your week," we'll put it on a mug.
 [INTERNAL] Ravi: I'm going to hold you to the mug.
-[EXTERNAL] Curtis: You'll be waiting. Anyway. Rollout's been good. We've got about six hundred people on it now — plant managers, shift supervisors, the safety leadership track especially has been popular. Steel is a business where a bad safety culture literally kills people, so anything that makes our supervisors better listeners, I'm for it.
+[EXTERNAL] Curtis: You'll be waiting. Anyway. Rollout's been good. We've got about six hundred people on it now — plant managers, shift supervisors, the workplace-safety track especially has been popular. Steel is a business where a bad safety culture literally kills people, so anything that makes our supervisors calmer and steadier at home carries into the shift, I'm for it.
 [INTERNAL] Derek: The stakes in your industry make the safety-leadership angle land differently than it does at, say, a software company. It's not abstract.
 [EXTERNAL] Curtis: There's nothing abstract about a molten steel pour. You listen to your crew or someone gets hurt. Coaching that makes a supervisor actually hear a worker's "hey, that doesn't look right" — that's not a soft skill to us, that's a hard safety control.
-[INTERNAL] Derek: The safety leadership cohort numbers have been strong on our side too. Engagement's above where most manufacturing accounts land.
+[INTERNAL] Derek: The workplace-safety cohort numbers have been strong on our side too. Engagement's above where most manufacturing accounts land.
 [EXTERNAL] Curtis: The guys grumble about it and then quietly do the sessions. That's how you know it's working with this crowd. If they said they loved it I'd assume they were lying.
 [INTERNAL] Ravi: That's a very steel answer.
 [EXTERNAL] Curtis: We are a very steel people.
@@ -48,9 +48,9 @@ Participants: [EXTERNAL] Curtis Vane, IT Systems Lead (Drummond Steel) · [INTER
 [EXTERNAL] Curtis: Eight's holding fine. I just wanted to confirm I wasn't going to discover next week that the proxy was also messing with that. It's not — people stay logged in the full shift. Good.
 [INTERNAL] Derek: Anything else on the tech side, or can we spend the last few minutes on the fun stuff?
 [EXTERNAL] Curtis: What's the fun stuff to a CSM?
-[INTERNAL] Derek: Expanding your safety leadership cohort, obviously. That's my idea of a party.
+[INTERNAL] Derek: Expanding your workplace-safety cohort, obviously. That's my idea of a party.
 [EXTERNAL] Curtis: Ha. Actually, not a crazy topic. We're bringing the Ohio specialty shop's supervisors on next quarter — they got skipped in the first wave because they're small, forty people, and the argument was they were too small to matter. I disagree. Small crew, high-precision work, one mistake is expensive in a way that a big mill absorbs and a small shop doesn't.
-[INTERNAL] Derek: I'd argue the small precision shop is exactly where leadership coaching pays back fastest. Fewer people means each supervisor's behavior is a bigger fraction of the culture.
+[INTERNAL] Derek: I'd argue the small precision shop is exactly where the coaching pays back fastest. Fewer people means each supervisor's behavior is a bigger fraction of the culture.
 [EXTERNAL] Curtis: That's my argument to the CFO too, almost word for word. I'll steal your phrasing.
 [INTERNAL] Derek: Steal freely. Do you want me to put together a small-cohort proposal — pricing and rollout timeline for the Ohio forty?
 [EXTERNAL] Curtis: Yeah, send it. Low pressure, next quarter's budget, but I want it in hand so when the window opens I can move fast.

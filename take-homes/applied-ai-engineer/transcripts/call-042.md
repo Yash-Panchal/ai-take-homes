@@ -1,4 +1,4 @@
-# Call — Meraki Tech × BetterUp · Check-in
+# Call — Meraki Tech × BetterBark · Check-in
 Date: 2026-06-29 · Call ID: call-042
 Participants: [EXTERNAL] Wei Lin Chua, People Programs Lead (Meraki Tech) · [INTERNAL] Priya Nair, CSM
 
@@ -13,7 +13,7 @@ Participants: [EXTERNAL] Wei Lin Chua, People Programs Lead (Meraki Tech) · [IN
 [INTERNAL] Priya: My favorite order. Go.
 [EXTERNAL] Wei Lin: So we're a tech company, engineers and product people, spread across Singapore, a team in Sydney, and a smaller group in Tokyo. About 260 people enrolled. And the engineers, who I was sure would ignore anything HR touched, have really taken to it.
 [INTERNAL] Priya: The engineers surprised you.
-[EXTERNAL] Wei Lin: Completely. I think it's because we positioned it as "leveling up," which is language engineers respond to. Nobody wants "development." Everybody wants to level up.
+[EXTERNAL] Wei Lin: Completely. I think it's because we positioned it as "leveling up your dog," which is language engineers respond to. Nobody wants "obedience class." Everybody wants to level up.
 [INTERNAL] Priya: The framing that speaks their language. That's smart. And the numbers back it — you're at 80% activation, which for an engineering-heavy population is genuinely excellent.
 [EXTERNAL] Wei Lin: I'm proud of it. I ran a similar program at my last company and we couldn't crack 50%. The difference here is the leveling-up framing and, honestly, that a few senior engineers vouched for it early.
 [INTERNAL] Priya: Peer credibility from respected engineers. That's the unlock every time. A staff engineer saying "this is actually useful" is worth more than any HR email.
@@ -29,10 +29,10 @@ Participants: [EXTERNAL] Wei Lin Chua, People Programs Lead (Meraki Tech) · [IN
 [INTERNAL] Priya: Nothing concerning. Your no-show rate is low, session ratings are high, and engagement is climbing month over month even in Sydney. You're running a genuinely healthy program.
 [EXTERNAL] Wei Lin: Good. That matches my sense. Okay — so here's the one real thing, and it's a weird one. It's about the notifications.
 [INTERNAL] Priya: Tell me.
-[EXTERNAL] Wei Lin: So we use the goal-tracking feature a lot. People set development goals and the platform sends reminder notifications — "time to check in on your goal," that kind of nudge. And they're useful, people like the nudges. Except the timing is bizarre for us.
+[EXTERNAL] Wei Lin: So we use the goal-tracking feature a lot. People set training goals and the platform sends reminder notifications — "time to check in on your goal," that kind of nudge. And they're useful, people like the nudges. Except the timing is bizarre for us.
 [INTERNAL] Priya: Bizarre how?
-[EXTERNAL] Wei Lin: They arrive in the middle of the night. Like, genuinely the middle of the night. I've had multiple people tell me their goal reminder woke them up at three in the morning. One of my engineers in Singapore joked that his phone buzzes at 3am to remind him to work on his "get better work-life balance" goal, which — the irony was not lost on anyone.
-[INTERNAL] Priya: Oh no. A work-life-balance goal reminder at 3am.
+[EXTERNAL] Wei Lin: They arrive in the middle of the night. Like, genuinely the middle of the night. I've had multiple people tell me their goal reminder woke them up at three in the morning. One of my engineers in Singapore joked that his phone buzzes at 3am to remind him to work on his "stop the dog barking at night" goal, which — the irony was not lost on anyone.
+[INTERNAL] Priya: Oh no. A stop-the-nighttime-barking reminder at 3am.
 [EXTERNAL] Wei Lin: I laughed for about a minute. But it's a real problem. People are turning off notifications entirely to avoid being woken up, which means they lose the nudges that were actually helping. So they're forced to choose between "get useful reminders" and "sleep through the night."
 [INTERNAL] Priya: And this is the goal-tracking reminders specifically, arriving around 3am local time.
 [EXTERNAL] Wei Lin: Around 3am, yeah. It's not exact — some people say 2:30, some say 3:30 — but it's clearly the small hours. And here's my theory, tell me if it's crazy. Three a.m. in Singapore is what, mid-afternoon in the US? Like early afternoon US time?
@@ -58,7 +58,7 @@ Participants: [EXTERNAL] Wei Lin Chua, People Programs Lead (Meraki Tech) · [IN
 [EXTERNAL] Wei Lin: Perfect. That'll help them feel less like an afterthought.
 [INTERNAL] Priya: Consider it done. Alright — let me recap. I'll write up the goal-reminder timezone issue with the US-hours-tuning root cause, your APAC multi-region impact, and both the complaint count and total affected population. And I'll set up a Sydney-daytime welcome session for your newer cohort.
 [EXTERNAL] Wei Lin: That's everything. Thank you for taking the notification thing seriously — my engineers will be delighted to eventually sleep through the night.
-[INTERNAL] Priya: Their work-life-balance goals demand it. Talk soon, Wei Lin — enjoy the rest of your morning.
+[INTERNAL] Priya: Their dogs' bedtime goals demand it. Talk soon, Wei Lin — enjoy the rest of your morning.
 [EXTERNAL] Wei Lin: One last thing, quickly — we're hiring aggressively in Sydney over the next two quarters. Probably another forty, fifty people. I'll want them in the program as they onboard. Is scaling the seats going to be a hassle?
 [INTERNAL] Priya: Not at all. We can add seats as you grow rather than in one big block, so you're not paying ahead of headcount. Just give me a heads-up as the Sydney hiring firms up and I'll handle the provisioning side.
 [EXTERNAL] Wei Lin: Perfect. That's the flexibility I need — I can't predict exactly when the offers land.

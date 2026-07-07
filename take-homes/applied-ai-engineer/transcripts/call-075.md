@@ -1,4 +1,4 @@
-# Call — Maple Crest Bank × BetterUp · Support escalation
+# Call — Maple Crest Bank × BetterBark · Support escalation
 Date: 2026-06-19 · Call ID: call-075
 Participants: [EXTERNAL] Corinne Boudreau, IT Security Manager (Maple Crest Bank) · [EXTERNAL] Devon Marsh, Help Desk Lead (Maple Crest Bank) · [INTERNAL] Ravi Patel, Support Engineer
 
@@ -9,7 +9,7 @@ Participants: [EXTERNAL] Corinne Boudreau, IT Security Manager (Maple Crest Bank
 [INTERNAL] Ravi Patel: Perfect, that's exactly the perspective I need. I've got the ticket you opened in front of me but I'd rather hear it in your own words first. Support notes lose a lot.
 [EXTERNAL] Corinne Boudreau: Appreciate that. So — context, we're a Canadian bank, all our staff are on Canadian mobile numbers. That matters, you'll see.
 [INTERNAL] Ravi Patel: Noted. Go ahead.
-[EXTERNAL] Corinne Boudreau: We turned on two-factor for the BetterUp login a few weeks back. Security requirement, non-negotiable on our side, all vendor apps need MFA.
+[EXTERNAL] Corinne Boudreau: We turned on two-factor for the BetterBark login a few weeks back. Security requirement, non-negotiable on our side, all vendor apps need MFA.
 [INTERNAL] Ravi Patel: Makes sense for a bank. You went with SMS codes for the second factor?
 [EXTERNAL] Corinne Boudreau: SMS, yes. And that's where the problem is. Devon, you want to describe what the help desk is seeing?
 [EXTERNAL] Devon Marsh: Sure. So we've been getting a steady trickle of tickets — people saying the text code doesn't work. They type it in and it's rejected as expired.

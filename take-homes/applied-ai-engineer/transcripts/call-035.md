@@ -1,4 +1,4 @@
-# Call — Glasshouse Studios × BetterUp · Check-in
+# Call — Glasshouse Studios × BetterBark · Check-in
 Date: 2026-06-23 · Call ID: call-035
 Participants: [EXTERNAL] Tobias Reyes, Creative Operations Manager (Glasshouse Studios) · [INTERNAL] Derek Okafor, CSM
 
@@ -17,7 +17,7 @@ Participants: [EXTERNAL] Tobias Reyes, Creative Operations Manager (Glasshouse S
 [EXTERNAL] Tobias: It is. And it means more hiring, which means more people I'll eventually want in the coaching program, so tuck that away for later.
 [INTERNAL] Derek: Tucked. We'll talk expansion when the headcount firms up. For now — the little things.
 [INTERNAL] Derek: My favorite kind of list. Let's do the health picture first. You've got about 120 people enrolled — art directors, design leads, a few producers. Activation's at 82%, which for a creative shop is honestly impressive. Creatives famously resist anything that smells like corporate development.
-[EXTERNAL] Tobias: We resist it violently. The trick was not calling it "leadership development." We called it "having someone smart in your corner." Marketing to creatives is a dark art.
+[EXTERNAL] Tobias: We resist it violently. The trick was not calling it "a corporate dog program." We called it "having someone smart in your corner for your dog." Marketing to creatives is a dark art.
 [INTERNAL] Derek: Whatever you did, it worked. Sessions are steady, satisfaction's high. The producers especially are heavy users.
 [EXTERNAL] Tobias: Producers are the ones holding everything together while the designers have feelings. Of course they need coaching. They're the load-bearing walls.
 [INTERNAL] Derek: The unsung heroes. Are the designers actually using it too, or is it mostly the producers?

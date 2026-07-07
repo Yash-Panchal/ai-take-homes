@@ -1,4 +1,4 @@
-# Call — Bloomfield Nurseries × BetterUp · Check-in
+# Call — Bloomfield Nurseries × BetterBark · Check-in
 Date: 2026-06-28 · Call ID: call-126
 Participants: [EXTERNAL] Rosa Ibáñez, People & Culture Manager (Bloomfield Nurseries) · [INTERNAL] Tomás Vela, CSM
 
@@ -19,7 +19,7 @@ Participants: [EXTERNAL] Rosa Ibáñez, People & Culture Manager (Bloomfield Nur
 [INTERNAL] Tomás Vela: I will never turn down a call with no complaints. Tell me what's working.
 [EXTERNAL] Rosa Ibáñez: So here's the thing. We're a family business, third generation. A lot of our managers grew up in the greenhouses and got promoted because they knew plants, not because they knew how to manage people.
 [INTERNAL] Tomás Vela: The classic promotion-for-craft problem. Great grower, never taught to lead.
-[EXTERNAL] Rosa Ibáñez: Exactly. And I've been trying for years to get them leadership development that doesn't feel like corporate nonsense. They'd roll their eyes at a seminar. But the coaching — it snuck past their defenses.
+[EXTERNAL] Rosa Ibáñez: Exactly. And I've been trying for years to get them dog-training help that doesn't feel like corporate nonsense. They'd roll their eyes at a seminar. But the coaching — it snuck past their defenses.
 [INTERNAL] Tomás Vela: How so?
 [EXTERNAL] Rosa Ibáñez: Because it's one-on-one and it's about them, their actual problems, not some framework on a slide. My head grower, Miguel, who I was CERTAIN would refuse — he's now one of the most engaged people we have. He told me his coaching sessions changed how he handles his crew.
 [INTERNAL] Tomás Vela: That's a real conversion. The skeptic becoming the advocate is the best possible outcome.

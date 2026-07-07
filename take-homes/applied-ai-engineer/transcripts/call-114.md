@@ -1,4 +1,4 @@
-# Call — Galway Foods × BetterUp · Support escalation
+# Call — Galway Foods × BetterBark · Support escalation
 Date: 2026-06-16 · Call ID: call-114
 Participants: [EXTERNAL] Deirdre Foran, IT Service Manager (Galway Foods) · [INTERNAL] Ravi Patel, Support Engineer
 

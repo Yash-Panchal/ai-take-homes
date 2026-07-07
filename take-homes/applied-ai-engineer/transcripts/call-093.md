@@ -1,4 +1,4 @@
-# Call — Whitcomb Partners × BetterUp · Support escalation
+# Call — Whitcomb Partners × BetterBark · Support escalation
 Date: 2026-06-24 · Call ID: call-093
 Participants: [EXTERNAL] Daniel Ford, Learning & Development Manager (Whitcomb Partners) · [INTERNAL] Sam Oduya, CSM · [INTERNAL] Ravi Patel, Support Engineer
 

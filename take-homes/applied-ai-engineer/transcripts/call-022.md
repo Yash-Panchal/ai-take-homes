@@ -1,4 +1,4 @@
-# Call — Cavetto Restaurants × BetterUp · Relationship Check-in
+# Call — Cavetto Restaurants × BetterBark · Relationship Check-in
 Date: 2026-06-22 · Call ID: call-022
 Participants: [EXTERNAL] Sofia Marchetti, People Director (Cavetto Restaurants) · [INTERNAL] Tomás Vela, CSM
 
@@ -16,8 +16,8 @@ Participants: [EXTERNAL] Sofia Marchetti, People Director (Cavetto Restaurants) 
 [EXTERNAL] Sofia: Honestly? Tired but good. We hit a stride this year. The management team finally gels. You know we had that horrible stretch where I lost three GMs in a season?
 [INTERNAL] Tomás: I remember. You were putting out fires nightly. It was rough to watch from the sidelines.
 [EXTERNAL] Sofia: It was worse to live. But it's calm now. The GMs we have are steady, they back each other up, the culture stopped being a revolving door. I don't fully know what changed but I'm not going to poke it.
-[INTERNAL] Tomás: Don't poke a working thing. Though for what it's worth, from where I sit, the leadership coaching landed with that GM group right around when things stabilized. I won't claim credit — restaurants are a hundred variables — but the timing wasn't nothing.
-[EXTERNAL] Sofia: No, I think it helped. My head chef — you'd have to meet him, he's a beautiful monster — he actually told me his coaching "made him a less scary boss." His words. His line cooks stopped quitting. Cause and effect, I'd bet money.
+[INTERNAL] Tomás: Don't poke a working thing. Though for what it's worth, from where I sit, the dog training landed with that GM group right around when things stabilized. I won't claim credit — restaurants are a hundred variables — but the timing wasn't nothing.
+[EXTERNAL] Sofia: No, I think it helped. My head chef — you'd have to meet him, he's a beautiful monster — he actually told me the dog training "made him a less scary boss." His words. Turns out you can't stay a monster after you've spent Saturday teaching a labradoodle to sit. His line cooks stopped quitting. Cause and effect, I'd bet money.
 [INTERNAL] Tomás: A less scary boss is a real KPI in that world. I'm glad. That's the kind of thing that doesn't show up in a dashboard but shows up in the kitchen.
 [EXTERNAL] Sofia: You know what's funny, my sous chef — the one who came up under the monster — she started her own coaching a few months back. Didn't tell me, I found out because she was suddenly running the Tuesday line meetings herself.
 [INTERNAL] Tomás: The best kind of surprise. She just — grew, quietly.

@@ -1,4 +1,4 @@
-# Call — Juniper Media × BetterUp · Renewal Check-in
+# Call — Juniper Media × BetterBark · Renewal Check-in
 Date: 2026-06-16 · Call ID: call-015
 Participants: [EXTERNAL] Marcus Bell, People Ops Lead (Juniper Media) · [INTERNAL] Priya Nair, CSM
 
@@ -23,7 +23,7 @@ Participants: [EXTERNAL] Marcus Bell, People Ops Lead (Juniper Media) · [INTERN
 [INTERNAL] Priya: Tables buy peace. Noted. How's adoption actually feeling on the ground, separate from the numbers?
 [EXTERNAL] Marcus: Honestly good. The comms team took to it. Our creative directors, less so, but that's creative directors. They resist calendars on principle.
 [INTERNAL] Priya: The eternal struggle. Anything blocking the resistant ones, or is it just temperament?
-[EXTERNAL] Marcus: Temperament. One of them told me coaching was "for people who need it," and then booked four sessions the next week, so.
+[EXTERNAL] Marcus: Temperament. One of them told me dog training was "for people whose dogs need it," and then booked four sessions the next week, so.
 [INTERNAL] Priya: The loudest skeptics convert the hardest. Every time.
 [EXTERNAL] Marcus: It's annoying how often that's true. Okay, one actual thing, and I don't know if it's a you-thing or a us-thing.
 [INTERNAL] Priya: Go for it.

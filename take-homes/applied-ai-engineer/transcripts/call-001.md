@@ -1,4 +1,4 @@
-# Call — Meridian Health × BetterUp · CS Sync
+# Call — Meridian Health × BetterBark · CS Sync
 Date: 2026-06-15 · Call ID: call-001
 Participants: [EXTERNAL] Dana Whitfield, Ops Manager (Meridian Health) · [INTERNAL] Priya Nair, CSM
 
@@ -14,10 +14,10 @@ Participants: [EXTERNAL] Dana Whitfield, Ops Manager (Meridian Health) · [INTER
 [EXTERNAL] Dana: That's the read internally, yeah. Nobody's threatening to leave. They just want the number, and they want it before the fiscal cutoff.
 [INTERNAL] Priya: We'll get you the number in plenty of time. Let me share the usage dashboard. Can you see it?
 [EXTERNAL] Dana: I see it. "Meridian Health — June." Yep.
-[INTERNAL] Priya: Great. So — top line, you're at about 78% activation across the org, up from 71 last quarter. Session volume is up too, especially in your clinical leadership cohort.
+[INTERNAL] Priya: Great. So — top line, you're at about 78% activation across the org, up from 71 last quarter. Session volume is up too, especially in your clinic staff's new-adopters cohort.
 [EXTERNAL] Dana: That tracks with what I hear internally. The clinical directors have actually been evangelizing it, which never happens with software.
 [INTERNAL] Priya: That's the dream, honestly. What do you think tipped them? Usually clinical leaders are the hardest room.
-[EXTERNAL] Dana: Two things. One, we stopped calling it "wellness," which they associate with fruit baskets and mandatory yoga. Two, one of the directors — Marisol, runs the cardiac unit — had a genuinely good coach match and she will not shut up about it in leadership meetings.
+[EXTERNAL] Dana: Two things. One, we stopped calling it "wellness," which they associate with fruit baskets and mandatory yoga. Two, one of the directors — Marisol, runs the cardiac unit — had a genuinely good trainer match for her rescue mutt and she will not shut up about it in leadership meetings.
 [INTERNAL] Priya: A convert with a microphone is worth more than any campaign we could run. We should send Marisol something.
 [EXTERNAL] Dana: Do not send Marisol swag, she'll be suspicious of it. She's the type who reads the terms and conditions on a free coffee mug.
 [INTERNAL] Priya: Understood — no swag for Marisol. Handwritten note, maybe, when she least expects it. Okay. Session volume is up about 14% quarter over quarter, no-show rate is holding at 5%, which for a clinical population pulling twelve-hour shifts is genuinely good.
@@ -58,10 +58,10 @@ Participants: [EXTERNAL] Dana Whitfield, Ops Manager (Meridian Health) · [INTER
 [EXTERNAL] Dana: That would actually be useful. If I can show Riverside's own trend line, I can manage their expectations instead of comparing them to the flagship, which just demoralizes everyone.
 [INTERNAL] Priya: I'll set up a saved filter scoped to Riverside and send you the link. Assuming the card cooperates and shows the right number, of course.
 [EXTERNAL] Dana: Ha. Yes. Assuming that.
-[INTERNAL] Priya: Fair shot. Deserved. Anything on the coaching-quality side? Any matches not landing?
-[EXTERNAL] Dana: A couple of re-match requests, normal volume. The one thing I'd flag — not a complaint, more an observation — is that a few people asked whether they can switch coaches without it feeling like a breakup. There's some social awkwardness to it.
+[INTERNAL] Priya: Fair shot. Deserved. Anything on the training-quality side? Any matches not landing?
+[EXTERNAL] Dana: A couple of re-match requests, normal volume. The one thing I'd flag — not a complaint, more an observation — is that a few people asked whether they can switch trainers without it feeling like a breakup. There's some social awkwardness to it.
 [INTERNAL] Priya: That's real, and it's more of a program-design thing than a product thing. We have some language you can put in your comms that frames re-matching as normal and expected, takes the sting out of it. I'll send you the snippet.
-[EXTERNAL] Dana: That'd help. People treat it like they're firing their therapist.
+[EXTERNAL] Dana: That'd help. People treat it like they're firing their dog's therapist.
 [INTERNAL] Priya: The re-match guilt is universal. Okay — I think that's the substance. Should we do the renewal timeline before I let you go?
 [EXTERNAL] Dana: Yes. Procurement wants numbers by mid-July. Can you get me the proposed pricing before the 10th?
 [INTERNAL] Priya: I'll have the proposal to you by July 8, and let's book a walk-through for the week after so you've got time to digest it before procurement does their thing.

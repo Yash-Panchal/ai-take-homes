@@ -1,4 +1,4 @@
-# Call — Umber & Co × BetterUp · Renewal
+# Call — Umber & Co × BetterBark · Renewal
 Date: 2026-06-30 · Call ID: call-084
 Participants: [EXTERNAL] Desmond Achebe, Chief People Officer (Umber & Co) · [EXTERNAL] Nadia Rostova, HR Business Partner (Umber & Co) · [INTERNAL] Sam Oduya, CSM
 

@@ -1,4 +1,4 @@
-# Call — Atlas Financial × BetterUp · Security Follow-up
+# Call — Atlas Financial × BetterBark · Security Follow-up
 Date: 2026-06-20 · Call ID: call-010
 Participants: [EXTERNAL] Renee Park, IT Security Lead (Atlas Financial) · [INTERNAL] Tomás Vela, Implementation
 

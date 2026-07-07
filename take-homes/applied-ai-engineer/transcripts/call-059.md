@@ -1,11 +1,11 @@
-# Call — Sterling Mutual × BetterUp · Admin Sync
+# Call — Sterling Mutual × BetterBark · Admin Sync
 Date: 2026-06-18 · Call ID: call-059
 Participants: [EXTERNAL] Yvonne Castellanos, Director of People Operations (Sterling Mutual) · [EXTERNAL] Preet Sandhu, Information Security Analyst (Sterling Mutual) · [INTERNAL] Sam Oduya, CSM · [INTERNAL] Lena Kowalski, Implementation
 
 [INTERNAL] Sam: Morning, everyone. I've got Lena from our implementation team on with me since Yvonne mentioned there'd be some technical questions from security. Preet, welcome.
 [EXTERNAL] Preet: Thanks. First time on one of these, so bear with me if I ask something obvious.
 [INTERNAL] Sam: There are no obvious questions from security, only expensive ones. Ask away.
-[EXTERNAL] Yvonne: Ha. Preet's here because we're going through our annual controls review and the auditors are asking pointed questions about all our vendors, BetterUp included.
+[EXTERNAL] Yvonne: Ha. Preet's here because we're going through our annual controls review and the auditors are asking pointed questions about all our vendors, BetterBark included.
 [INTERNAL] Sam: Which audit framework, if you can say? It helps me point you at the right documentation.
 [EXTERNAL] Preet: SOC 2 Type II for us, and the auditor's leaning on the CC6 access-control criteria this year. That's where most of my questions come from.
 [INTERNAL] Sam: That's helpful context — CC6 is exactly the access-control family, so your questions will be well-targeted. We've got a current SOC 2 report I can share under NDA if your team hasn't pulled it.
@@ -33,7 +33,7 @@ Participants: [EXTERNAL] Yvonne Castellanos, Director of People Operations (Ster
 [INTERNAL] Lena: I'm noting the view-logging as a secondary want but flagging the core role as the primary. How often would you use it — is this a once-a-year audit thing or ongoing?
 [EXTERNAL] Preet: Both, honestly. Once a year for the external auditor, but our internal security team would use it continuously. I'd want to periodically review the admin roster and integration settings myself without holding a privileged account I don't need day to day.
 [INTERNAL] Sam: So it's not a niche audit-week feature — it's how your own security team would prefer to operate the rest of the year.
-[EXTERNAL] Preet: Yes. I don't want write access to BetterUp. I've never wanted it. I just want to see.
+[EXTERNAL] Preet: Yes. I don't want write access to BetterBark. I've never wanted it. I just want to see.
 [INTERNAL] Lena: That framing is going straight into the request — "security team wants continuous read-only visibility, does not want and actively does not want write access." The impact is clean: today the only way to get full visibility is a privileged account, which creates an audit finding.
 [EXTERNAL] Yvonne: Can I add the business-impact angle? This is starting to affect renewals — not with you, with our clients. Sterling's a financial services firm, and our own enterprise clients are pushing these controls requirements down to us and our vendors. If I can't check the "read-only auditor role" box on a vendor questionnaire, it's a mark against the tool when I renew internally.
 [INTERNAL] Sam: That's important and I want it in the record — this isn't only Preet's audit, it's showing up in Sterling's own client questionnaires, which makes it a retention-adjacent request.

@@ -1,4 +1,4 @@
-# Call — Windmark Insurance × BetterUp · QBR
+# Call — Windmark Insurance × BetterBark · QBR
 Date: 2026-06-18 · Call ID: call-074
 Participants: [EXTERNAL] Lorraine Petty, VP People (Windmark Insurance) · [EXTERNAL] Neil Ashby, HRIS Analyst (Windmark Insurance) · [INTERNAL] Priya Nair, CSM
 

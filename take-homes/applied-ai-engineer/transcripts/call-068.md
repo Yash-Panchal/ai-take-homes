@@ -1,4 +1,4 @@
-# Call — Sunhaven Resorts × BetterUp · Renewal
+# Call — Sunhaven Resorts × BetterBark · Renewal
 Date: 2026-06-28 · Call ID: call-068
 Participants: [EXTERNAL] Marisol Reyes, VP People & Culture (Sunhaven Resorts) · [INTERNAL] Priya Nair, CSM
 
@@ -11,7 +11,7 @@ Participants: [EXTERNAL] Marisol Reyes, VP People & Culture (Sunhaven Resorts) �
 [INTERNAL] Priya: Eleven properties. Congrats on Tulum, by the way — that was a long time coming.
 [EXTERNAL] Marisol: Two years of construction delays, but it's open and it's gorgeous. Now I just have to keep it staffed, which is the eternal problem.
 [INTERNAL] Priya: And turnover is exactly where the coaching program tends to earn its money in hospitality, right? The retention angle.
-[EXTERNAL] Marisol: That's literally why I fought for the budget. My thesis was: if we develop our supervisors instead of burning through them, we stop the revolving door at the level that matters most.
+[EXTERNAL] Marisol: That's literally why I fought for the budget. My thesis was: if we give our supervisors something that actually helps their life at home instead of burning through them, we stop the revolving door at the level that matters most.
 [INTERNAL] Priya: And is the thesis holding up in the numbers?
 [EXTERNAL] Marisol: It's... actually working, which is a nice thing to be able to say at a renewal. Our supervisor-level turnover is down noticeably at the properties that adopted early. I can't prove it's all coaching, but the correlation's hard to ignore.
 [INTERNAL] Priya: Correlation you can defend is more than most people-programs can show. Don't undersell it.

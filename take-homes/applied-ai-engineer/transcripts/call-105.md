@@ -1,4 +1,4 @@
-# Call — Delft Imports × BetterUp · Quarterly Business Review
+# Call — Delft Imports × BetterBark · Quarterly Business Review
 Date: 2026-06-23 · Call ID: call-105
 Participants: [EXTERNAL] Joost Meijer, Head of L&D (Delft Imports) · [EXTERNAL] Saskia Bloem, HR Operations Analyst (Delft Imports) · [INTERNAL] Maya Chen, CSM
 

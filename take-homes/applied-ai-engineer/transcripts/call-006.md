@@ -1,4 +1,4 @@
-# Call — Harborline Media × BetterUp · Sync
+# Call — Harborline Media × BetterBark · Sync
 Date: 2026-06-18 · Call ID: call-006
 Participants: [EXTERNAL] Aisha Bello, People Ops (Harborline Media) · [INTERNAL] Tomás Vela, CSM
 

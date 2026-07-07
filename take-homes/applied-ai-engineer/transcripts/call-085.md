@@ -1,4 +1,4 @@
-# Call — Cardinal Couriers × BetterUp · Check-in
+# Call — Cardinal Couriers × BetterBark · Check-in
 Date: 2026-06-15 · Call ID: call-085
 Participants: [EXTERNAL] Marcus Whitfield, People Operations Lead (Cardinal Couriers) · [INTERNAL] Priya Nair, CSM
 

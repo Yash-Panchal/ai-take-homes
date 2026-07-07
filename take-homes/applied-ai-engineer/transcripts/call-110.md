@@ -1,4 +1,4 @@
-# Call — Standish & Gray × BetterUp · Check-in
+# Call — Standish & Gray × BetterBark · Check-in
 Date: 2026-06-15 · Call ID: call-110
 Participants: [EXTERNAL] Eleanor Standish, Managing Partner (Standish & Gray) · [INTERNAL] Derek Okafor, CSM
 
@@ -15,7 +15,7 @@ Participants: [EXTERNAL] Eleanor Standish, Managing Partner (Standish & Gray) ·
 [INTERNAL] Derek: Which is exactly why you came to us, if I remember the origin story.
 [EXTERNAL] Eleanor: It is. And I want to spend a good chunk of this call telling you it worked, because I was a skeptic and I think skeptics owe you their conversion story when it happens.
 [INTERNAL] Derek: I will happily receive a conversion story. Convert away.
-[EXTERNAL] Eleanor: So. My studio directors — the people who run each of the three studios — were the first cohort. These are senior architects, decades of experience, egos to match, all of whom privately believed they didn't need coaching because they'd been running teams for years. Getting them to engage was like getting cats to take a bath.
+[EXTERNAL] Eleanor: So. My studio directors — the people who run each of the three studios — were the first cohort, dogs and all. These are senior architects, decades of experience, egos to match, all of whom privately believed they didn't need coaching because they'd been running teams for years. Getting them to engage was like getting cats to take a bath.
 [INTERNAL] Derek: The senior-expert cohort is always the hardest sell. They have the most experience and therefore the most conviction that they've got nothing to learn.
 [EXTERNAL] Eleanor: Precisely. And the thing that turned it was — one of my directors, Roland, the most skeptical of the three, had a real crisis. His best young designer was about to quit. Burnout, felt unseen, the usual story. Roland's instinct was to throw money at her, which is what architects do, and it wasn't working. His coach helped him see that she didn't want a raise, she wanted to feel her work mattered and that she had a path. He had a genuinely different conversation with her than he would have, and she stayed.
 [INTERNAL] Derek: That's a retention save with a real dollar value — losing a strong young designer costs you a search, a ramp, and a hit to the team's morale.

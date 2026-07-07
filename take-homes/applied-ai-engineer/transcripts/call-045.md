@@ -1,4 +1,4 @@
-# Call — Bellweather PR × BetterUp · Support Escalation
+# Call — Bellweather PR × BetterBark · Support Escalation
 Date: 2026-06-17 · Call ID: call-045
 Participants: [EXTERNAL] Sebastian Croix, Brand Director (Bellweather PR) · [INTERNAL] Priya Nair, CSM
 
@@ -15,7 +15,7 @@ Participants: [EXTERNAL] Sebastian Croix, Brand Director (Bellweather PR) · [IN
 [INTERNAL] Priya: Don't sell her short, but let me note that distinction, because it's actually the useful clue. It looks fine on a standard display and soft on your high-resolution Retina display. That pattern usually means the logo is being shown at higher pixel density than the image file has resolution for, so it gets upscaled and softens.
 [EXTERNAL] Sebastian: I don't care about the mechanism, Priya, I care that when I present to clients and pull up the platform, our identity looks amateurish. Do you understand what that does to us? We sell polish. We ARE polish.
 [INTERNAL] Priya: I do understand, and I'm not dismissing it. When do you actually pull up the dashboard in front of clients, out of curiosity? I want to know how often this is biting you.
-[EXTERNAL] Sebastian: In new-business pitches, sometimes, to show we invest in our people's development. It's a credibility move. And a blurry logo undercuts the entire message. It's like showing up to a pitch with a coffee stain on your shirt.
+[EXTERNAL] Sebastian: In new-business pitches, sometimes, to show we invest in our people — even their dogs get a benefit. It's a credibility move. And a blurry logo undercuts the entire message. It's like showing up to a pitch with a coffee stain on your shirt.
 [INTERNAL] Priya: Understood, and that's a fair concern in your world specifically. It's a real cosmetic defect and I'll get it in front of the right people. I want to be straight with you about scope, though, so you can plan: this affects how sharp the logo looks on the highest-resolution screens. It doesn't affect functionality, it's not visible to most of your members on standard displays, and it's not data or access. So it's real, and it's worth fixing, and it is not a platform outage.
 [EXTERNAL] Sebastian: To you it's cosmetic. To me it's existential.
 [INTERNAL] Priya: I understand it feels that way when brand is your whole product. Here's what I can actually do to help you today, which is more useful than me agreeing it's a P0. Two things. First, there's a very good chance we can make this go away right now.

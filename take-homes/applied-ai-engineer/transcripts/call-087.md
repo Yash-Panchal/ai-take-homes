@@ -1,4 +1,4 @@
-# Call — Petals & Stems Florists × BetterUp · Check-in
+# Call — Petals & Stems Florists × BetterBark · Check-in
 Date: 2026-06-17 · Call ID: call-087
 Participants: [EXTERNAL] Renata Cho, Director of People (Petals & Stems Florists) · [INTERNAL] Maya Chen, CSM
 

@@ -1,4 +1,4 @@
-# Call — Berkfield University × BetterUp · Program Review
+# Call — Berkfield University × BetterBark · Program Review
 Date: 2026-06-24 · Call ID: call-026
 Participants: [EXTERNAL] Dr. Alan Whitmore, Director of Faculty Development (Berkfield University) · [EXTERNAL] Rosa Ibarra, Program Coordinator (Berkfield University) · [INTERNAL] Sam Oduya, CSM
 
@@ -8,9 +8,9 @@ Participants: [EXTERNAL] Dr. Alan Whitmore, Director of Faculty Development (Ber
 [EXTERNAL] Alan: You understand us frighteningly well. Rosa runs the day-to-day, so she'll have the real ground truth. I mostly provide gravitas and sign things.
 [EXTERNAL] Rosa: He provides more than that but he likes the bit. Okay — engagement's actually decent for faculty, which is a low bar but we cleared it. We've got the department chairs and a good chunk of tenure-track folks booking regularly.
 [INTERNAL] Sam: Let me pull it up — you're at 64% activation among the enrolled faculty, which for higher ed is genuinely strong. Faculty are famously resistant to anything that smells like a mandate.
-[EXTERNAL] Rosa: We were very careful to make it opt-in and to never call it "training." The word "training" makes a professor's skin crawl. We called it "confidential leadership coaching" and suddenly they were interested.
-[INTERNAL] Sam: Framing is everything with faculty. "Coaching" respects their autonomy; "training" implies they need fixing.
-[EXTERNAL] Alan: You've clearly done this before. Yes. A tenured professor would rather perish than be "trained."
+[EXTERNAL] Rosa: We were very careful to make it opt-in and to never call it "obedience class." The words "obedience class" make a professor's skin crawl. We called it "confidential dog coaching" and suddenly they were interested.
+[INTERNAL] Sam: Framing is everything with faculty. "Coaching" respects their autonomy; "obedience class" implies their dog needs fixing.
+[EXTERNAL] Alan: You've clearly done this before. Yes. A tenured professor would rather perish than have their dog "trained."
 [INTERNAL] Sam: Noted for life. Okay — how's the actual coaching landing for the people who are in it?
 [EXTERNAL] Rosa: Really well, mostly. The department chairs especially — being a chair is basically middle management with none of the training and all of the politics, and they've found the coaching useful for the "how do I manage my colleagues who are also my peers" problem.
 [INTERNAL] Sam: That's the hardest management situation there is — authority over people who see you as an equal. Glad it's helping there.

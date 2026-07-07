@@ -1,4 +1,4 @@
-# Call — Copperline Energy × BetterUp · QBR
+# Call — Copperline Energy × BetterBark · QBR
 Date: 2026-06-16 · Call ID: call-072
 Participants: [EXTERNAL] Gerald Voss, HR Systems Lead (Copperline Energy) · [EXTERNAL] Priti Shah, L&D Program Manager (Copperline Energy) · [INTERNAL] Maya Chen, CSM
 
@@ -15,7 +15,7 @@ Participants: [EXTERNAL] Gerald Voss, HR Systems Lead (Copperline Energy) · [EX
 [EXTERNAL] Priti Shah: We front-loaded the comms this time. Learned from the first rollout.
 [INTERNAL] Maya Chen: It shows. Utilization's at seventy-four percent. Session satisfaction is four-point-six out of five.
 [EXTERNAL] Gerald Voss: That satisfaction number is the one leadership cares about. Keep it above four-five and I have an easy renewal conversation.
-[INTERNAL] Maya Chen: Understood. We'll watch it. Priti, on the program side — how's the leadership track landing?
+[INTERNAL] Maya Chen: Understood. We'll watch it. Priti, on the program side — how's the new-puppy foundations track landing?
 [EXTERNAL] Priti Shah: Good. The frontline supervisor cohort especially. Those folks never got development budget before, they're eating it up.
 [INTERNAL] Maya Chen: That's a population that's historically underserved. Glad it's resonating.
 [EXTERNAL] Priti Shah: We're seeing it in retention early data. Correlation not causation, but the story writes itself for leadership.

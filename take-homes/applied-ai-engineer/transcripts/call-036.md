@@ -1,4 +1,4 @@
-# Call — Ferris & Lake Accounting × BetterUp · Relationship Check-in
+# Call — Ferris & Lake Accounting × BetterBark · Relationship Check-in
 Date: 2026-06-23 · Call ID: call-036
 Participants: [EXTERNAL] Nadia Osei, Chief People Officer (Ferris & Lake Accounting) · [INTERNAL] Priya Nair, CSM
 
@@ -21,17 +21,17 @@ Participants: [EXTERNAL] Nadia Osei, Chief People Officer (Ferris & Lake Account
 [INTERNAL] Priya: And rightfully so, arguably.
 [EXTERNAL] Nadia: Oh, I'm on their side. I think the model is broken. But I'm also running a firm that has to compete, so I'm caught between "this is unsustainable" and "this is how the industry works." It's a genuine tension.
 [INTERNAL] Priya: That's a hard seat to sit in. The person who sees the problem clearly and is also constrained by the system.
-[EXTERNAL] Nadia: That's exactly it. And it's part of why the coaching program matters to me, honestly. It's one of the few things I can point to and say "we're investing in you as a person, not just as billable hours."
+[EXTERNAL] Nadia: That's exactly it. And it's part of why the training program matters to me, honestly. It's one of the few things I can point to and say "we're investing in your life outside the ledger, not just your billable hours" — and for a lot of my people that life has a dog in it.
 [INTERNAL] Priya: That reframe is powerful, especially in a profession that measures people in six-minute increments.
 [EXTERNAL] Nadia: Ha. The dreaded time entry. Yes. Anything that says "you're more than your utilization rate" lands hard with our staff.
 [INTERNAL] Priya: How's the sentiment around the program? Not usage numbers — I mean the feeling of it.
-[EXTERNAL] Nadia: Good. The managers especially. Being a manager in public accounting is a weird job — you're technically excellent at accounting and then suddenly you're supposed to lead people, which nobody trained you for. The coaching fills that gap.
-[INTERNAL] Priya: The classic "promoted for technical skill, now expected to lead" trap. It's not unique to accounting but it's acute there.
-[EXTERNAL] Nadia: Extremely acute. Our best senior accountant becomes a manager and suddenly has to give feedback and manage conflict and they're totally at sea. The coaching gives them somewhere to figure that out without looking incompetent in front of their team.
-[INTERNAL] Priya: Have you seen any particular wins there — someone who really turned a corner?
-[EXTERNAL] Nadia: One of my tax managers, yes. Brilliant with numbers, catastrophic with people. He'd make junior staff cry without meaning to — just blunt to the point of cruelty. He worked on it with his coach for months and now he's... still blunt, but kind about it. His team retention went from a revolving door to stable.
-[INTERNAL] Priya: That's a remarkable turnaround. Blunt-but-kind is a real skill and it doesn't come naturally to a lot of technical people.
-[EXTERNAL] Nadia: It really doesn't. And honestly I'd nearly given up on him — I was a quarter away from a hard conversation about whether management was right for him. The coaching saved a genuinely talented person's career.
+[EXTERNAL] Nadia: Good. The new dog owners especially. Being an accountant with a new rescue is a weird spot — you're technically excellent at your job and then suddenly you've got an anxious animal at home who nobody trained you to handle. The training fills that gap.
+[INTERNAL] Priya: The classic "brilliant at the day job, at sea with the puppy" trap. It's not unique to accounting but it's acute there.
+[EXTERNAL] Nadia: Extremely acute. Our best senior accountant adopts a reactive dog and suddenly has to manage leash aggression and crate anxiety and they're totally at sea. The coaching gives them somewhere to figure that out without feeling like a failure.
+[INTERNAL] Priya: Have you seen any particular wins there — someone whose dog really turned a corner?
+[EXTERNAL] Nadia: One of my tax managers, yes. Brilliant with numbers, hopeless with his dog. The animal would lunge at everyone — blunt to the point of chaos. He worked on it with his coach for months and now the dog's... still spirited, but manageable. Went from a household in crisis to stable.
+[INTERNAL] Priya: That's a remarkable turnaround. A calm, well-handled dog is a real thing and it doesn't come naturally to a lot of first-time owners.
+[EXTERNAL] Nadia: It really doesn't. And honestly I'd nearly given up on that dog — he was a quarter away from a hard conversation about whether he could keep it. The coaching saved a genuinely good dog's home.
 [INTERNAL] Priya: That's the kind of outcome that never shows up in a usage report but is the whole reason the program exists.
 [EXTERNAL] Nadia: Exactly. That's the exact value. A safe place to be a beginner at something.
 [EXTERNAL] Nadia: Well put. I might steal that.

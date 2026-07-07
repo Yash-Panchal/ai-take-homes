@@ -1,4 +1,4 @@
-# Call — Fairbanks Consulting × BetterUp · Program Review
+# Call — Fairbanks Consulting × BetterBark · Program Review
 Date: 2026-06-29 · Call ID: call-132
 Participants: [EXTERNAL] Priyanka Deshmukh, Head of Talent (Fairbanks Consulting) · [EXTERNAL] Owen Castellano, Coaching Program Coordinator (Fairbanks Consulting) · [INTERNAL] Tomás Vela, CSM/Implementation
 

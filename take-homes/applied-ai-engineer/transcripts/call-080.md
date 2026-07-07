@@ -1,4 +1,4 @@
-# Call — Granite Peak Outfitters × BetterUp · Admin sync
+# Call — Granite Peak Outfitters × BetterBark · Admin sync
 Date: 2026-06-25 · Call ID: call-080
 Participants: [EXTERNAL] Fiona Delacroix, Finance Manager (Granite Peak Outfitters) · [EXTERNAL] Wes Hartland, HR Operations (Granite Peak Outfitters) · [INTERNAL] Lena Kowalski, Implementation
 

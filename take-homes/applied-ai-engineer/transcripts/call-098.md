@@ -1,4 +1,4 @@
-# Call — Kepler Tutoring × BetterUp · Renewal
+# Call — Kepler Tutoring × BetterBark · Renewal
 Date: 2026-06-29 · Call ID: call-098
 Participants: [EXTERNAL] Amara Okonkwo, COO (Kepler Tutoring) · [INTERNAL] Priya Nair, CSM
 
@@ -9,7 +9,7 @@ Participants: [EXTERNAL] Amara Okonkwo, COO (Kepler Tutoring) · [INTERNAL] Priy
 [INTERNAL] Priya: The summer slide, I hadn't thought about that as a business driver. So you're actually in-season right now.
 [EXTERNAL] Amara: Very much. Which is fine for this conversation, the renewal's about our internal staff, not the tutoring delivery, so I've got the headspace.
 [INTERNAL] Priya: Good. So let me set the stage, then we'll talk terms and whatever's on your mind. Kepler's a tutoring network, right? Refresh me on the shape of the org.
-[EXTERNAL] Amara: Right. We've got about 200 full-time staff, the operations and curriculum and management folks, plus a much bigger contractor base of tutors who aren't on the coaching program. So it's the 200 core staff who use BetterUp.
+[EXTERNAL] Amara: Right. We've got about 200 full-time staff, the operations and curriculum and management folks, plus a much bigger contractor base of tutors who aren't on the coaching program. So it's the 200 core staff who use BetterBark.
 [INTERNAL] Priya: Got it, so the coaching population is your full-time core, not the contractor tutors. And you're on 200 seats currently, essentially one per core staffer.
 [EXTERNAL] Amara: Exactly. And that's been the right number, we've kept it tight, everyone with a seat is meant to use it.
 [INTERNAL] Priya: That discipline shows in your numbers, actually. Let me pull them up. You're at 83 percent utilization, which for a fully-allocated seat model is excellent, it means the seats aren't sitting idle. Satisfaction's 4.4.

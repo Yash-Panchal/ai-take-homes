@@ -1,4 +1,4 @@
-# Call — Larkfield Media × BetterUp · Check-in
+# Call — Larkfield Media × BetterBark · Check-in
 Date: 2026-06-23 · Call ID: call-078
 Participants: [EXTERNAL] Aisha Bramble, Talent Development Manager (Larkfield Media) · [INTERNAL] Maya Chen, CSM
 
@@ -19,7 +19,7 @@ Participants: [EXTERNAL] Aisha Bramble, Talent Development Manager (Larkfield Me
 [INTERNAL] Maya Chen: Annoying how? Walk me through what they're doing.
 [EXTERNAL] Aisha Bramble: Okay so you go to the coach search, and there are filters, right? Specialty, language, timezone, all that.
 [INTERNAL] Maya Chen: Right, the filter panel on the coach browse page.
-[EXTERNAL] Aisha Bramble: So our folks set up their filters carefully. Say someone wants a coach who speaks Spanish, does leadership, in their timezone. They tick all three, get a nice list.
+[EXTERNAL] Aisha Bramble: So our folks set up their filters carefully. Say someone wants a coach who speaks Spanish, does reactive-dog rehabilitation, in their timezone. They tick all three, get a nice list.
 [INTERNAL] Maya Chen: Okay, so far so good.
 [EXTERNAL] Aisha Bramble: Then they click into a coach's profile to read the bio. And then they hit the browser back button to go back to the list — and all their filters are gone. Wiped. Back to square one.
 [INTERNAL] Maya Chen: The filters reset when they navigate back with the browser back button.
@@ -56,7 +56,7 @@ Participants: [EXTERNAL] Aisha Bramble, Talent Development Manager (Larkfield Me
 [INTERNAL] Maya Chen: "The coach search has amnesia," also going in my notes. You're making my write-up easy.
 [EXTERNAL] Aisha Bramble: One thing I'll add — it seems worse when someone's got a lot of filters on. If they've only ticked one, losing it isn't a big deal. It's the people with three or four who rage-quit.
 [INTERNAL] Maya Chen: That's a useful nuance — the more filters set, the more painful the reset, because there's more to re-enter. I'll note the impact scales with filter count.
-[EXTERNAL] Aisha Bramble: Right. My picky people who want Spanish-speaking, leadership-focused, specific-timezone coaches are exactly the ones who lose the most.
+[EXTERNAL] Aisha Bramble: Right. My picky people who want Spanish-speaking, reactive-dog-focused, specific-timezone coaches are exactly the ones who lose the most.
 [INTERNAL] Maya Chen: And those are your most intentional users — the ones you least want to lose to friction. That sharpens the case.
 [EXTERNAL] Aisha Bramble: Glad to be quotable. Anything else you need from me?
 [INTERNAL] Maya Chen: I think that's it. Let me recap: I'm logging the coach-search filter reset on browser-back — specialty, language, timezone all cleared, observed on Chrome, causing search abandonment. And I'll send you the new-tab workaround tip for your users.

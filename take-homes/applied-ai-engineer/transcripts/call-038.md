@@ -1,4 +1,4 @@
-# Call — Ironbark Mining × BetterUp · Support Debrief
+# Call — Ironbark Mining × BetterBark · Support Debrief
 Date: 2026-06-25 · Call ID: call-038
 Participants: [EXTERNAL] Fiona Blackwood, IT Infrastructure Manager (Ironbark Mining) · [INTERNAL] Ravi Patel, Support Engineer · [INTERNAL] Lena Kowalski, Implementation
 
@@ -14,7 +14,7 @@ Participants: [EXTERNAL] Fiona Blackwood, IT Infrastructure Manager (Ironbark Mi
 [EXTERNAL] Fiona: I could tell you about the time a goanna got into a comms cabinet, but we'd be here all day and it's not why we're on this call.
 [INTERNAL] Ravi: I desperately want to hear the goanna story but I also respect the agenda.
 [EXTERNAL] Fiona: I'll save it for the Christmas card. Okay, so remind me of the official version, and then I'll confirm it matches what we saw on our side.
-[INTERNAL] Ravi: Sure. So the symptom your users reported was that the live video sessions — the in-browser coaching sessions — kept dropping. The connection would establish, the session would start, and then partway through it would just die. Sometimes reconnect, sometimes not.
+[INTERNAL] Ravi: Sure. So the symptom your users reported was that the live video sessions — the in-browser training sessions — kept dropping. The connection would establish, the session would start, and then partway through it would just die. Sometimes reconnect, sometimes not.
 [EXTERNAL] Fiona: That's what came to me. "The video keeps cutting out." Which is the least useful bug report in the world, but that's what I had to start with.
 [INTERNAL] Ravi: The classic. And it wasn't everyone — it was specifically your head-office users. Your remote site people, the ones at the actual mines on satellite or cellular, they were fine.
 [EXTERNAL] Fiona: Right, which is completely backwards from what you'd expect. You'd think the guys on a satellite link in the outback would have the problems, not the people at corporate on a fat fiber connection.

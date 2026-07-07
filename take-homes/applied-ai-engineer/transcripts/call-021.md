@@ -1,4 +1,4 @@
-# Call — Alderline Insurance × BetterUp · QBR
+# Call — Alderline Insurance × BetterBark · QBR
 Date: 2026-06-22 · Call ID: call-021
 Participants: [EXTERNAL] Gwen Ashby, Director of Talent Development (Alderline Insurance) · [EXTERNAL] Curtis Lund, HRBP (Alderline Insurance) · [INTERNAL] Priya Nair, CSM
 
@@ -7,19 +7,19 @@ Participants: [EXTERNAL] Gwen Ashby, Director of Talent Development (Alderline I
 [INTERNAL] Priya: The annual ritual. I'll come armed. Numbers first — you're at 74% activation across 500 seats, up from 69% last quarter. Session completion is healthy, and your claims-adjuster cohort, which lagged, closed most of the gap this quarter.
 [EXTERNAL] Curtis: The adjusters were my project. I basically bullied them into it. Nicely.
 [INTERNAL] Priya: Define "nicely," because I've seen your version of nicely.
-[EXTERNAL] Curtis: I sent them a leaderboard. Anonymized, but everyone knew who was who. Adjusters are competitive even about therapy, apparently.
-[INTERNAL] Priya: A coaching leaderboard. That's either brilliant or a compliance incident and I genuinely can't tell which.
+[EXTERNAL] Curtis: I sent them a leaderboard. Anonymized, but everyone knew who was who. Adjusters are competitive even about whose dog is best behaved, apparently.
+[INTERNAL] Priya: A dog-training leaderboard. That's either brilliant or a compliance incident and I genuinely can't tell which.
 [EXTERNAL] Curtis: It was voluntary and anonymized, so, brilliant. I checked with legal first, I'm not an animal.
 [INTERNAL] Priya: Checking with legal first is the most insurance-industry sentence ever spoken. Whatever it was, it worked.
 [INTERNAL] Priya: Whatever you did worked — they went from your lowest-engagement group to roughly org-average.
 [EXTERNAL] Curtis: I told them their manager was doing it and they didn't want to be shown up. Peer pressure, but for professional development.
 [INTERNAL] Priya: Shameless and effective. That's the two things I want in an HRBP.
 [EXTERNAL] Gwen: Curtis is our secret weapon. Okay, program impact — this is the part I care about. We're trying to prove this affects retention because that's the number finance respects.
-[INTERNAL] Priya: Right. So on your engagement report, the cohorts with high coaching activity show notably lower voluntary attrition than the low-activity cohorts. I want to be careful — that's correlation, not proof of causation, but the direction is consistent and it's been consistent for three quarters now.
+[INTERNAL] Priya: Right. So on your engagement report, the cohorts with high training activity show notably lower voluntary attrition than the low-activity cohorts. I want to be careful — that's correlation, not proof of causation, but the direction is consistent and it's been consistent for three quarters now.
 [EXTERNAL] Gwen: Three quarters of consistent direction is enough for me to build a slide. Finance won't get causation from any vendor, they know that.
 [INTERNAL] Priya: Exactly. I'll give you the cohort attrition comparison in a clean cut you can drop into your board deck. Directional but defensible.
 [EXTERNAL] Gwen: That's perfect. Curtis, you want to do your thing before we get to money?
-[EXTERNAL] Curtis: Yeah. So this is a real one, and it's been driving a specific group of people slightly crazy. Our live coaching sessions — the video ones, in the browser — have started freezing.
+[EXTERNAL] Curtis: Yeah. So this is a real one, and it's been driving a specific group of people slightly crazy. Our live training sessions — the video ones, in the browser — have started freezing.
 [INTERNAL] Priya: Freezing how? Walk me through what the person sees.
 [EXTERNAL] Curtis: Okay. You're in a session, video call with your coach, going along fine. And then somewhere around the forty-minute mark, the video just freezes. The coach's picture locks up on one frame. But — and this is the weird part — the audio keeps going. You can still hear each other. It's just the video that's frozen solid.
 [INTERNAL] Priya: So the video image freezes but audio continues normally.

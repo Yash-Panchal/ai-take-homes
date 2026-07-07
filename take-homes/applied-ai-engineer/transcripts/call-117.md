@@ -1,4 +1,4 @@
-# Call — Mistral Yachts × BetterUp · Renewal
+# Call — Mistral Yachts × BetterBark · Renewal
 Date: 2026-06-19 · Call ID: call-117
 Participants: [EXTERNAL] Simone Lafarge, VP People (Mistral Yachts) · [INTERNAL] Priya Nair, CSM
 
@@ -45,8 +45,8 @@ Participants: [EXTERNAL] Simone Lafarge, VP People (Mistral Yachts) · [INTERNAL
 [INTERNAL] Priya Nair: Appreciate that. I'll put a note in the cover email too so it's not a surprise.
 [EXTERNAL] Simone Lafarge: Belt and suspenders. I like it.
 [INTERNAL] Priya Nair: With procurement, always. While I have you — anything about the program itself you'd want to change? Coach mix, focus areas, anything?
-[EXTERNAL] Simone Lafarge: The leadership track has been the workhorse. Our shop floor supervisors, the ones who got promoted from craftsman to manager — that transition is brutal and the coaching's been a lifeline for them.
-[INTERNAL] Priya Nair: That craftsman-to-manager jump is one of the hardest in any trade business. Glad it's landing there.
+[EXTERNAL] Simone Lafarge: The reactive-dog rehabilitation track has been the workhorse. Our shop floor supervisors, the ones who adopted high-energy rescues — that adjustment is brutal and the coaching's been a lifeline for them.
+[INTERNAL] Priya Nair: A high-energy rescue is one of the hardest adjustments in any household. Glad it's landing there.
 [EXTERNAL] Simone Lafarge: It's landing. If anything I'd want more of it. Maybe that's a reason to grow seats sooner rather than later.
 [INTERNAL] Priya Nair: We can revisit that anytime. If the supervisor cohort is where the value's concentrated, we could even look at a targeted expansion just for that group when you're ready.
 [EXTERNAL] Simone Lafarge: How would that even work mechanically? A separate program, or just more seats tagged to that group?

@@ -1,4 +1,4 @@
-# Call — Twin Pines Farms × BetterUp · Support escalation
+# Call — Twin Pines Farms × BetterBark · Support escalation
 Date: 2026-06-29 · Call ID: call-082
 Participants: [EXTERNAL] Hank Brubaker, Operations Manager (Twin Pines Farms) · [EXTERNAL] Lacey Dunn, Executive Assistant (Twin Pines Farms) · [INTERNAL] Ravi Patel, Support Engineer
 

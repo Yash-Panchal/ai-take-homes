@@ -1,4 +1,4 @@
-# Call — Chandler Logistics × BetterUp · Renewal
+# Call — Chandler Logistics × BetterBark · Renewal
 Date: 2026-06-18 · Call ID: call-046
 Participants: [EXTERNAL] Bonnie Reyes, VP People (Chandler Logistics) · [INTERNAL] Derek Okafor, CSM
 
@@ -14,13 +14,13 @@ Participants: [EXTERNAL] Bonnie Reyes, VP People (Chandler Logistics) · [INTERN
 [EXTERNAL] Bonnie: Truly. So the question isn't whether, it's the shape. Same seat count? More? Terms?
 [INTERNAL] Derek: Let me lay out where you are. You're on two hundred and fifty seats, twelve-month term, and your utilization sat around seventy percent active, which is healthy for a distributed workforce.
 [EXTERNAL] Bonnie: Seventy feels about right. We've got a chunk of warehouse leads who signed up and then got busy and drifted, which I expected. The corporate and the dispatch layer are heavy users.
-[INTERNAL] Derek: That maps to what I see in the data. The dispatch team's actually one of your most engaged groups — north of eighty percent. Something about that role and coaching just clicks.
+[INTERNAL] Derek: That maps to what I see in the data. The dispatch team's actually one of your most engaged groups — north of eighty percent. Something about that role and the training just clicks.
 [EXTERNAL] Bonnie: Dispatch is high-stress and high-turnover, so it makes sense they'd lean on it. Did the corporate group hold up too, or did they drift like the warehouse leads?
 [INTERNAL] Derek: Corporate's steady, mid-seventies, no drift. Not as hot as dispatch, but reliable. Your only real soft spot is the deskless warehouse population, which is the pattern I'd expect and not something to worry about.
 [EXTERNAL] Bonnie: That tracks with my gut. The people at desks with reliable email engage; the people on forklifts don't. It's not a mystery, it's just physics.
 [INTERNAL] Derek: It's physics, and it's the same story across every logistics account I have. Which is exactly why the deskless enrollment ideas I'll send you are worth a look — they're built around that reality rather than fighting it.
 [EXTERNAL] Bonnie: Fair enough. If the ideas move the warehouse number even a little, I'm interested. Okay — on seats: do you want to right-size to the active population or hold seats for the drifters in case they come back?
-[INTERNAL] Derek: Your call, but I'll give you my recommendation: hold them. Seventy percent of two-fifty is more people engaged than we've ever had in any development program, and I'd rather you have headroom than have to go back to procurement mid-year to add seats.
+[INTERNAL] Derek: Your call, but I'll give you my recommendation: hold them. Seventy percent of two-fifty is more people engaged than we've ever had in any benefit program, and I'd rather you have headroom than have to go back to procurement mid-year to add seats.
 [EXTERNAL] Bonnie: Hold them. That procurement process is its own special hell and I'm not reopening it for the sake of trimming twenty seats.
 [INTERNAL] Derek: Understood, we'll hold at two-fifty. On term — you're on twelve months. If you went twenty-four I can hold your current per-seat rate and lock you against the increase that's coming for new contracts in the fall.
 [EXTERNAL] Bonnie: How much is the increase?

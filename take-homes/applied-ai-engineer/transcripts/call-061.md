@@ -1,4 +1,4 @@
-# Call — Novak Studios × BetterUp · Renewal
+# Call — Novak Studios × BetterBark · Renewal
 Date: 2026-06-20 · Call ID: call-061
 Participants: [EXTERNAL] Beatrix Novak, COO (Novak Studios) · [EXTERNAL] Hassan Ali, Finance Director (Novak Studios) · [INTERNAL] Tomás Vela, CSM
 
@@ -32,7 +32,7 @@ Participants: [EXTERNAL] Beatrix Novak, COO (Novak Studios) · [EXTERNAL] Hassan
 [INTERNAL] Tomás: They always do, and honestly they should. I'll send the redline highlighting exactly what changed so they're not hunting.
 [EXTERNAL] Hassan: That'll save me a grumpy email from legal, thank you.
 [INTERNAL] Tomás: Grumpy-email prevention is a core part of my job. Beatrix, from the program side, anything you want to adjust for the new term? Different cohorts, different focus areas?
-[EXTERNAL] Beatrix: One thing. We've historically pointed coaching at our department leads only. I want to open it up to the next layer down — the senior individual contributors who are on the leadership track but not managing yet. That's where I lose people to burnout, ironically.
+[EXTERNAL] Beatrix: One thing. We've historically pointed the benefit at our department leads only. I want to open it up to the next layer down — the senior individual contributors, a lot of them first-time dog owners on the new-puppy foundations track. That's where I lose people to burnout, ironically.
 [INTERNAL] Tomás: That's a smart expansion and it's within your current seat count given you're at 88%. If opening it to that layer pushes you past 200, that's the natural trigger for the Q3 seat conversation.
 [EXTERNAL] Beatrix: Right. Let's start with the seats we have and see how fast we fill them.
 [INTERNAL] Tomás: I'll help you frame the invitation to that senior-IC group — the messaging matters, because "we're offering you coaching" can read as either a gift or a warning depending on how it's phrased.
@@ -55,7 +55,7 @@ Participants: [EXTERNAL] Beatrix Novak, COO (Novak Studios) · [EXTERNAL] Hassan
 [EXTERNAL] Hassan: Route it through me. Procurement here is a black hole; things go in and don't come out. I'll hand-carry it.
 [INTERNAL] Tomás: Hand-carried through Hassan it is. I'll address everything to you.
 [EXTERNAL] Beatrix: Nothing here either, except — the app's been solid, right, Hassan? No complaints coming through your team?
-[EXTERNAL] Hassan: None that reached me. My inbox is where complaints go to be seen, and it's quiet on BetterUp.
+[EXTERNAL] Hassan: None that reached me. My inbox is where complaints go to be seen, and it's quiet on BetterBark.
 [INTERNAL] Tomás: A quiet complaint inbox is the best product review there is. Okay — recap. I send the MSA redline and order form this week, plus the senior-IC invitation template adapted for Novak. Legal reviews, Hassan cuts the PO, we close before July 31. And we've got a Q3 flag for potential seat expansion driven by production hiring and the senior-IC layer. Did I miss anything?
 [EXTERNAL] Beatrix: That's the whole thing. Efficient as always.
 [INTERNAL] Tomás: Then I'll let you get back to your post-production haze. Congrats again on the wrap, both of you.

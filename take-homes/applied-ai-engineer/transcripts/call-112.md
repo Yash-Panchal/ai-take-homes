@@ -1,4 +1,4 @@
-# Call — Onyx Apparel × BetterUp · Program Review
+# Call — Onyx Apparel × BetterBark · Program Review
 Date: 2026-06-17 · Call ID: call-112
 Participants: [EXTERNAL] Simone Bright, Learning & Development Manager (Onyx Apparel) · [EXTERNAL] Trevor Nakamura, HR Coordinator (Onyx Apparel) · [INTERNAL] Tomás Vela, CSM
 

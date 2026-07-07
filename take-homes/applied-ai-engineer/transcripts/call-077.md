@@ -1,4 +1,4 @@
-# Call — Holt Manufacturing × BetterUp · Renewal
+# Call — Holt Manufacturing × BetterBark · Renewal
 Date: 2026-06-22 · Call ID: call-077
 Participants: [EXTERNAL] Randall Kwesi, VP Human Resources (Holt Manufacturing) · [EXTERNAL] Bev Tanaka, Procurement Lead (Holt Manufacturing) · [INTERNAL] Derek Okafor, CSM
 

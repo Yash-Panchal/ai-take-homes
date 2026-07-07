@@ -1,4 +1,4 @@
-# Call — Milburn Foods × BetterUp · Renewal
+# Call — Milburn Foods × BetterBark · Renewal
 Date: 2026-06-30 · Call ID: call-054
 Participants: [EXTERNAL] Cheryl Ivankov, Senior Director HR (Milburn Foods) · [INTERNAL] Priya Nair, CSM
 
@@ -15,13 +15,13 @@ Participants: [EXTERNAL] Cheryl Ivankov, Senior Director HR (Milburn Foods) · [
 [INTERNAL] Priya: On a straight twelve-month renewal you keep it for this term, yes. The one thing I'd flag is that there's a modest rate increase landing for contracts that renew after the fall, so renewing now locks you in ahead of that.
 [EXTERNAL] Cheryl: How modest?
 [INTERNAL] Priya: Single digits percent. Not dramatic, but real, and it compounds if you're planning to be with us for a while.
-[EXTERNAL] Cheryl: We're planning to be. This isn't a program I'm second-guessing. My plant managers actually use it, which for a fifty-year-old company that just discovered the concept of "professional development" is a small miracle.
+[EXTERNAL] Cheryl: We're planning to be. This isn't a program I'm second-guessing. My plant managers actually use it, which for a fifty-year-old company that just discovered the concept of an "employee benefit" beyond a hard hat is a small miracle.
 [INTERNAL] Priya: The plant-manager engagement is genuinely your strong point. A lot of manufacturing accounts can't get the field to touch it. Yours do. Do you have a sense of why it took, when it doesn't at similar companies?
-[EXTERNAL] Cheryl: Two reasons, I think. One, I didn't make it mandatory, so nobody dug in their heels out of principle. Two, my plant managers are lonely at the top of a plant. There's nobody at their level on-site to talk to. The coach fills that gap. I didn't design it that way, but that's why it stuck.
-[INTERNAL] Priya: That's a sharp read, and it matches what we see — the isolated-leader dynamic makes coaching genuinely valuable rather than just another corporate initiative. The plant manager who has no peer on-site gets something real out of an outside sounding board.
-[EXTERNAL] Cheryl: Exactly. It's not a perk to them, it's a lifeline they didn't know they wanted. Once one plant manager admitted that out loud, the rest stopped pretending they were too tough for it.
-[INTERNAL] Priya: The peer permission effect. One admits value, the rest follow. That's worth remembering if you do bring the corporate side in — the dynamic there might be different, so I wouldn't assume the same pitch works.
-[EXTERNAL] Cheryl: Good point. Corporate has plenty of peers to talk to, so the lifeline angle won't land the same. I'd have to frame it differently. Something to think about for that maybe-next-year decision.
+[EXTERNAL] Cheryl: Two reasons, I think. One, I didn't make it mandatory, so nobody dug in their heels out of principle. Two, my plant managers work brutal hours and the one living thing waiting for them at home is a dog they've had no time to train. The coach fills that gap. I didn't design it that way, but that's why it stuck.
+[INTERNAL] Priya: That's a sharp read, and it matches what we see — the burned-out-owner dynamic makes the training genuinely valuable rather than just another corporate initiative. The plant manager who has no time and a chaotic dog at home gets something real out of an outside hand.
+[EXTERNAL] Cheryl: Exactly. It's not a perk to them, it's a lifeline they didn't know they wanted. Once one plant manager admitted his dog was running his house, the rest stopped pretending theirs were angels.
+[INTERNAL] Priya: The peer permission effect. One admits it, the rest follow. That's worth remembering if you do bring the corporate side in — the dynamic there might be different, so I wouldn't assume the same pitch works.
+[EXTERNAL] Cheryl: Good point. Corporate folks have more time and calmer dogs, so the lifeline angle won't land the same. I'd have to frame it differently. Something to think about for that maybe-next-year decision.
 [INTERNAL] Priya: When you get there, let's design that framing together rather than porting the plant-manager one over. But that's future. For now — the field engagement is your crown jewel and it's healthy.
 [EXTERNAL] Cheryl: It is. And I'll tell you, the thing that keeps me from second-guessing the spend is that when I closed the small plant in spring, three of those managers relocated to other plants rather than leave the company. Two of them told me the coaching relationship was part of why they stayed through the disruption.
 [INTERNAL] Priya: That's a retention story with a dollar attached, Cheryl — replacing three plant managers is not cheap, and you kept them through a plant closure, which is exactly when people usually walk.

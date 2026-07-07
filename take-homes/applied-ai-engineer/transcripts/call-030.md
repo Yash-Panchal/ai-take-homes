@@ -1,9 +1,9 @@
-# Call — Vela Cosmetics × BetterUp · Check-in
+# Call — Vela Cosmetics × BetterBark · Check-in
 Date: 2026-06-19 · Call ID: call-030
 Participants: [EXTERNAL] Bianca Rossi, L&D Manager (Vela Cosmetics) · [INTERNAL] Derek Okafor, CSM
 
 [INTERNAL] Derek: Bianca! There she is. How's the launch going — didn't you have a big product drop this month?
-[EXTERNAL] Bianca: The summer line, yes. It's chaos in the best way. Marketing hasn't slept, the warehouse hasn't slept, and I'm over here running a leadership program like everything's normal.
+[EXTERNAL] Bianca: The summer line, yes. It's chaos in the best way. Marketing hasn't slept, the warehouse hasn't slept, and I'm over here running a dog-training program like everything's normal.
 [INTERNAL] Derek: The calm center of the storm.
 [EXTERNAL] Bianca: I wish. I'm more like a slightly-less-panicked corner of the storm.
 [INTERNAL] Derek: I'll take it. Before we dive in — did the new lipstick line actually ship on time? You were sweating that last we talked.
@@ -15,7 +15,7 @@ Participants: [EXTERNAL] Bianca Rossi, L&D Manager (Vela Cosmetics) · [INTERNAL
 [INTERNAL] Derek: Deal. Quick logistics before I forget — are we still good for the same monthly slot, or has your calendar shifted with the launch season?
 [EXTERNAL] Bianca: Keep the slot. Fourth Thursday works. If anything blows up I'll ping you, but the routine helps me actually stop and think.
 [INTERNAL] Derek: Same slot it is. So how's the cohort feeling? You had, what, 40 first-time managers in the spring group?
-[EXTERNAL] Bianca: Forty-two. And they're into it, genuinely. The thing that surprised me is how much they talk to each other about it. Like it's given them a shared vocabulary. Two of them were arguing about "radical candor" in the break room and I just stood there beaming.
+[EXTERNAL] Bianca: Forty-two. And they're into it, genuinely. The thing that surprised me is how much they talk to each other about it. Like it's given them a shared vocabulary. Two of them were arguing about "positive reinforcement versus corrections" in the break room and I just stood there beaming.
 [INTERNAL] Derek: That's the dream, honestly. When it stops being a program and starts being how they talk.
 [EXTERNAL] Bianca: Exactly. It's stopped being "the thing HR made us do" and started being "the thing that helps." That shift is everything.
 [INTERNAL] Derek: How long did that take, roughly? I ask because other customers always want to know when the flywheel starts turning.
@@ -41,8 +41,8 @@ Participants: [EXTERNAL] Bianca Rossi, L&D Manager (Vela Cosmetics) · [INTERNAL
 [INTERNAL] Derek: Nice. How many are we talking?
 [EXTERNAL] Bianca: Maybe another 60, 70? It depends on budget, which depends on whether the summer line does what we hope.
 [INTERNAL] Derek: Understood. Let's pencil it and firm it up once you know the number. On our side there's no problem scaling to that — plenty of coach capacity. The main thing to figure out is whether you want the IC track on the same content or something tailored.
-[EXTERNAL] Bianca: Tailored, ideally. The manager stuff won't all land for people who don't manage anyone yet.
-[INTERNAL] Derek: Makes sense. We've got IC-oriented pathways — growth, influence-without-authority, that kind of thing. I'll send you the menu so you can pick.
+[EXTERNAL] Bianca: Tailored, ideally. The reactive-dog stuff won't all land for people whose puppy just needs the basics.
+[INTERNAL] Derek: Makes sense. We've got other pathways — new-puppy foundations, senior-dog and anxiety work, that kind of thing. I'll send you the menu so you can pick.
 [EXTERNAL] Bianca: Perfect. Send me the menu, I'll socialize it internally.
 [INTERNAL] Derek: Will do. Anything else in the fall-planning bucket, or is that the shape of it?
 [EXTERNAL] Bianca: That's the shape. I don't want to over-commit before I know the budget. I've been burned by announcing things I couldn't fund.

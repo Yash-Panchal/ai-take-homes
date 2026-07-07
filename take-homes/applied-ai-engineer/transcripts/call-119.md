@@ -1,4 +1,4 @@
-# Call — Portside Medical × BetterUp · Admin sync
+# Call — Portside Medical × BetterBark · Admin sync
 Date: 2026-06-21 · Call ID: call-119
 Participants: [EXTERNAL] Harold Nguyen, Benefits Administrator (Portside Medical) · [INTERNAL] Sam Oduya, CSM
 

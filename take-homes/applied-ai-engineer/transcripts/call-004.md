@@ -1,4 +1,4 @@
-# Call — Cedar Grove Schools × BetterUp · Check-in
+# Call — Cedar Grove Schools × BetterBark · Check-in
 Date: 2026-06-17 · Call ID: call-004
 Participants: [EXTERNAL] Will Hastings, Program Admin (Cedar Grove Schools) · [INTERNAL] Priya Nair, CSM
 
@@ -13,7 +13,7 @@ Participants: [EXTERNAL] Will Hastings, Program Admin (Cedar Grove Schools) · [
 [INTERNAL] Priya: Oh, that's brutal. Ninety-eight in a gym is a health event, not a ceremony.
 [EXTERNAL] Will: I saw two parents fanning themselves with the programs like it was a Baptist revival. But the kids walked, nobody fainted, we're calling it a win. Anyway — you didn't call to hear about the AC.
 [INTERNAL] Priya: Well, thank you for answering mine — I promise it's not about a printer. How's the program landed this year overall? This was your first full year live, right?
-[EXTERNAL] Will: First full year, yeah. Honestly, better than I expected. I was braced for the teachers to treat it as one more district mandate to ignore, but a decent chunk actually engaged. The instructional coaches especially — turns out people whose whole job is coaching kids are pretty open to being coached themselves.
+[EXTERNAL] Will: First full year, yeah. Honestly, better than I expected. I was braced for the teachers to treat it as one more district mandate to ignore, but a decent chunk actually engaged. The instructional coaches especially — turns out people whose whole job is coaching kids are pretty happy to get some coaching for their own dogs.
 [INTERNAL] Priya: That's a lovely bit of symmetry. Do you have a rough sense of where you landed on active usage, or is that a summer project?
 [EXTERNAL] Will: I pulled the numbers last week before everyone scattered. Roughly two-thirds of the invited group booked at least one session, which for a district rollout is frankly shocking. Half of those came back for a second. I'm choosing to be delighted by that.
 [INTERNAL] Priya: You should be. A second session is the real signal — first one's curiosity, second one's a decision. Any cohorts that lagged?

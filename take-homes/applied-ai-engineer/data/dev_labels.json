@@ -31,7 +31,7 @@
     ],
     "call-008": [
       {"action": "corroborate", "target": "PROJ-110", "reason": "Android crash-on-launch after the update = tracked 4.2 crash issue"},
-      {"action": "file-new-low", "type": "Bug", "summary": "'Bettreup' typo in outbound email footer — real but trivial; acceptable as lowest-priority ticket or batched cosmetic; filing it P0 per the customer's framing is wrong"}
+      {"action": "file-new-low", "type": "Bug", "summary": "'BetterBrak' typo in outbound email footer — real but trivial; acceptable as lowest-priority ticket or batched cosmetic; filing it P0 per the customer's framing is wrong"}
     ],
     "call-009": [
       {"action": "none", "reason": "Vague afternoon slowness: no page, no time, no repro; customer declines to substantiate"},
@@ -51,11 +51,11 @@
     ],
     "call-013": [
       {"action": "none", "reason": "Bulk roster CSV export already SHIPPED (PROJ-095, release 4.3); correct handling is enablement/pointing to the feature, not a ticket"},
-      {"action": "file-new", "type": "Feature", "summary": "Session-completed webhook event (member ID + timestamp) so the customer's LMS (Cornerstone) can record coaching participation automatically"}
+      {"action": "file-new", "type": "Feature", "summary": "Session-completed webhook event (member ID + timestamp) so the customer's LMS (Cornerstone) can record completed training sessions automatically"}
     ],
     "call-014": [
       {"action": "file-new", "type": "Bug", "summary": "Deactivating a member who has an active mobile session strands the app on a blank white screen; force-quit required to reach the proper 'account inactive' screen"},
-      {"action": "none", "reason": "Competitor pitch relay (Modern Health, 'pulse surveys') is relationship/competitive intel, not a product ticket"},
+      {"action": "none", "reason": "Competitor pitch relay (WagWell, 'pulse surveys') is relationship/competitive intel, not a product ticket"},
       {"action": "none", "reason": "Custom frontline reporting cut is an account-team reporting request handled by the CSM, not a product ticket"}
     ],
     "call-015": [

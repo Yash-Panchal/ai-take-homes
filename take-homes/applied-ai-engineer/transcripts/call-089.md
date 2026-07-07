@@ -1,4 +1,4 @@
-# Call — Riverstone Timber × BetterUp · Relationship check-in
+# Call — Riverstone Timber × BetterBark · Relationship check-in
 Date: 2026-06-19 · Call ID: call-089
 Participants: [EXTERNAL] Gus Lindqvist, VP Human Resources (Riverstone Timber) · [INTERNAL] Tomás Vela, CSM
 

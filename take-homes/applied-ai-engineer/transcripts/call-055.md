@@ -1,4 +1,4 @@
-# Call — Foxglove Pharma × BetterUp · Check-in
+# Call — Foxglove Pharma × BetterBark · Check-in
 Date: 2026-06-30 · Call ID: call-055
 Participants: [EXTERNAL] Dr. Simone Vasquez, Head of Talent Development (Foxglove Pharma) · [INTERNAL] Maya Chen, CSM
 
@@ -7,11 +7,11 @@ Participants: [EXTERNAL] Dr. Simone Vasquez, Head of Talent Development (Foxglov
 [INTERNAL] Maya: The scientist condition. Did the big readout you mentioned last time land, or is that still in flight?
 [EXTERNAL] Simone: Still in flight, and I've learned not to ask the scientists about it because the answer is always a forty-minute lecture. I just wait for the email that says yes or no.
 [INTERNAL] Maya: Wise. Manage by inbox. How's the team holding up through it — those readout crunches are brutal on morale, usually.
-[EXTERNAL] Simone: They are, and that's honestly part of why coaching matters here. High-stress science org, lots of perfectionists, lots of burnout risk. The coaching's been a real pressure valve for the ones who use it. Which is a decent segue into what I wanted to cover.
+[EXTERNAL] Simone: They are, and that's honestly part of why the training matters here. High-stress science org, lots of perfectionists, lots of people who adopted a pandemic puppy they never had time to train. The training's been a real pressure valve for the ones who use it. Which is a decent segue into what I wanted to cover.
 [INTERNAL] Maya: Good, let's use it. What's on the list?
-[EXTERNAL] Simone: A few things. I want to talk about extending coaching to our clinical operations group, there's a data question about our engagement report, and there's a small but persistent login annoyance I keep hearing about that I want to raise before I forget.
+[EXTERNAL] Simone: A few things. I want to talk about extending the training benefit to our clinical operations group, there's a data question about our engagement report, and there's a small but persistent login annoyance I keep hearing about that I want to raise before I forget.
 [INTERNAL] Maya: We'll make sure the login thing survives. Let's take the clinical ops expansion first since it's the meaty one — where's your head on scope?
-[EXTERNAL] Simone: Clinical ops is about a hundred and forty people, project managers and study coordinators mostly. High-stress roles, high turnover. My hypothesis is coaching would help retention there, but I want to pilot it, not boil the ocean.
+[EXTERNAL] Simone: Clinical ops is about a hundred and forty people, project managers and study coordinators mostly. High-stress roles, high turnover. My hypothesis is the training benefit would help retention there, but I want to pilot it, not boil the ocean.
 [INTERNAL] Maya: A pilot's the right call. We can carve out a defined group, run it a quarter, and measure against the rest of clinical ops as a rough control. That gives you a retention story with actual numbers instead of a vibe.
 [EXTERNAL] Simone: A retention story with numbers is exactly what I need to justify the spend to my VP. He's data-driven to a fault — he won't move on a "people seem happier," he wants a delta.
 [INTERNAL] Maya: Then let's design it so you get a delta. How big is the clinical ops group total, so I know what a reasonable pilot slice looks like?
@@ -27,7 +27,7 @@ Participants: [EXTERNAL] Dr. Simone Vasquez, Head of Talent Development (Foxglov
 [INTERNAL] Maya: That's a fair instinct — a uniform one-month dip that self-corrects often is an artifact rather than a real signal. But I don't want to guess, so let me actually look at the underlying session data for May before I tell you either way.
 [EXTERNAL] Simone: That's all I want — don't hand-wave it. If it's real I need to know, if it's an artifact I need to be able to say so with confidence in front of my VP.
 [INTERNAL] Maya: You'll get a confident answer with the data behind it, not a shrug. Early next week. Now, the login annoyance — tell me.
-[EXTERNAL] Simone: So we don't use SSO for the coaching platform — long story, our IT wouldn't federate a non-critical app, so our people log in with email and password directly. Which means when someone forgets their password, and they do constantly because it's not their daily driver, they hit the "forgot password" link.
+[EXTERNAL] Simone: So we don't use SSO for the training platform — long story, our IT wouldn't federate a non-critical app, so our people log in with email and password directly. Which means when someone forgets their password, and they do constantly because it's not their daily driver, they hit the "forgot password" link.
 [INTERNAL] Maya: The reset flow. And something's off with it?
 [EXTERNAL] Simone: The reset email takes forever to arrive. Sometimes. That's the maddening part — it's not always. Someone clicks "reset my password," the screen says check your email, and then... nothing. For a long time. And they sit there refreshing their inbox getting frustrated, and half of them give up and email my team instead, which is how I keep hearing about it.
 [INTERNAL] Maya: When you say a long time — do you have a rough sense of how long?

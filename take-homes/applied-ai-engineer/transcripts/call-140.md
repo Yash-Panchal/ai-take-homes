@@ -1,4 +1,4 @@
-# Call — Harvest Moon Markets × BetterUp · Quarter Close-out Sync
+# Call — Harvest Moon Markets × BetterBark · Quarter Close-out Sync
 Date: 2026-06-30 · Call ID: call-140
 Participants: [EXTERNAL] Gwen Alvarado, SVP Human Resources (Harvest Moon Markets) · [INTERNAL] Sam Oduya, CSM
 

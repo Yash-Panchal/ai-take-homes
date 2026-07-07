@@ -1,4 +1,4 @@
-# Call — Hollis & Partner × BetterUp · Relationship Check-in
+# Call — Hollis & Partner × BetterBark · Relationship Check-in
 Date: 2026-06-24 · Call ID: call-050
 Participants: [EXTERNAL] Gregory Hollis, Managing Partner (Hollis & Partner) · [INTERNAL] Sam Oduya, CSM
 
@@ -7,21 +7,21 @@ Participants: [EXTERNAL] Gregory Hollis, Managing Partner (Hollis & Partner) · 
 [INTERNAL] Sam: I'll send her something nice. Please tell her I said hello.
 [EXTERNAL] Gregory: She'll pretend not to care and then bring it up for a week. How's the firm?
 [INTERNAL] Sam: Ha. Everything on my end's good — but I want to hear about yours. How's the firm?
-[EXTERNAL] Gregory: Busy. Litigation's up, which is good for us and bad for civilization. We took on four associates this spring and I'm at the age where they all look like children to me.
+[EXTERNAL] Gregory: Busy. Litigation's up, which is good for us and bad for civilization. We took on four associates this spring and I'm at the age where they all look like children to me — children with rescue dogs, all of them, somehow.
 [INTERNAL] Sam: The associates get younger every year, I hear.
 [EXTERNAL] Gregory: It's a conspiracy. One of them asked me what a fax machine was. Not as a joke. As a genuine question.
 [INTERNAL] Sam: That's the moment you know.
-[EXTERNAL] Gregory: That's the moment. Anyway — you asked for this, so I assume you want to talk about how the coaching's going, and I'm happy to, but I'll warn you I'm not a details man. My office manager runs the actual program. I just approve the invoice and occasionally get coached myself, which I resisted for a year and now grudgingly value.
+[EXTERNAL] Gregory: That's the moment. Anyway — you asked for this, so I assume you want to talk about how the coaching's going, and I'm happy to, but I'll warn you I'm not a details man. My office manager runs the actual program. I just approve the invoice and occasionally book my own dog in, which I resisted for a year and now grudgingly value.
 [INTERNAL] Sam: That's honestly the perfect setup for a relationship call. I don't need details today — I've got those from your office manager, and everything's healthy on that front. I mostly wanted face time with you, because you're the one who champions this internally, and I like to make sure the person writing the checks feels good about it.
 [EXTERNAL] Gregory: I feel fine about it. Which for me is a rave review. I don't feel fine about most line items.
-[INTERNAL] Sam: I'll take fine, then. Can I ask what made you resist the coaching for yourself for a year, and then value it?
-[EXTERNAL] Gregory: You can, since you asked politely. I resisted because I've been practicing law for thirty-one years and I don't love the idea that I need coaching. Ego, plainly. What changed is my coach didn't try to teach me law or management. She helped me figure out how to actually let go of things so I don't work myself into an early grave, which my wife has been trying to tell me for a decade.
+[INTERNAL] Sam: I'll take fine, then. Can I ask what made you resist it for your own dog for a year, and then value it?
+[EXTERNAL] Gregory: You can, since you asked politely. I resisted because I've been practicing law for thirty-one years and I don't love the idea that I need help with my own dog. Ego, plainly. What changed is my coach didn't try to teach me anything I already thought I knew. She helped me figure out how to actually stop micromanaging the animal and let him settle, which my wife has been trying to tell me for a decade.
 [INTERNAL] Sam: The coach and the spouse aligned. Powerful combination.
 [EXTERNAL] Gregory: Terrifying combination. But yes. So I don't evangelize it, that's not my style, but I've stopped grumbling about the invoice, and for me that's the loudest possible endorsement.
 [INTERNAL] Sam: I'll frame "Gregory stopped grumbling about the invoice." It'll go in the case study.
 [EXTERNAL] Gregory: Do not put my name in a case study. I'll bill you.
 [INTERNAL] Sam: Noted, no case study, no billable hours accrued. How are the associates taking to it — the children, as you called them?
-[EXTERNAL] Gregory: They love it, which figures. Their generation books their own therapy and their own coaching and their own everything on their phones. My generation had to be dragged. They took to it like it was normal, because to them it is.
+[EXTERNAL] Gregory: They love it, which figures. Their generation books their own vet and their own dog trainer and their own everything on their phones. My generation had to be dragged. They took to it like it was normal, because to them it is.
 [INTERNAL] Sam: How many associates are we talking, all in? I want to make sure my picture of the firm is current.
 [EXTERNAL] Gregory: We're at about thirty lawyers total now, with the four new associates, plus maybe fifteen staff — paralegals, admin, the office manager's team. So call it forty-five people who could be in the program, and my understanding is most of them are.
 [INTERNAL] Sam: That matches what I have — you're well-utilized for a firm your size, which is not always the case. Plenty of small firms buy seats and then only the enthusiasts use them. Yours are actually engaged.
@@ -29,7 +29,7 @@ Participants: [EXTERNAL] Gregory Hollis, Managing Partner (Hollis & Partner) · 
 [INTERNAL] Sam: That's the shift, honestly. For the younger folks it's just how professional development works now. No selling required.
 [EXTERNAL] Gregory: Which makes my office manager's job easy and makes me feel old. A fair trade.
 [INTERNAL] Sam: Do the associates ever mention it to you, or is it separate from the partner track in their minds?
-[EXTERNAL] Gregory: One of them told me, unprompted, that it was part of why she picked us over a bigger firm. She said the bigger firms threw money at her but nobody talked about actually developing her. That got my attention. In a talent war, that's not nothing.
+[EXTERNAL] Gregory: One of them told me, unprompted, that it was part of why she picked us over a bigger firm. She said the bigger firms threw money at her but nobody cared whether she had a life outside billable hours — and she's got a young dog she was drowning with. That got my attention. In a talent war, that's not nothing.
 [INTERNAL] Sam: That's a real recruiting signal, and it's the kind of thing that's hard to see from a spreadsheet. Retention and recruiting are where this quietly earns its keep for a firm your size.
 [EXTERNAL] Gregory: Quietly is the operative word, and it's how I like it. I don't need a program that demands attention. I need one that works in the background and occasionally produces a nice surprise like that.
 [INTERNAL] Sam: Can I ask — do you get much of a read on the associates' experience day to day, or is it all through your office manager?

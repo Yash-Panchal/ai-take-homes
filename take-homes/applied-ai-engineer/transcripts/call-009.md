@@ -1,4 +1,4 @@
-# Call — Lakeside Partners × BetterUp · Check-in
+# Call — Lakeside Partners × BetterBark · Check-in
 Date: 2026-06-20 · Call ID: call-009
 Participants: [EXTERNAL] Erin Cho, Office Manager (Lakeside Partners) · [INTERNAL] Tomás Vela, CSM
 
@@ -55,7 +55,7 @@ Participants: [EXTERNAL] Erin Cho, Office Manager (Lakeside Partners) · [INTERN
 [INTERNAL] Tomás: The senior-partner endorsement is worth more than anything I could send you. Is he someone we could quietly ask for a testimonial, or is that a bridge too far?
 [EXTERNAL] Erin: Bridge too far, he'd never put his name on anything. But he'll keep evangelizing at lunch, which is honestly more effective than a testimonial nobody reads.
 [INTERNAL] Tomás: Can't argue with that. Are you seeing the newer associates pick it up too, or is it mostly the partner tier so far?
-[EXTERNAL] Erin: The associates were actually first — they're younger, they don't think twice about booking a coaching session, it's just a normal thing to them. It was the partners who needed the peer-pressure nudge. The kids led and the grownups followed, which is usually how it goes here.
+[EXTERNAL] Erin: The associates were actually first — they're younger, they don't think twice about booking a training session for their dog, it's just a normal thing to them. It was the partners who needed the peer-pressure nudge. The kids led and the grownups followed, which is usually how it goes here.
 [INTERNAL] Tomás: That's the healthiest possible shape for it, for what it's worth. When the bottom of the org adopts first and it climbs, it sticks. Top-down mandates tend to evaporate.
 [EXTERNAL] Erin: Nobody here does anything because they're told to. They do it because someone they respect did it first. Forty cats, remember.
 [INTERNAL] Tomás: The lunch-table endorsement, the most powerful marketing channel known to professional services. Anything else for the list, or is that it?

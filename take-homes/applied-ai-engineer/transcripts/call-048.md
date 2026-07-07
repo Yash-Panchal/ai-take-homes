@@ -1,4 +1,4 @@
-# Call — Aurora Bakery Chain × BetterUp · Quarterly Check-in
+# Call — Aurora Bakery Chain × BetterBark · Quarterly Check-in
 Date: 2026-06-22 · Call ID: call-048
 Participants: [EXTERNAL] Rosa Delgado, Director of People & Culture (Aurora Bakery Chain) · [INTERNAL] Maya Chen, CSM
 
@@ -9,11 +9,11 @@ Participants: [EXTERNAL] Rosa Delgado, Director of People & Culture (Aurora Bake
 [INTERNAL] Maya: The eternal wall. So this is a check-in, and honestly I don't have an agenda beyond seeing how things are landing for you. You steer.
 [EXTERNAL] Rosa: I actually asked for this one because I wanted to tell you something good, which I realize is a strange reason to book a vendor call.
 [INTERNAL] Maya: It's my favorite reason. Go.
-[EXTERNAL] Rosa: You remember when we started, I was skeptical. Bakeries aren't exactly known for leadership development. I've got store managers who came up as bakers, brilliant with dough, never managed a person in their lives until we handed them a team of fifteen.
-[INTERNAL] Maya: I remember. You were worried they'd see coaching as corporate nonsense.
-[EXTERNAL] Rosa: I was sure they would. And a few did at first. But I had a manager, Teresa, runs our biggest store — she was ready to quit in the winter. Burned out, snapping at her team, the whole thing. I almost lost her.
+[EXTERNAL] Rosa: You remember when we started, I was skeptical. Bakeries aren't exactly known for offering their people a dog trainer. I've got store managers who came up as bakers, brilliant with dough, up before dawn every day, and no time or energy left for the dog waiting at home.
+[INTERNAL] Maya: I remember. You were worried they'd see the training as corporate nonsense.
+[EXTERNAL] Rosa: I was sure they would. And a few did at first. But I had a manager, Teresa, runs our biggest store — she was ready to quit in the winter. Burned out, snapping at her team, and her dog at home was a wreck, tearing things up, barking all night. I almost lost her.
 [INTERNAL] Maya: I didn't know it was that close.
-[EXTERNAL] Rosa: It was that close. And she started working with her coach, reluctantly, because I basically told her to. And Maya, she's a different manager now. Her team's turnover dropped, she's actually delegating instead of doing everything herself at four in the morning, and she told me last week the coaching was the thing that kept her from walking out.
+[EXTERNAL] Rosa: It was that close. And she started working with her coach, reluctantly, because I basically told her to. And Maya, her whole home life turned around. The dog settled, she started sleeping again, and she told me last week the training was the thing that kept her from walking out.
 [INTERNAL] Maya: Rosa. That's the whole point of this. That's it.
 [EXTERNAL] Rosa: I know. And I'm not a sentimental person about software, you know that. But this one earned it. So I wanted to say thank you, and I wanted it on the record with you specifically because you're the one who talked me into starting with the store managers instead of just HQ.
 [INTERNAL] Maya: I remember that debate. You wanted to start safe with the corporate team and I pushed you toward the field.
@@ -23,9 +23,9 @@ Participants: [EXTERNAL] Rosa Delgado, Director of People & Culture (Aurora Bake
 [INTERNAL] Maya: That's exactly right — converting the skeptic at the hardest store is the proof point that carries the rest of the org.
 [EXTERNAL] Rosa: That's the bet, and it paid. The other managers saw Teresa go from grumbling to genuinely calmer and it did more than any memo from me ever could.
 [INTERNAL] Maya: Peer proof beats top-down every time. Did Teresa ever say what specifically clicked for her? Sometimes the specific thing is worth knowing, because it tells you what to lean on with the next skeptic.
-[EXTERNAL] Rosa: She said it was that her coach didn't try to fix her. Everyone else in her life was telling her what to do differently, and the coach just asked questions until she figured out her own answer. She's stubborn, so being told what to do never worked on her. Being asked did.
-[INTERNAL] Maya: That's a really useful insight, and it generalizes — your stubborn, come-up-the-hard-way managers respond to being asked, not told. If you frame coaching to the next reluctant one as "nobody's going to tell you how to run your store," that might be the unlock.
-[EXTERNAL] Rosa: I'm writing that down. "Nobody's going to tell you how to run your store." That's the pitch. My managers hate being told anything, so leading with that removes the wall before they can build it.
+[EXTERNAL] Rosa: She said it was that her coach didn't just hand her a list of commands. Everyone else had told her what to do with the dog, and the coach just asked questions until she worked out what her dog actually needed. She's stubborn, so being told what to do never worked on her. Being asked did.
+[INTERNAL] Maya: That's a really useful insight, and it generalizes — your stubborn, come-up-the-hard-way managers respond to being asked, not told. If you frame the training to the next reluctant one as "nobody's going to tell you how to raise your dog," that might be the unlock.
+[EXTERNAL] Rosa: I'm writing that down. "Nobody's going to tell you how to raise your dog." That's the pitch. My managers hate being told anything, so leading with that removes the wall before they can build it.
 [INTERNAL] Maya: Exactly. You're pre-empting the objection instead of arguing with it after. That's good change management, and you came to it yourself just now.
 [EXTERNAL] Rosa: With a little help. That's the theme of the whole call, isn't it.
 [INTERNAL] Maya: A fair theme. How's the broader rollout — anything you'd want to change or add?
@@ -41,7 +41,7 @@ Participants: [EXTERNAL] Rosa Delgado, Director of People & Culture (Aurora Bake
 [INTERNAL] Maya: I'll take forty. Was eighty-one steady across all the stores or is it lumpy — a few heavy stores dragging the average up?
 [EXTERNAL] Rosa: Good question. Let me think. It's pretty even, actually. Teresa's store is high, obviously, but even my quieter suburban stores are engaged. I don't have a dead-weight location, which surprised me.
 [INTERNAL] Maya: That's a healthy sign — even distribution means it's the program working, not one charismatic manager carrying the number. If it were lumpy I'd worry it wouldn't survive a manager leaving.
-[EXTERNAL] Rosa: That's reassuring, because managers do leave in this industry. Constantly. And the ones who stay, stay partly because they feel invested in. That's the theory, and my turnover's down year over year, which I won't credit entirely to coaching but it's part of the picture.
+[EXTERNAL] Rosa: That's reassuring, because managers do leave in this industry. Constantly. And the ones who stay, stay partly because they feel invested in. That's the theory, and my turnover's down year over year, which I won't credit entirely to the training but it's part of the picture.
 [INTERNAL] Maya: I wouldn't credit it entirely either, but when the timing lines up it's fair to call it a contributing factor. Do you track turnover by store? Because if the higher-engagement stores also run lower turnover, that's a correlation worth putting in front of your CEO.
 [EXTERNAL] Rosa: I do track it by store, and now that you say it, I should overlay the two. I'd bet Teresa's store, high-engagement, is also low-turnover now. That'd be a compelling slide.
 [INTERNAL] Maya: It would, and it's exactly what turns "the program feels good" into "the program is doing something measurable." I can't pull your HR turnover data, but if you overlay it against the engagement numbers I give you, you've got your story.

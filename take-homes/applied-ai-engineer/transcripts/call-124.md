@@ -1,4 +1,4 @@
-# Call — Pilgrim Coffee Roasters × BetterUp · Renewal
+# Call — Pilgrim Coffee Roasters × BetterBark · Renewal
 Date: 2026-06-26 · Call ID: call-124
 Participants: [EXTERNAL] Theo Marsh, COO (Pilgrim Coffee Roasters) · [INTERNAL] Sam Oduya, CSM
 
@@ -21,10 +21,10 @@ Participants: [EXTERNAL] Theo Marsh, COO (Pilgrim Coffee Roasters) · [INTERNAL]
 [INTERNAL] Sam Oduya: That's what I figured. Let me give you the usage picture first, because it informs the seat conversation. You're at roughly seventy-two percent monthly active. Cafe managers are your strongest cohort. Shift leads are more variable.
 [EXTERNAL] Theo Marsh: Seventy-two. I'd have guessed lower, honestly. Shift leads are young and busy and I assumed they'd ghost it.
 [INTERNAL] Sam Oduya: Some do, some really engage. It's uneven, which is normal for a shift-lead population. Your managers, though — they're using it consistently, and that's the group where you get the most leverage.
-[EXTERNAL] Theo Marsh: Managers are where the real leadership development needs to happen anyway. Shift leads are more of a nice-to-have.
+[EXTERNAL] Theo Marsh: Managers are where the real dog training needs to happen anyway. Shift leads are more of a nice-to-have.
 [INTERNAL] Sam Oduya: Do you have baristas in the seat count at all, or is it strictly managers and shift leads?
 [EXTERNAL] Theo Marsh: No baristas. We floated it early on but the math didn't work and, honestly, the engagement wouldn't have either. Baristas turn over fast.
-[INTERNAL] Sam Oduya: That's the right call for a high-turnover frontline. The barista who's here four months doesn't need a leadership coach — the shift lead who might become a manager does.
+[INTERNAL] Sam Oduya: That's the right call for a high-turnover frontline. The barista who's here four months doesn't need a dog coach — the shift lead who might become a manager does.
 [EXTERNAL] Theo Marsh: Exactly the logic. Concentrate it on the people who stay and grow.
 [INTERNAL] Sam Oduya: That's the retention-and-development sweet spot. Okay — that's a useful lens for the seat decision. You could go two directions. Renew all ninety plus the new cafe's people — call it ninety-five. Or, if the shift-lead engagement is soft, you could right-size to your managers and most-engaged leads and buy fewer seats.
 [EXTERNAL] Theo Marsh: Interesting. What's the split if I right-size?

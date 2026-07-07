@@ -1,4 +1,4 @@
-# Call — Pinnacle Realty × BetterUp · Check-in
+# Call — Pinnacle Realty × BetterBark · Check-in
 Date: 2026-06-19 · Call ID: call-019
 Participants: [EXTERNAL] Trish Donnelly, VP Operations (Pinnacle Realty) · [INTERNAL] Sam Oduya, CSM
 

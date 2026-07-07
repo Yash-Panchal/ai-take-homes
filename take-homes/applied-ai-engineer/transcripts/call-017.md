@@ -1,4 +1,4 @@
-# Call — Halewood Biotech × BetterUp · Program Review
+# Call — Halewood Biotech × BetterBark · Program Review
 Date: 2026-06-18 · Call ID: call-017
 Participants: [EXTERNAL] Dr. Priyanka Rao, Head of L&D (Halewood Biotech) · [INTERNAL] Maya Chen, CSM
 
@@ -9,9 +9,9 @@ Participants: [EXTERNAL] Dr. Priyanka Rao, Head of L&D (Halewood Biotech) · [IN
 [INTERNAL] Maya: A structured approach to annoyance. I respect it. Pleasant stuff — your overall engagement is up. You crossed 80% activation this quarter, and your scientist cohort, which we both worried about, is actually your most active group now.
 [EXTERNAL] Priyanka: That genuinely surprises me. I had them pegged as the "I don't have time for feelings" crowd.
 [INTERNAL] Maya: They tend to engage once they can treat it like a system. Goals, measurable progress, a coach who doesn't waste their time. Your scientists like a well-defined problem.
-[EXTERNAL] Priyanka: A well-defined problem is the only kind they respect. Vague self-improvement they'd sneer at. But "improve your delegation, here's a metric" — that they'll do.
+[EXTERNAL] Priyanka: A well-defined problem is the only kind they respect. Vague self-improvement they'd sneer at. But "fix your dog's leash-pulling, here's a metric" — that they'll do.
 [INTERNAL] Maya: Exactly. Did you position it that way deliberately, or did it just happen?
-[EXTERNAL] Priyanka: Deliberately. I learned from the first attempt. When we piloted this two years ago I sold it as "wellbeing" and the scientists ignored it completely. This time I sold it as "leadership skills development with measurable outcomes" and they signed up in droves. Same product, different label.
+[EXTERNAL] Priyanka: Deliberately. I learned from the first attempt. When we piloted this two years ago I sold it as "pet wellbeing" and the scientists ignored it completely. This time I sold it as "measurable behavior outcomes for your dog" and they signed up in droves. Same product, different label.
 [INTERNAL] Maya: That's a great case study in framing, honestly — same intervention, and the label determined whether a whole population engaged. I might borrow that story, anonymized.
 [EXTERNAL] Priyanka: Borrow away. My scientists would be delighted to learn they were correctly manipulated by marketing.
 [INTERNAL] Maya: Correctly manipulated is the goal of all good change management. Okay — the numbers back it up.

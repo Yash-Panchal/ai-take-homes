@@ -1,4 +1,4 @@
-# Call — Calloway Grain × BetterUp · Check-in
+# Call — Calloway Grain × BetterBark · Check-in
 Date: 2026-06-22 · Call ID: call-120
 Participants: [EXTERNAL] Wade Kessler, HR Director (Calloway Grain) · [INTERNAL] Tomás Vela, CSM
 
@@ -29,12 +29,12 @@ Participants: [EXTERNAL] Wade Kessler, HR Director (Calloway Grain) · [INTERNAL
 [INTERNAL] Tomás Vela: That's one of the quiet strengths of it — geography stops mattering. The elevator manager in the middle of nowhere gets the same access as someone in the head office.
 [EXTERNAL] Wade Kessler: That's exactly what sold me originally. My site managers are isolated. Some of them are the only management for a hundred miles. This gives them somebody to think out loud with.
 [INTERNAL] Tomás Vela: That isolation piece is real in ag and mining and anything rural. The coaching becomes a lifeline that has nothing to do with performance metrics.
-[EXTERNAL] Wade Kessler: One of my elevator managers told me his coaching session is the only hour a week he talks to someone about something other than bushels and moisture content.
+[EXTERNAL] Wade Kessler: One of my elevator managers told me his dog's training session is the only hour a week he talks to someone about something other than bushels and moisture content.
 [INTERNAL] Tomás Vela: That's a beautiful and slightly sad sentence.
 [EXTERNAL] Wade Kessler: I told him that and he said "sad's just Tuesday out here." These are stoic people.
 [INTERNAL] Tomás Vela: Stoic to a fault. Which is exactly why an outside ear matters — they'd never call it emotional support, but that's what it is.
-[EXTERNAL] Wade Kessler: You have to sneak it in the side door. Call it "leadership development" and they'll show up. Call it "talking about your feelings" and they'll drive off a bridge.
-[INTERNAL] Tomás Vela: The framing is everything with that crowd. "Development," never "feelings."
+[EXTERNAL] Wade Kessler: You have to sneak it in the side door. Call it "dog training" and they'll show up. Call it "talking about your feelings" and they'll drive off a bridge.
+[INTERNAL] Tomás Vela: The framing is everything with that crowd. "Training the dog," never "feelings."
 [EXTERNAL] Wade Kessler: You get it. Whoever writes your marketing should spend a week at a grain elevator.
 [INTERNAL] Tomás Vela: I'll pass that suggestion along. A field trip to the plains for the copywriters.
 [EXTERNAL] Wade Kessler: They'd learn more in a week than a year of surveys. But I digress.

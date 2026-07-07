@@ -1,4 +1,4 @@
-# Call — Northwind Logistics × BetterUp · Support
+# Call — Northwind Logistics × BetterBark · Support
 Date: 2026-06-19 · Call ID: call-008
 Participants: [EXTERNAL] Marcus Reed, HR Director (Northwind Logistics) · [INTERNAL] Sam Oduya, CSM
 
@@ -25,11 +25,11 @@ Participants: [EXTERNAL] Marcus Reed, HR Director (Northwind Logistics) · [INTE
 [INTERNAL] Sam: Say more about that math.
 [EXTERNAL] Marcus: Warehouse folks don't file tickets. If an app doesn't open, they don't email HR about it, they just... stop using it. They've got a job to do on a clock. A broken app isn't a problem they escalate, it's a thing they shrug at and move on from. So for every one who bothered to tell me, there are two or three who just quietly stopped opening it and I'll never hear from them.
 [INTERNAL] Sam: Right — the silent-failure population. That's actually an important detail for the write-up, because it means the crash count from tickets is going to massively undercount the real impact. A dozen reported at a site like yours could easily be thirty-plus actually hitting it.
-[EXTERNAL] Marcus: Exactly. And these are the people I most want engaged, because frontline coaching is the whole reason we bought this. If the app silently dies for warehouse workers after an update, that's my adoption number quietly bleeding out and I don't even see it happening.
+[EXTERNAL] Marcus: Exactly. And these are the people I most want engaged, because getting their dogs trained is the whole reason we bought this. If the app silently dies for warehouse workers after an update, that's my adoption number quietly bleeding out and I don't even see it happening.
 [INTERNAL] Sam: That's the real cost and I'll say so in the ticket — not just "app crashes," but "app crashes for exactly the population that won't report it, so the visible number understates it."
 [EXTERNAL] Marcus: You get it. That's why I like working with you and not the ticket portal. The portal would've made me pick a severity from a dropdown and then argued with me about it.
 [INTERNAL] Sam: The dropdown and I have a complicated relationship. Anyway — the crew that's affected, are these mostly new hires or your seasoned folks?
-[EXTERNAL] Marcus: Mix. But it lands hardest on the seasonal wave because they're the ones we just told "download the app, this is how you book your coaching." First impression of the whole program is a splash screen and then nothing.
+[EXTERNAL] Marcus: Mix. But it lands hardest on the seasonal wave because they're the ones we just told "download the app, this is how you book your dog's training." First impression of the whole program is a splash screen and then nothing.
 [INTERNAL] Sam: That's the worst possible first touch. You spend all the onboarding energy pointing them at it and it faceplants on launch.
 [EXTERNAL] Marcus: Right in front of a supervisor holding a clipboard, no less. It doesn't inspire confidence in the "we invested in your growth" speech.
 [INTERNAL] Sam: Now — this matches an issue I believe is already tracked from another customer after the 4.2 release. Same shape: Android crash on launch, correlated with the update, iOS unaffected.
@@ -45,9 +45,9 @@ Participants: [EXTERNAL] Marcus Reed, HR Director (Northwind Logistics) · [INTE
 [INTERNAL] Sam: Okay — the second thing. The one that's going to sound dumber.
 [EXTERNAL] Marcus: Right. And I want you to know our comms director made me raise it. This is not my initiative.
 [INTERNAL] Sam: Establishing your alibi. Noted. Go.
-[EXTERNAL] Marcus: She noticed the confirmation emails your system sends have "Bettreup" — B-E-T-T-R-E-U-P — in the footer. Your own company name, misspelled, right there in the email footer. Bettreup.
+[EXTERNAL] Marcus: She noticed the confirmation emails your system sends have "BetterBrak" — B-E-T-T-E-R-B-R-A-K — in the footer. Your own company name, misspelled, right there in the email footer. BetterBrak.
 [INTERNAL] Sam: Oh no.
-[EXTERNAL] Marcus: Oh yes. Bettreup. Every confirmation email, apparently.
+[EXTERNAL] Marcus: Oh yes. BetterBrak. Every confirmation email, apparently.
 [INTERNAL] Sam: That's — yeah, that's genuinely embarrassing. In the footer, so it's on every one of them.
 [EXTERNAL] Marcus: Every one. And she called it, quote, "a P0 brand catastrophe" and said she's, quote, "genuinely alarmed." She used the word alarmed. About a typo. I told her I'd relay it with a straight face and I am now doing that, and I want you to know that face is costing me a great deal.
 [INTERNAL] Sam: Your professionalism is noted and honored. Okay — let me split this fairly. In fairness to your comms director: a typo of our own company name in every single outbound email footer is genuinely embarrassing, and we absolutely should fix it. It's sloppy and it's the kind of thing a sharp-eyed customer notices. So she's not wrong to flag it.
@@ -58,7 +58,7 @@ Participants: [EXTERNAL] Marcus Reed, HR Director (Northwind Logistics) · [INTE
 [EXTERNAL] Marcus: Perfect. Send her a thank-you and she'll be insufferable for a week, but a happy insufferable.
 [INTERNAL] Sam: The best kind. Is she the one who caught the thing on the printed badges last year, or is that a different crusade?
 [EXTERNAL] Marcus: Same one. She has a genuine gift for finding the one wrong letter on anything with our name near it. In fairness it's a useful gift, I just wish it came with a volume knob.
-[INTERNAL] Sam: Every team needs one. I'd rather have the person who spots "Bettreup" than the person who ships it. Anything else while I have you, or is that the two?
+[INTERNAL] Sam: Every team needs one. I'd rather have the person who spots "BetterBrak" than the person who ships it. Anything else while I have you, or is that the two?
 [EXTERNAL] Marcus: That's the two. Fix the crashing app before the typo, in case that needed saying.
 [INTERNAL] Sam: It didn't, but confirmed and I appreciate you saying it out loud — the crash is the priority, the footer is housekeeping. So: I'll confirm the Android crash-on-launch is the tracked 4.2 issue and attach Northwind so your count and the silent-failure framing are represented; you'll poll the supervisors for device models when you can; and I'll log the "Bettreup" footer typo as a low-priority copy fix. Send you tracking links for both?
 [EXTERNAL] Marcus: Send them. My comms director will want the typo one framed and mounted.

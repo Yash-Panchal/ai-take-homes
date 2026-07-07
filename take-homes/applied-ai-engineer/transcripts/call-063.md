@@ -1,4 +1,4 @@
-# Call — Crescent Dental Group × BetterUp · Check-in
+# Call — Crescent Dental Group × BetterBark · Check-in
 Date: 2026-06-23 · Call ID: call-063
 Participants: [EXTERNAL] Nadia Okonkwo, People Development Lead (Crescent Dental Group) · [INTERNAL] Derek Okafor, CSM
 

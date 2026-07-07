@@ -1,4 +1,4 @@
-# Call — Brightpath Insurance × BetterUp · Support Follow-up
+# Call — Brightpath Insurance × BetterBark · Support Follow-up
 Date: 2026-06-21 · Call ID: call-011
 Participants: [EXTERNAL] Sofia Grant, HRIS Analyst (Brightpath Insurance) · [INTERNAL] Priya Nair, CSM
 

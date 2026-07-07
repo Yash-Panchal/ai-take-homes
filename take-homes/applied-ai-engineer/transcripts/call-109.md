@@ -1,4 +1,4 @@
-# Call — Prairie Rose Foods × BetterUp · Admin Sync
+# Call — Prairie Rose Foods × BetterBark · Admin Sync
 Date: 2026-06-29 · Call ID: call-109
 Participants: [EXTERNAL] Marcus Thibodeaux, IT Security & Compliance Manager (Prairie Rose Foods) · [INTERNAL] Sam Oduya, CSM
 

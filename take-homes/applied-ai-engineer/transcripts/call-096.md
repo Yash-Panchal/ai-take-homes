@@ -1,4 +1,4 @@
-# Call — Idlewild Camps × BetterUp · Relationship check-in
+# Call — Idlewild Camps × BetterBark · Relationship check-in
 Date: 2026-06-27 · Call ID: call-096
 Participants: [EXTERNAL] Colette Fontaine, Executive Director (Idlewild Camps) · [INTERNAL] Maya Chen, CSM
 
@@ -53,8 +53,8 @@ Participants: [EXTERNAL] Colette Fontaine, Executive Director (Idlewild Camps) �
 [INTERNAL] Maya: Good to know. I'll plan a light renewal touch for the fall, well after the season so you're not doing it from the porch mid-chaos.
 [EXTERNAL] Colette: Bless you for that. Doing a renewal call during swim session would be a nightmare, I'd be counting heads in the lake the whole time.
 [INTERNAL] Maya: We'll do it in the calm of September when the campers are gone and Gerald's the only one left. Anything you'd want to change or add for next season while it's on your mind?
-[EXTERNAL] Colette: Maybe expanding to a few of the returning senior counselors who are on a leadership track, the ones we're grooming into future directors. But that's a fall conversation, not now.
-[INTERNAL] Maya: That's a great instinct actually, catch the leadership-track folks early. Let's put it on the fall agenda alongside renewal. No commitment, just a conversation.
+[EXTERNAL] Colette: Maybe expanding to a few of the returning senior counselors whose dogs are on the new-puppy foundations track, the ones we're grooming into future directors. But that's a fall conversation, not now.
+[INTERNAL] Maya: That's a great instinct actually, catch the foundations-track folks early. Let's put it on the fall agenda alongside renewal. No commitment, just a conversation.
 [EXTERNAL] Colette: Perfect. Alright, I'll let you get back to your world and I'll get back to mine, which currently involves a missing kayak paddle.
 [INTERNAL] Maya: The stakes are both very low and very real, as you said. Just the small things from me, I'll share your director's sentiment anonymized internally, I'll pencil a fall renewal touch after your budget cycle, and we'll talk about the leadership-track counselors then too.
 [EXTERNAL] Colette: That's everything. Thanks for checking in without needing anything, Maya. It's nice.

@@ -1,4 +1,4 @@
-# Call — Stallard Freight × BetterUp · Support Escalation
+# Call — Stallard Freight × BetterBark · Support Escalation
 Date: 2026-06-19 · Call ID: call-020
 Participants: [EXTERNAL] Roy Petrakis, IT Coordinator (Stallard Freight) · [INTERNAL] Ravi Patel, Support Engineer · [INTERNAL] Derek Okafor, CSM
 
@@ -27,7 +27,7 @@ Participants: [EXTERNAL] Roy Petrakis, IT Coordinator (Stallard Freight) · [INT
 [INTERNAL] Ravi: That's what I'm probing — whether it's a specific OS version or the app version across the board. From what you're describing, it's tracking with the app update, and it's hitting a range of Android devices, while iOS is unaffected. Does that match?
 [EXTERNAL] Roy: That matches exactly. It's not "old phones" or "one weird model." It's "Android phones that took the update." iPhones fine.
 [INTERNAL] Derek: Roy, just so I understand the business impact — are these drivers blocked from something they need, or is it more of an annoyance?
-[EXTERNAL] Roy: Bit of both. The drivers use the app for their coaching sessions, which are supposed to help with the whole retention push we're doing — trucking has brutal turnover, that's the entire reason we bought this. So when a driver can't open the app, they can't do their session, and they shrug and go "well, I tried," and that's exactly the disengagement we're paying to prevent.
+[EXTERNAL] Roy: Bit of both. The drivers use the app for their dog-training sessions, which are supposed to help with the whole retention push we're doing — trucking has brutal turnover, that's the entire reason we bought this. So when a driver can't open the app, they can't do their session, and they shrug and go "well, I tried," and that's exactly the disengagement we're paying to prevent.
 [INTERNAL] Derek: Understood. So it's directly undercutting the program's purpose for the population it's aimed at.
 [EXTERNAL] Roy: Precisely. My drivers are the whole point and they're the ones locked out.
 [INTERNAL] Ravi: Okay. Let me tell you what I'm hearing so you can correct me: after the recent app update, the Android app crashes on launch — splash screen, then close, before login — across a range of Android devices, while iOS is completely unaffected. Clean reinstall doesn't fix it. That the shape of it?

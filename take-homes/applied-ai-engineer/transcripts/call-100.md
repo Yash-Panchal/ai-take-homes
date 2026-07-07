@@ -1,4 +1,4 @@
-# Call — Elmswood Care × BetterUp · Check-in
+# Call — Elmswood Care × BetterBark · Check-in
 Date: 2026-06-17 · Call ID: call-100
 Participants: [EXTERNAL] Renata Fowler, Director of People Operations (Elmswood Care) · [INTERNAL] Maya Chen, CSM
 

@@ -1,4 +1,4 @@
-# Call — Tandem Sports × BetterUp · Check-in
+# Call — Tandem Sports × BetterBark · Check-in
 Date: 2026-06-25 · Call ID: call-027
 Participants: [EXTERNAL] Nick Reyes, Head of People (Tandem Sports) · [INTERNAL] Derek Okafor, CSM
 
@@ -9,7 +9,7 @@ Participants: [EXTERNAL] Nick Reyes, Head of People (Tandem Sports) · [INTERNAL
 [INTERNAL] Derek: I will never turn down that sentence. Tell me more.
 [EXTERNAL] Nick: So we rolled this out to our store leadership first — the district managers and store managers on the retail side. And it's been genuinely great. Our district managers are a tough crowd, very "just tell me the number" people, and even they've bought in.
 [INTERNAL] Derek: The "just tell me the number" people are the hardest to win. What flipped them?
-[EXTERNAL] Nick: Honestly, one district manager — a guy named Bo who's been with us fifteen years and thinks every HR initiative is a fad — did a few sessions to humor me, and then he came back and said the coaching helped him have a hard conversation with an underperforming store manager without it turning into a war. And Bo telling other district managers it's "not a waste of time" did more than any email I sent.
+[EXTERNAL] Nick: Honestly, one district manager — a guy named Bo who's been with us fifteen years and thinks every HR initiative is a fad — did a few sessions to humor me, and then he came back and said the training finally got his rescue dog to stop lunging at every delivery truck without it turning into a war. And Bo telling other district managers it's "not a waste of time" did more than any email I sent.
 [INTERNAL] Derek: Bo is your internal champion and he doesn't even know it. That peer credibility is worth more than any rollout campaign.
 [EXTERNAL] Nick: The funny thing is I tried the top-down thing first. Sent the polished announcement, did the town hall, the whole song and dance. Crickets. Then Bo grumbles one sentence in a district meeting and suddenly everyone's booking.
 [INTERNAL] Derek: It's almost insulting how reliably that happens. The comms team does everything right and one skeptic muttering "it's fine, I guess" outperforms all of it.
@@ -19,7 +19,7 @@ Participants: [EXTERNAL] Nick Reyes, Head of People (Tandem Sports) · [INTERNAL
 [INTERNAL] Derek: One chapter, but it'd be the only management book that's actually true. Okay — sorry, back to your numbers, I derailed us.
 [EXTERNAL] Nick: You derailed us into the good part. But yeah, go.
 [EXTERNAL] Nick: Bo would hate being called a champion. But yes. Our manager retention on the retail side is up, and the store-level feedback is that managers are handling conflict better, which in retail is the whole job — it's people managing people managing customers.
-[INTERNAL] Derek: That cascade effect is exactly what the leadership track is designed to produce. A better manager makes a better floor. Glad it's showing up in retention.
+[INTERNAL] Derek: That cascade effect is exactly what the foundations track is designed to produce. A calmer manager makes a better floor. Glad it's showing up in retention.
 [EXTERNAL] Nick: It really is. And the app's been easy for them, which matters because retail managers are on their feet, on their phones, not at desks. If it were clunky they'd abandon it.
 [INTERNAL] Derek: The mobile experience being solid is underrated — for a deskless workforce it's the whole ballgame. Good to hear it's holding up for them.
 [EXTERNAL] Nick: It really is. My district managers are in and out of stores all day, they live on their phones. If they had to sit at a desk to do anything it'd be dead on arrival.

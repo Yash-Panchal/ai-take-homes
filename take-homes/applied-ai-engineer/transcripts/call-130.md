@@ -1,9 +1,9 @@
-# Call — Ryecroft Analytics × BetterUp · Technical Sync
+# Call — Ryecroft Analytics × BetterBark · Technical Sync
 Date: 2026-06-26 · Call ID: call-130
 Participants: [EXTERNAL] Nadia Osei, Staff Engineer, Platform (Ryecroft Analytics) · [EXTERNAL] Tim Brubaker, People Systems Lead (Ryecroft Analytics) · [INTERNAL] Ravi Patel, Support Engineer
 
 [INTERNAL] Ravi: Hey Nadia, Tim — thanks for hopping on. Tim, you set this up, so what's the shape of it?
-[EXTERNAL] Tim: Yeah, so this is mostly a Nadia show. Her team owns the integration between BetterUp and our internal people-data warehouse, and she's got a couple of engineering-level questions I can't answer. I'm here to nod and take notes.
+[EXTERNAL] Tim: Yeah, so this is mostly a Nadia show. Her team owns the integration between BetterBark and our internal people-data warehouse, and she's got a couple of engineering-level questions I can't answer. I'm here to nod and take notes.
 [INTERNAL] Ravi: Perfect, I like talking to the people who actually own the pipes. Nadia, before we start — how long have you been running the integration? I want to calibrate how deep I can go.
 [EXTERNAL] Nadia: Go as deep as you want. I built the original integration about eighteen months ago and I've maintained it since. I know your webhook payloads better than I know some of my coworkers' names.
 [INTERNAL] Ravi: Ha, that's the level I hoped for. Then I won't explain what a webhook is, which is my favorite kind of call.

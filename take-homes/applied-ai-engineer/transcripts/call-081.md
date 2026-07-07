@@ -1,4 +1,4 @@
-# Call — Silverline Events × BetterUp · Check-in
+# Call — Silverline Events × BetterBark · Check-in
 Date: 2026-06-26 · Call ID: call-081
 Participants: [EXTERNAL] Priya Ramaswamy, COO (Silverline Events) · [INTERNAL] Tomás Vela, CSM
 

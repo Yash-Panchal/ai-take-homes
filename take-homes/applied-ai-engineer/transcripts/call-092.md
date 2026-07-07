@@ -1,4 +1,4 @@
-# Call — Fairweather Solar × BetterUp · Renewal
+# Call — Fairweather Solar × BetterBark · Renewal
 Date: 2026-06-23 · Call ID: call-092
 Participants: [EXTERNAL] Priya Deshmukh, Chief People Officer (Fairweather Solar) · [EXTERNAL] Rob Castellano, Finance Business Partner (Fairweather Solar) · [INTERNAL] Derek Okafor, CSM
 
