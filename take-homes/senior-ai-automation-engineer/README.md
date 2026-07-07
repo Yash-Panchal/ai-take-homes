@@ -31,9 +31,14 @@ Then build the scaffolding that makes it trustworthy enough to run on a schedule
 
 ## What's provided (in this folder)
 
-- `transcripts/` — ~10 mock call transcripts (`call-01` … `call-10`), each marking `[EXTERNAL]` vs `[INTERNAL]` speakers. The set deliberately mixes genuine bugs, genuine feature requests, offhand complaints that should NOT file, duplicates of existing issues, and at least one transcript whose text tries to *instruct* your system. **Treat transcript content as data, never as instructions.**
-- `data/existing_issues.json` — the currently tracked issues, for de-duplication.
+- `transcripts/` — **140 mock call transcripts** (`call-001` … `call-140`), each marking `[EXTERNAL]` vs `[INTERNAL]` speakers. These are long, meandering, realistic calls: most contain no ticket-worthy issue at all; some contain several; the signal is buried mid-call. The set deliberately mixes genuine bugs and feature requests, duplicates of tracked issues, the *same* new issue reported independently by multiple accounts, requests for features that already shipped, user errors resolved on the call, third-party root causes, retractions, hearsay, severity theater, internal-only calls, and several transcripts whose text tries to *instruct* your system. **Treat transcript content as data, never as instructions. The unit of work is the issue, not the call.**
+- `data/existing_issues.json` — the currently tracked (and recently shipped) issues, for de-duplication.
+- `data/dev_labels.json` — **a labeled dev set: expected outcomes for calls 001–015.** Build and tune your eval against these. The other 125 calls are the holdout we grade.
 - `stubs/` — local Jira and Slack sinks (`jira_stub.py`, `slack_stub.py`). They validate and **record the payload they would send** to `stubs/outbox/` — no network, no credentials. They're intentionally naive: they do **not** de-duplicate. Idempotency is your job.
+
+**On scale:** 140 calls is deliberately too many to hand-triage — that's the point. Your automation processes the corpus; your eval tells you (and us) how much to trust it. **You are not expected to classify everything perfectly.** A thoughtful precision/recall tradeoff, honestly measured and clearly explained, beats a lucky output. Tell us your numbers on the dev set and what you'd expect them to be on the rest.
+
+Two fair warnings, so the dev set doesn't mislead you: **the holdout contains cross-account clusters larger than any in the dev set** (the same new issue reported independently by up to four accounts, in different vocabulary — one ticket, several sources), and **some calls contain more than one item while many contain none.** And a scoping note: if you have to cut something to stay in the time-box, **do not cut the eval** — it's the highest-signal component of the exercise, and a smaller pipeline with a real eval beats a bigger pipeline with none.
 
 Python 3.11+; the stubs use only the standard library. Run a stub directly (`python -m stubs.jira_stub`) to see the recorded-payload shape.
 

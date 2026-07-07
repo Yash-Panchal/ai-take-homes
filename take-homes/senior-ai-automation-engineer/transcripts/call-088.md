@@ -1,0 +1,64 @@
+# Call — Beaumont Insurance × BetterUp · Support escalation
+Date: 2026-06-18 · Call ID: call-088
+Participants: [EXTERNAL] Harold Petrakis, IT Director (Beaumont Insurance) · [EXTERNAL] Susan Ojo, Identity & Access Engineer (Beaumont Insurance) · [INTERNAL] Ravi Patel, Support Engineer · [INTERNAL] Derek Okafor, CSM
+
+[INTERNAL] Derek: Thanks everyone for hopping on quickly. Harold, Susan, this is Ravi from our support engineering side, I pulled him in because it sounds like this is squarely an identity thing and he's the one who actually knows what he's talking about.
+[EXTERNAL] Harold: Appreciate the fast turnaround. We put in the escalation yesterday afternoon and having a call today is honestly better than I expected from most vendors.
+[INTERNAL] Derek: We take the auth and access stuff seriously, it's the category where we can't afford to be slow. How are you two holding up, I know Beaumont's had a busy renewal season on top of this.
+[EXTERNAL] Harold: Busy is one word for it. We're mid-way through a broader IT modernization so my team's stretched thin, which is part of why this landed so hard, we don't have spare cycles to babysit a login problem.
+[INTERNAL] Derek: Understood, and that context matters, this is landing on an already-loaded team. Let's not waste your cycles then. We've got a genuinely disruptive problem and I want to make sure it doesn't get lost in a normal ticket queue.
+[EXTERNAL] Harold: Exactly my concern. That's why I wanted a real call, not a ticket number and a "we'll get back to you."
+[INTERNAL] Ravi: You've got a real call and a real engineer. Walk me through it from the top, assume I know nothing about your setup.
+[EXTERNAL] Harold: Susan, you're closer to it, take it.
+[EXTERNAL] Susan: Sure. So we federate all our BetterUp logins through our identity provider. Single sign-on. Users click into BetterUp, they bounce to our IdP, authenticate, come back, they're in. Standard.
+[INTERNAL] Ravi: Right, and which IdP are you running? That's going to matter a lot here.
+[EXTERNAL] Susan: We're on Ping. Ping Identity, PingFederate specifically. I want to be really clear about that up front because I did some searching before this call and I found people talking about an Okta session issue with your platform, and I want to say plainly, we are NOT on Okta. We have never been on Okta. This is Ping.
+[INTERNAL] Ravi: Okay, that's a genuinely important distinction, thank you for leading with it. What's the symptom?
+[EXTERNAL] Susan: Our users get hard-locked out at exactly 24 hours. And I mean exactly. If someone logs in at 9am Monday, at 9am Tuesday they are locked out. Not "asked to re-authenticate." Locked out.
+[INTERNAL] Ravi: When you say locked out, what do they actually see and can they get back in?
+[EXTERNAL] Susan: That's the part that's killing us. They cannot get back in. They hit the login, it bounces to Ping, Ping authenticates them fine, they come back to BetterUp, and BetterUp rejects them. It says something like account locked or access denied. They cannot self-recover. The only way back in is for me or one of my admins to go into the admin console and manually unlock that user's account.
+[INTERNAL] Ravi: So to be precise, the user successfully authenticates against Ping, but BetterUp is refusing the session and putting the account into a locked state that requires an admin unlock.
+[EXTERNAL] Susan: Exactly that. And it's every federated user, on a rolling 24-hour clock from their last login. So every day I've got a fresh batch of people I have to manually unlock. Yesterday I unlocked 40-something accounts one at a time. It's untenable.
+[EXTERNAL] Harold: This is why I escalated. It's not a papercut, it's a daily operational tax on Susan's team and a wall for our users.
+[INTERNAL] Ravi: No, I hear you, this is serious. Let me make sure I've got the shape of it because I want to distinguish it from something else we track. There's a known issue where Okta-federated users have their session expire earlier than the configured lifetime, but crucially in that case the user can just log back in, no admin involved, and it's Okta-specific. What you're describing is different on both counts, correct? It's Ping, and the user cannot log back in without admin intervention.
+[EXTERNAL] Susan: Correct on both. Not Okta, and they absolutely cannot get back in themselves. If they could just re-login I'd be annoyed but I wouldn't be escalating. The hard lockout requiring a manual admin unlock is the killer. That's the whole problem.
+[INTERNAL] Ravi: That's a meaningfully different failure mode and I want to file it as its own thing, not lump it under the Okta item, because the remediation is going to be totally different. Let me get some specifics. The 24 hours, is that tied to your session lifetime config on the Ping side or on ours?
+[EXTERNAL] Susan: That's what's weird. Our Ping session lifetime is set to 12 hours, so I'd expect a re-auth prompt at 12 hours. The 24-hour lockout doesn't match any timeout we've configured anywhere. It's like BetterUp has its own 24-hour hard cap that fires independently and then poisons the account instead of just ending the session.
+[INTERNAL] Ravi: That's a very useful observation. So the lockout timing doesn't correspond to your configured session lifetime, it's a separate 24-hour clock, and instead of a clean session expiry it transitions the account into a locked state.
+[EXTERNAL] Susan: Yes. And I've checked our side thoroughly. Our Ping logs show a clean, successful authentication every time the user tries to come back. Ping is doing its job. The rejection is happening after the SAML assertion is accepted, on your end.
+[INTERNAL] Ravi: I believe you, and the fact that you can see a clean assertion accepted on your side and still get a locked account on ours points the finger at us, not at your config. When did this start, was there a change on either side?
+[EXTERNAL] Susan: It started about eight days ago. We didn't change anything on the Ping side, I've triple-checked our change log. No config edits, no cert rotation, no metadata update. It just started happening.
+[EXTERNAL] Harold: Which is why we're confident it's not us. We didn't touch anything and suddenly every federated user is on a 24-hour lockout timer.
+[INTERNAL] Ravi: That timing is helpful, eight days puts it right around some backend changes on our side, though I won't speculate on cause until engineering looks. Let me ask a couple more scoping questions. Is it every single Ping-federated user, or only a subset, like a particular group or role?
+[EXTERNAL] Susan: Every federated user, as far as I can tell. It's not scoped to a group. Executives, adjusters, admins, everyone on SSO is on the same 24-hour timer. The only people unaffected are our two break-glass local accounts that don't go through Ping at all.
+[INTERNAL] Ravi: That's actually a very clean signal. Your local non-federated accounts are fine, only the Ping-federated path breaks. That narrows it a lot, it's specifically in the federated session handling.
+[EXTERNAL] Susan: That's how I read it too. The local accounts have never once locked. It's purely the SSO users.
+[INTERNAL] Ravi: And when a locked user hits it, does the account show as locked in your admin console, or does it look active to you until they try to log in?
+[EXTERNAL] Susan: It shows as locked in the console, explicitly. There's a locked status flag on the account and I have to clear it. It's not a silent thing, the account is genuinely in a locked state that I can see and have to reverse.
+[INTERNAL] Ravi: Good, so it's a real state transition on our side, not just a transient session rejection. That's important, it means something is actively flipping these accounts to locked at the 24-hour mark. What I can tell you is I'm going to file this as a distinct, high-severity bug: Ping-federated users hard-locked at 24 hours, unable to re-authenticate despite successful IdP auth, requiring manual admin unlock. Explicitly not the Okta early-expiry item, because the symptoms diverge, Ping not Okta, hard lockout not soft expiry, admin-unlock-required not self-recoverable.
+[EXTERNAL] Susan: Thank you for keeping those separate. I was worried this would get triaged as "oh that's the known Okta thing" and closed.
+[INTERNAL] Ravi: It would be the wrong call to do that and I'll make sure the ticket says so in bold. The remediation for a soft early-expiry is nothing like the remediation for a hard account lock, so conflating them would waste everyone's time.
+[EXTERNAL] Harold: What's the near-term relief here? Susan cannot keep hand-unlocking 40 accounts a day.
+[INTERNAL] Ravi: Two things. First, let me check whether there's a workspace-level setting on our side controlling that 24-hour cap that we can loosen or disable while engineering roots it out, that might stop the bleeding today or tomorrow. Second, if there's any bulk-unlock capability I'll find it, because one-at-a-time is unacceptable as a daily ritual.
+[EXTERNAL] Susan: A bulk unlock would at least make the daily pain survivable while you fix the root cause. Right now there's no bulk option that I can find, it's user by user.
+[INTERNAL] Ravi: Understood, I'll confirm what exists. But to be honest with you, the real fix is the backend change, and I don't want to oversell a workaround. Let me get eyes on it today.
+[EXTERNAL] Harold: How fast can we expect movement? I need something to tell our CISO, this is affecting our claims adjusters who need daily access.
+[INTERNAL] Derek: Let me speak to that from the account side. Ravi's filing it high-sev, and given it's a hard lockout with no self-service recovery, I'll personally push it as a priority escalation with our product and engineering leads today. I can't promise you an engineering ETA on this call, that'd be irresponsible, but I can promise you a status update within one business day and that it will not sit in a normal queue.
+[EXTERNAL] Harold: That's what I need. One business day for a real status, not a ticket number and silence.
+[INTERNAL] Derek: You have my commitment on that.
+[INTERNAL] Ravi: And Susan, can you send me two things after this? A handful of the affected usernames with timestamps of when they were locked, and an export of your Ping authentication logs for one of those users showing the successful assertion right before the BetterUp rejection. That'll let engineering correlate on our side immediately.
+[EXTERNAL] Susan: I can have both to you within the hour. I've already got them queued up because I anticipated you'd ask.
+[INTERNAL] Ravi: You're my favorite kind of customer. That'll accelerate this a lot. One more thing that would help, do you happen to know if the lock fires exactly at 24 hours to the minute, or is there some jitter, 24 hours plus or minus a few minutes?
+[EXTERNAL] Susan: From what I've seen it's remarkably precise, within a minute or two of the 24-hour mark from their last successful login. It's not random, it's a clock.
+[INTERNAL] Ravi: That precision is another strong clue, it means there's a scheduled or timer-driven expiry firing, not a gradual token decay. I'll note "fires within a minute or two of the 24-hour mark, clock-precise" because engineering will want that.
+[EXTERNAL] Susan: Makes sense. I'll include the exact timestamps in the export so they can see the precision themselves.
+[INTERNAL] Ravi: Perfect, timestamps will prove it better than my description. I just want it fixed for you, the manual unlocking is clearly eating your whole morning.
+[EXTERNAL] Susan: It is. Every single morning starts with the unlock queue.
+[INTERNAL] Ravi: Understood. Let me read back the ticket so we're aligned: Ping Identity federated users experience a hard account lockout at exactly 24 hours from last login, are unable to re-authenticate despite a successful Ping SAML assertion, and require a manual admin unlock per user to regain access. Started roughly eight days ago with no customer-side config change. Distinct from the Okta early-session-expiry item, which is soft and self-recoverable. High severity, billing-and-access-blocking, active daily operational impact.
+[EXTERNAL] Susan: That's a perfect description. Better than I'd have written it.
+[EXTERNAL] Harold: I'm satisfied with that. Susan sends the logs, Ravi files high-sev and checks for a config lever and a bulk unlock, Derek pushes it as a priority escalation and gets us a status within one business day.
+[INTERNAL] Derek: That's the plan. I'll own the status update, you'll hear from me tomorrow regardless of whether we have a fix, so you're never wondering.
+[EXTERNAL] Harold: Appreciated. This is the responsiveness I wanted.
+[INTERNAL] Ravi: Thanks Susan, thanks Harold. Send me those logs and I'll get moving the second they land.
+[EXTERNAL] Susan: On their way shortly. Thank you both.
+[INTERNAL] Derek: Talk tomorrow. Thanks all.

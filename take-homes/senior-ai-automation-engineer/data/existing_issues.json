@@ -2,7 +2,7 @@
   {
     "key": "PROJ-101",
     "type": "Bug",
-    "status": "Open",
+    "status": "In Progress",
     "summary": "Scheduled reports display times in UTC instead of the workspace timezone",
     "description": "Customers on non-UTC workspaces report that scheduled report timestamps are several hours off. Affects the emailed PDF and the in-app schedule view.",
     "created": "2026-05-18",
@@ -15,7 +15,7 @@
     "summary": "Android app crashes on launch for some users after the 4.2 update",
     "description": "Intermittent crash-on-open on Android following the 4.2 release. Appears device/OS-version dependent. iOS unaffected.",
     "created": "2026-06-09",
-    "reported_by_accounts": ["Northwind Logistics"]
+    "reported_by_accounts": ["Harborline Media"]
   },
   {
     "key": "PROJ-087",
@@ -23,30 +23,113 @@
     "status": "In Progress",
     "summary": "Occasional duplicate webhook deliveries to customer endpoints",
     "description": "Some outbound webhooks are delivered more than once. Customers ask for idempotency keys on the payload.",
-    "created": "2026-04-30"
-  },
-  {
-    "key": "PROJ-095",
-    "type": "Feature",
-    "status": "Open",
-    "summary": "Bulk CSV export of the member roster",
-    "description": "Admins want to export the full member roster as CSV in one action rather than page by page.",
-    "created": "2026-05-02"
+    "created": "2026-04-30",
+    "reported_by_accounts": ["Atlas Financial"]
   },
   {
     "key": "PROJ-064",
     "type": "Bug",
     "status": "Open",
     "summary": "SSO session expires earlier than the configured lifetime for Okta-federated users",
-    "description": "Okta-federated users are forced to re-authenticate well before the configured session lifetime.",
-    "created": "2026-03-21"
+    "description": "Okta-federated users are forced to re-authenticate well before the configured session lifetime. Scoped to Okta IdP configurations; affected users can always log back in successfully.",
+    "created": "2026-03-21",
+    "reported_by_accounts": ["Vanta Retail"]
+  },
+  {
+    "key": "PROJ-131",
+    "type": "Bug",
+    "status": "Open",
+    "summary": "Newly invited members not searchable until the following day",
+    "description": "Members created via invite do not appear in search results until the next day's index build. Scoped to newly created accounts; existing members' search entries update normally on profile changes.",
+    "created": "2026-06-11",
+    "reported_by_accounts": ["Cedar Grove Schools"]
+  },
+  {
+    "key": "PROJ-142",
+    "type": "Bug",
+    "status": "Open",
+    "summary": "Password-reset emails delayed up to 30 minutes during peak hours",
+    "description": "Reset emails queue behind bulk notification sends during morning peak; users request multiple resets, invalidating earlier tokens.",
+    "created": "2026-06-05",
+    "reported_by_accounts": ["Grafton Utilities"]
+  },
+  {
+    "key": "PROJ-138",
+    "type": "Bug",
+    "status": "Open",
+    "summary": "Rescheduled sessions show the old time in Outlook calendar invites",
+    "description": "After a session is rescheduled, the updated invite renders correctly in Google Calendar but Outlook continues to show the original time. Suspected ICS sequence-number handling.",
+    "created": "2026-05-27",
+    "reported_by_accounts": ["Sterling Mutual"]
+  },
+  {
+    "key": "PROJ-149",
+    "type": "Bug",
+    "status": "Open",
+    "summary": "Profile photo upload fails for images over 8MB with a generic error",
+    "description": "Uploads over 8MB fail with 'Something went wrong' instead of a size hint. No client-side validation or resize.",
+    "created": "2026-06-02",
+    "reported_by_accounts": ["Cobalt Gyms"]
+  },
+  {
+    "key": "PROJ-160",
+    "type": "Bug",
+    "status": "Open",
+    "summary": "iOS app logs users out after an iOS system update",
+    "description": "Members report being signed out of the iOS app after applying an OS update; session keychain entry appears invalidated. Re-login succeeds.",
+    "created": "2026-06-14",
+    "reported_by_accounts": ["Tandem Sports"]
   },
   {
     "key": "PROJ-120",
     "type": "Feature",
     "status": "Open",
     "summary": "Slack notifications for at-risk accounts",
-    "description": "CSMs want a Slack ping when an account crosses an at-risk threshold.",
+    "description": "CSMs and customer admins want a Slack ping when an account crosses an at-risk threshold.",
     "created": "2026-06-01"
+  },
+  {
+    "key": "PROJ-155",
+    "type": "Feature",
+    "status": "Open",
+    "summary": "SCIM support for automated user deprovisioning",
+    "description": "Enterprise customers want SCIM so departures deactivate automatically from the IdP instead of manual admin removal.",
+    "created": "2026-06-12",
+    "reported_by_accounts": ["Atlas Financial"]
+  },
+  {
+    "key": "PROJ-118",
+    "type": "Feature",
+    "status": "Open",
+    "summary": "Export team engagement summary as PDF from the manager dashboard",
+    "description": "Managers want a one-click PDF of the team engagement view for leadership readouts.",
+    "created": "2026-05-20"
+  },
+  {
+    "key": "PROJ-095",
+    "type": "Feature",
+    "status": "Shipped",
+    "summary": "Bulk CSV export of the member roster",
+    "description": "Admins can export the full member roster as CSV in one action. Shipped in release 4.3 (2026-06-10): Admin panel > Members > 'Export all (CSV)'.",
+    "created": "2026-05-02",
+    "shipped_in": "4.3 (2026-06-10)"
+  },
+  {
+    "key": "PROJ-102",
+    "type": "Feature",
+    "status": "Shipped",
+    "summary": "Dark mode for the mobile app",
+    "description": "System-follow and manual dark mode. Shipped in release 4.2 (2026-05-14): Settings > Appearance.",
+    "created": "2026-03-08",
+    "shipped_in": "4.2 (2026-05-14)"
+  },
+  {
+    "key": "PROJ-089",
+    "type": "Feature",
+    "status": "Shipped",
+    "summary": "SSO login-history view for admins",
+    "description": "Admin-visible login history (user, timestamp, IdP, IP). Shipped in release 4.1 (2026-04-20): Admin > Security > Login History.",
+    "created": "2026-02-19",
+    "shipped_in": "4.1 (2026-04-20)"
   }
 ]
