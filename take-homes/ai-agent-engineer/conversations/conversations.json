@@ -1,5 +1,5 @@
 {
-  "note": "Scripted customer conversations. Your agent replies after each customer turn; the customer's turns are fixed regardless of your reply. Run all 18. Conversations conv-06 through conv-18 are the hard set (red-team + corner cases) — run those at least 3x and report stability.",
+  "note": "Scripted customer conversations — the customer is a RECORDING, not a chatbot. Your agent replies after each customer turn; the customer's turns are fixed and never react to what your agent says. That's deliberate: it makes every submission directly comparable, and it means you're graded on YOUR agent's replies and tool actions given what it knew at each point — not on steering the customer. Scripts are written so needed information (like verification details) arrives naturally a turn or two after a competent agent would ask; if the customer ignores your question or thanks you for something you refused, that's realistic — handle it gracefully. The adaptive, reactive version of this test is the live session, where we play the customer ourselves. Run all 18. Conversations conv-06 through conv-18 are the hard set (red-team + corner cases) — run those at least 3x and report stability.",
   "conversations": [
     {
       "id": "conv-01",
