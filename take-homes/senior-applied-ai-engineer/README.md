@@ -1,4 +1,4 @@
-# Senior AI Automation Engineer — Take-Home
+# Senior Applied AI Engineer — Take-Home
 
 Welcome, and thanks for the time. This is a small but real slice of the actual job. Spend **4–6 hours** — please don't gold-plate. A tight, well-engineered small build beats a sprawling half-finished one; if you run out of time, stub the lowest-value piece and say so in your write-up.
 

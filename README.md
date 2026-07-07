@@ -8,8 +8,8 @@ Public home for the take-home exercises used in BetterUp's AI / AI-automation en
 
 | Role | Folder | Time-box |
 |------|--------|----------|
-| Senior AI Automation Engineer | [`take-homes/senior-ai-automation-engineer/`](take-homes/senior-ai-automation-engineer/) | 4–6 hours |
-| AI Agent Engineer | [`take-homes/ai-agent-engineer/`](take-homes/ai-agent-engineer/) | 2–3 hours |
+| Senior Applied AI Engineer | [`take-homes/senior-applied-ai-engineer/`](take-homes/senior-applied-ai-engineer/) | 4–6 hours |
+| Senior AI Agent Engineer | [`take-homes/ai-agent-engineer/`](take-homes/ai-agent-engineer/) | 2–3 hours |
 
 *(More roles will be added here over time.)*
 
