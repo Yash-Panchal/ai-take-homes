@@ -39,7 +39,7 @@ Python 3.11+ for the provided files; your agent can use any language if you repl
 
 ## Stack
 
-Your call: raw Anthropic API, Claude Agent SDK, LangGraph, anything. If you don't have model API access, ask your recruiter for a key. Wire the tools directly or over MCP / your preferred tool-contract pattern — we care about the boundary and the judgment, not the transport.
+Your call: raw Anthropic API, Claude Agent SDK, LangGraph, anything — on your own model access. Wire the tools directly or over MCP / your preferred tool-contract pattern — we care about the boundary and the judgment, not the transport.
 
 ## AI-tool use (allowed, expected, disclosed)
 
