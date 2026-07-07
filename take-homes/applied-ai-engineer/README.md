@@ -38,11 +38,8 @@ Then build the scaffolding that makes it trustworthy enough to run on a schedule
 
 - `transcripts/` — **140 mock call transcripts** (`call-001` … `call-140`), each marking `[EXTERNAL]` vs `[INTERNAL]` speakers: long, meandering, realistic calls between BetterBark's customers and its team, in all their variety.
 - `data/existing_issues.json` — the currently tracked (and recently shipped) issues, for de-duplication.
-- `data/dev_labels.json` — **a labeled dev set: expected outcomes for calls 001–015.** Build and tune your eval against these. The other 125 calls are the holdout we grade.
+- `data/dev_labels.json` — **a labeled dev set: expected outcomes for calls 001–015.** Build and tune your eval against these; report your numbers on them and what you expect on the rest. The other 125 calls are the holdout we grade.
 - `stubs/` — local Jira and Slack sinks (`jira_stub.py`, `slack_stub.py`). They validate and **record the payload they would send** to `stubs/outbox/` — no network, no credentials. They're intentionally naive: they do **not** de-duplicate. Idempotency is your job.
-
-**On the dev set:** build and tune your eval against the labeled calls; report your numbers on them and what you expect on the rest.
-
 
 Python 3.11+; the stubs use only the standard library. Run a stub directly (`python -m stubs.jira_stub`) to see the recorded-payload shape.
 

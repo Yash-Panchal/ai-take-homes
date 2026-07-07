@@ -17,11 +17,11 @@ Public home for the take-home exercises used in BetterUp's AI / AI-automation en
 
 1. Your recruiter points you at the take-home for your role.
 2. **Fork this repo** and build your solution in your fork — see [`SUBMISSION.md`](SUBMISSION.md) for the exact flow.
-3. Submit at least **24 hours before your technical deep-dive**, which is a walkthrough of the code you wrote.
+3. Submit at least **24 hours before your technical deep-dive**, which is a working session on your solution.
 
 ## What we value
 
-Use AI tools — we do, every day — and **disclose how**. We care far more about judgment, reliability instincts, and code you can explain and defend than about whether you solved it unaided or used your whole toolkit. Read the role's README for specifics.
+Use AI tools — we do, every day — and **disclose how**. We care far more about judgment, reliability instincts, and work you can explain and stand behind than about whether you solved it unaided or used your whole toolkit. Read the role's README for specifics.
 
 ## Ground rules
 
