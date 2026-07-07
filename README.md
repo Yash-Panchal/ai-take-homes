@@ -6,10 +6,10 @@ Public home for the take-home exercises used in BetterUp's AI / AI-automation en
 
 ## Take-homes
 
-| Role | Folder | Time-box |
-|------|--------|----------|
-| Senior Applied AI Engineer | [`take-homes/senior-applied-ai-engineer/`](take-homes/senior-applied-ai-engineer/) | 4–6 hours |
-| Senior AI Agent Engineer | [`take-homes/ai-agent-engineer/`](take-homes/ai-agent-engineer/) | 2–3 hours |
+| Exercise | Role | Folder | Time-box |
+|----------|------|--------|----------|
+| **The June Tapes** | Senior Applied AI Engineer | [`take-homes/senior-applied-ai-engineer/`](take-homes/senior-applied-ai-engineer/) | 4–6 hours |
+| **Leaf Support** | Senior AI Agent Engineer | [`take-homes/ai-agent-engineer/`](take-homes/ai-agent-engineer/) | 2–3 hours |
 
 *(More roles will be added here over time.)*
 
