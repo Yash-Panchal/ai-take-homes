@@ -6,7 +6,7 @@ Welcome, and thanks for the time. This is a small but real slice of the actual j
 
 It is the spine of the loop: submit it **at least 24 hours before your technical deep-dive**, which is a working session on your solution: how you approached the problem, and how you know it works. Build something you can stand behind.
 
-> See [`/SUBMISSION.md`](../../SUBMISSION.md) at the repo root for exactly how to submit (fork → branch → PR from your fork). **Everything in this folder is fictional**, invented for the exercise.
+> This exercise lives at **<https://github.com/betterup/ai-take-homes>** (this document is `take-homes/applied-ai-engineer/README.md` there). If you're reading a PDF or a copy, start from that link. See [`/SUBMISSION.md`](https://github.com/betterup/ai-take-homes/blob/main/SUBMISSION.md) at the repo root for exactly how to submit (fork → branch → PR from your fork). **Everything in this folder is fictional**, invented for the exercise.
 
 ## The job this models
 

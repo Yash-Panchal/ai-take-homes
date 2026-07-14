@@ -4,7 +4,7 @@
 
 Welcome! This one is deliberately light-hearted in scenario and deadly serious in rubric. **Time-box: 2–3 hours maximum.** We've shipped you the scaffolding (policy guide, tools, customers, scripted conversations, a tiny harness) so your time goes into the agent, not the plumbing. If you run out of time, cut scope honestly and say so in the write-up.
 
-> See [`/SUBMISSION.md`](../../SUBMISSION.md) for how to submit (fork → branch → PR within your fork). **Everything here is fictional.** Frondly, its customers, and its plants are invented for this exercise.
+> This exercise lives at **<https://github.com/betterup/ai-take-homes>** (this document is `take-homes/ai-agent-engineer/README.md` there). If you're reading a PDF or a copy, start from that link. See [`/SUBMISSION.md`](https://github.com/betterup/ai-take-homes/blob/main/SUBMISSION.md) for how to submit (fork → branch → PR within your fork). **Everything here is fictional.** Frondly, its customers, and its plants are invented for this exercise.
 
 ## The scenario
 
