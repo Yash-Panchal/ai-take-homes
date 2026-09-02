@@ -1,0 +1,180 @@
+{
+  "accuracy": 1.0,
+  "cases": [
+    {
+      "actual": 1,
+      "call_id": "call-001",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 0,
+      "call_id": "call-002",
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-003",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-004",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-005",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-006",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 0,
+      "call_id": "call-007",
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "actual": 2,
+      "call_id": "call-008",
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "actual": 0,
+      "call_id": "call-009",
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "actual": 2,
+      "call_id": "call-010",
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-011",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-012",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-013",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-014",
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "actual": 1,
+      "call_id": "call-015",
+      "expected": 1,
+      "pass": true
+    }
+  ],
+  "note": "The offline classifier is deterministic; production model runs should repeat this eval and replace each per-case record with its passing_runs/total_runs stability.",
+  "pass_definition": "A call passes when its new-issue count and types match the labels, every corroboration targets the labeled existing issue, and calls with no labeled issue produce no candidates.",
+  "passed": 15,
+  "reliability_protocol": "Run the same labeled cases through each model run; report per-case passing_runs/total_runs and route any case below 100% stability to review.",
+  "repeated_runs": {
+    "per_case": {
+      "call-001": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-002": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-003": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-004": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-005": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-006": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-007": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-008": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-009": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-010": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-011": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-012": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-013": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-014": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      },
+      "call-015": {
+        "passing_runs": 1,
+        "stable": true,
+        "total_runs": 1
+      }
+    },
+    "runs": 1
+  },
+  "total": 15
+}

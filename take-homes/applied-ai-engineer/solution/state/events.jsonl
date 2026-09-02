@@ -1,0 +1,50 @@
+{"ai_mode": "langgraph", "event": "discovery_completed", "metrics": {"candidates": 23, "corroborations": 14, "failed_transcripts": 0, "new_issues": 9, "parsed_transcripts": 140, "transcripts": 140}, "run_id": "20260902T161828Z-f025077a", "status": "ok"}
+{"action": "file-new", "call_ids": ["call-001", "call-052"], "candidate_id": "5af9f3910c6c317a21e1", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "file-new", "call_ids": ["call-003", "call-088"], "candidate_id": "6c290c510715f16ed480", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-004"], "candidate_id": "5eadcd62f736ffaff390", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-005"], "candidate_id": "a56e575a12a2bede023c", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "file-new", "call_ids": ["call-006", "call-012", "call-026", "call-072"], "candidate_id": "e738a82164cb5101f4c2", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-008"], "candidate_id": "86947aeb19f1afa679d9", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "file-new", "call_ids": ["call-008"], "candidate_id": "6a2ae0e1ee73079af785", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "file-new", "call_ids": ["call-010"], "candidate_id": "065fcb618a18e794f304", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "file-new", "call_ids": ["call-010"], "candidate_id": "300e1c7673d264de958d", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "file-new", "call_ids": ["call-011"], "candidate_id": "907010f2ab1351694af3", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "file-new", "call_ids": ["call-013", "call-053", "call-107", "call-130"], "candidate_id": "80cf97d07c39af51bc6f", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "file-new", "call_ids": ["call-014"], "candidate_id": "5cee39bf4ff3706ec6e3", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-015"], "candidate_id": "63e58267ed028489e53b", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-020"], "candidate_id": "33f678fa50ef206dd3f6", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-026"], "candidate_id": "3bd8f26d03e1df6626d2", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-035"], "candidate_id": "4e3ec537beb80d6cc414", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-040"], "candidate_id": "35cca7fcc4b87560b7e3", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-053"], "candidate_id": "e2f3ddf9d53b02c7cd69", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-055"], "candidate_id": "9b65ee983fab170c7531", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-082"], "candidate_id": "ab644d72212429c342a3", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-105"], "candidate_id": "3dffdf42fc05bf478e1e", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-114"], "candidate_id": "9e28781178aa8eed94c4", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"action": "corroborate", "call_ids": ["call-130"], "candidate_id": "1b745c957a4b6b2e5242", "event": "candidate_created", "run_id": "20260902T161838Z-13080e8b"}
+{"event": "discovery_completed", "metrics": {"candidates": 23, "corroborations": 14, "external_calls": 134, "failed_transcripts": 0, "new_issues": 9, "parsed_transcripts": 140, "transcripts": 140}, "run_id": "20260902T161838Z-13080e8b", "status": "ok"}
+{"ai_mode": "langgraph", "event": "discovery_completed", "metrics": {"candidates": 23, "corroborations": 14, "failed_transcripts": 0, "new_issues": 9, "parsed_transcripts": 140, "transcripts": 140}, "run_id": "20260902T163718Z-98032da8", "status": "ok"}
+{"action": "file-new", "call_ids": ["call-001", "call-052"], "candidate_id": "5af9f3910c6c317a21e1", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "file-new", "call_ids": ["call-003", "call-088"], "candidate_id": "6c290c510715f16ed480", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-004"], "candidate_id": "5eadcd62f736ffaff390", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-005"], "candidate_id": "a56e575a12a2bede023c", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "file-new", "call_ids": ["call-006", "call-012", "call-026", "call-072"], "candidate_id": "e738a82164cb5101f4c2", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-008"], "candidate_id": "86947aeb19f1afa679d9", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "file-new", "call_ids": ["call-008"], "candidate_id": "6a2ae0e1ee73079af785", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "file-new", "call_ids": ["call-010"], "candidate_id": "065fcb618a18e794f304", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "file-new", "call_ids": ["call-010"], "candidate_id": "300e1c7673d264de958d", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "file-new", "call_ids": ["call-011"], "candidate_id": "907010f2ab1351694af3", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "file-new", "call_ids": ["call-013", "call-053", "call-107", "call-130"], "candidate_id": "80cf97d07c39af51bc6f", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "file-new", "call_ids": ["call-014"], "candidate_id": "5cee39bf4ff3706ec6e3", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-015"], "candidate_id": "63e58267ed028489e53b", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-020"], "candidate_id": "33f678fa50ef206dd3f6", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-026"], "candidate_id": "3bd8f26d03e1df6626d2", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-035"], "candidate_id": "4e3ec537beb80d6cc414", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-040"], "candidate_id": "35cca7fcc4b87560b7e3", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-053"], "candidate_id": "e2f3ddf9d53b02c7cd69", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-055"], "candidate_id": "9b65ee983fab170c7531", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-082"], "candidate_id": "ab644d72212429c342a3", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-105"], "candidate_id": "3dffdf42fc05bf478e1e", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-114"], "candidate_id": "9e28781178aa8eed94c4", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"action": "corroborate", "call_ids": ["call-130"], "candidate_id": "1b745c957a4b6b2e5242", "event": "candidate_created", "run_id": "20260902T163719Z-cd5d7d70"}
+{"event": "discovery_completed", "metrics": {"candidates": 23, "corroborations": 14, "external_calls": 134, "failed_transcripts": 0, "new_issues": 9, "parsed_transcripts": 140, "transcripts": 140}, "run_id": "20260902T163719Z-cd5d7d70", "status": "ok"}
