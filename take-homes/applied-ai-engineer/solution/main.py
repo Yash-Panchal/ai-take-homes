@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import argparse
 
-from langgraph_agent import approve, discover, evaluate
+from agent import approve, discover, evaluate
 
 
 def main() -> int:

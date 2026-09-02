@@ -1,7 +1,7 @@
 ## What I built
 
 This `_AI` copy adds a constrained LangGraph orchestration layer in
-`solution/langgraph_agent.py`. Its nodes parse a call, send only filtered
+`solution/agent.py`. Its nodes parse a call, send only filtered
 external evidence to a structured LLM classifier, validate the proposal, and
 construct the existing review-queue candidate format. `OPENAI_API_KEY` enables
 the model path; otherwise the copied deterministic classifier is used as an

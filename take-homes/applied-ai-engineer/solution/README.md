@@ -10,7 +10,7 @@ python solution/main.py eval
 python solution/main.py approve <candidate-id> ...
 ```
 
-This copy uses `solution/langgraph_agent.py`. The graph runs parse, model
+This copy uses `solution/agent.py`. The graph runs parse, model
 extraction, structured validation, and candidate construction nodes. The LLM
 is used only to propose issue intent and first-pass severity. External-speaker
 filtering, evidence-line validation, existing-issue deduplication, human
