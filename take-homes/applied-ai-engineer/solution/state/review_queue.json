@@ -1,0 +1,1661 @@
+{
+  "ai_placement": {
+    "deterministic_controls": [
+      "speaker boundary",
+      "noise filtering",
+      "known-issue deduplication",
+      "schema and review gate",
+      "sink delivery and idempotency"
+    ],
+    "mode": "deterministic-offline",
+    "model_role": "optional structured candidate and severity proposal after parsing",
+    "source_of_truth": "raw transcript"
+  },
+  "candidates": [
+    {
+      "action": "file-new",
+      "candidate_id": "065fcb618a18e794f304",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P1",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P1",
+      "signature": "feature:audit-export-api",
+      "source": {
+        "account": "Atlas Financial",
+        "call_id": "call-010",
+        "owner": "Ambiguous owner",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "Busy in the way that means nothing's on fire, which I'll take. It's audit season, so my whole world is spreadsheets and evidence requests right now."
+          },
+          {
+            "line": 8,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "For someone, somewhere, sure. Not for me. Anyway \u2014 did the vendor letter on Friday's incident help with your auditors, since you asked?"
+          },
+          {
+            "line": 10,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "It did, thank you. My audit lead read it, grunted approvingly, which for him is a standing ovation, and filed it. One incident officially put to bed. Now I've got two more items, both from the security team, both real."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Atlas Financial",
+          "call_id": "call-010",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "Busy in the way that means nothing's on fire, which I'll take. It's audit season, so my whole world is spreadsheets and evidence requests right now."
+            },
+            {
+              "line": 8,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "For someone, somewhere, sure. Not for me. Anyway \u2014 did the vendor letter on Friday's incident help with your auditors, since you asked?"
+            },
+            {
+              "line": 10,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "It did, thank you. My audit lead read it, grunted approvingly, which for him is a standing ovation, and filed it. One incident officially put to bed. Now I've got two more items, both from the security team, both real."
+            }
+          ]
+        }
+      ],
+      "summary": "Filterable, paginated audit-log export API for SIEM ingestion",
+      "type": "Feature"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "1b745c957a4b6b2e5242",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-087",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:duplicate-webhook",
+      "source": {
+        "account": "Ryecroft Analytics",
+        "call_id": "call-130",
+        "owner": "Ambiguous owner",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Tim",
+            "speaker_type": "EXTERNAL",
+            "text": "Yeah, so this is mostly a Nadia show. Her team owns the integration between BetterBark and our internal people-data warehouse, and she's got a couple of engineering-level questions I can't answer. I'm here to nod and take notes."
+          },
+          {
+            "line": 8,
+            "speaker": "Nadia",
+            "speaker_type": "EXTERNAL",
+            "text": "Go as deep as you want. I built the original integration about eighteen months ago and I've maintained it since. I know your webhook payloads better than I know some of my coworkers' names."
+          },
+          {
+            "line": 10,
+            "speaker": "Nadia",
+            "speaker_type": "EXTERNAL",
+            "text": "Please don't. If you say \"so a webhook is like a phone call for computers\" I'm hanging up."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Ryecroft Analytics",
+          "call_id": "call-130",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Tim",
+              "speaker_type": "EXTERNAL",
+              "text": "Yeah, so this is mostly a Nadia show. Her team owns the integration between BetterBark and our internal people-data warehouse, and she's got a couple of engineering-level questions I can't answer. I'm here to nod and take notes."
+            },
+            {
+              "line": 8,
+              "speaker": "Nadia",
+              "speaker_type": "EXTERNAL",
+              "text": "Go as deep as you want. I built the original integration about eighteen months ago and I've maintained it since. I know your webhook payloads better than I know some of my coworkers' names."
+            },
+            {
+              "line": 10,
+              "speaker": "Nadia",
+              "speaker_type": "EXTERNAL",
+              "text": "Please don't. If you say \"so a webhook is like a phone call for computers\" I'm hanging up."
+            }
+          ]
+        }
+      ],
+      "summary": "Occasional duplicate webhook deliveries to customer endpoints",
+      "type": "Bug"
+    },
+    {
+      "action": "file-new",
+      "candidate_id": "300e1c7673d264de958d",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P1",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P1",
+      "signature": "bug:azure-redirect-loop",
+      "source": {
+        "account": "Atlas Financial",
+        "call_id": "call-010",
+        "owner": "Ambiguous owner",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "Busy in the way that means nothing's on fire, which I'll take. It's audit season, so my whole world is spreadsheets and evidence requests right now."
+          },
+          {
+            "line": 8,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "For someone, somewhere, sure. Not for me. Anyway \u2014 did the vendor letter on Friday's incident help with your auditors, since you asked?"
+          },
+          {
+            "line": 10,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "It did, thank you. My audit lead read it, grunted approvingly, which for him is a standing ovation, and filed it. One incident officially put to bed. Now I've got two more items, both from the security team, both real."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Atlas Financial",
+          "call_id": "call-010",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "Busy in the way that means nothing's on fire, which I'll take. It's audit season, so my whole world is spreadsheets and evidence requests right now."
+            },
+            {
+              "line": 8,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "For someone, somewhere, sure. Not for me. Anyway \u2014 did the vendor letter on Friday's incident help with your auditors, since you asked?"
+            },
+            {
+              "line": 10,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "It did, thank you. My audit lead read it, grunted approvingly, which for him is a standing ovation, and filed it. One incident officially put to bed. Now I've got two more items, both from the security team, both real."
+            }
+          ]
+        }
+      ],
+      "summary": "Azure AD users enter an infinite redirect loop after password change",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "33f678fa50ef206dd3f6",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-110",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:android-crash",
+      "source": {
+        "account": "Stallard Freight",
+        "call_id": "call-020",
+        "owner": "Derek Okafor",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Roy",
+            "speaker_type": "EXTERNAL",
+            "text": "Appreciate it. I'm the guy who gets the \"the app doesn't work\" tickets internally, so I'd rather talk to someone technical than play telephone."
+          },
+          {
+            "line": 8,
+            "speaker": "Roy",
+            "speaker_type": "EXTERNAL",
+            "text": "Just me. Our ops manager wanted to be here but there's a load stuck at a weigh station, so he's dealing with that. Trucking, everything's on fire somewhere."
+          },
+          {
+            "line": 10,
+            "speaker": "Roy",
+            "speaker_type": "EXTERNAL",
+            "text": "I'll describe. Half these phones aren't in front of me anyway, they're out on the road. I'm going off what drivers told me and a couple I looked at yesterday."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Stallard Freight",
+          "call_id": "call-020",
+          "owner": "Derek Okafor",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Roy",
+              "speaker_type": "EXTERNAL",
+              "text": "Appreciate it. I'm the guy who gets the \"the app doesn't work\" tickets internally, so I'd rather talk to someone technical than play telephone."
+            },
+            {
+              "line": 8,
+              "speaker": "Roy",
+              "speaker_type": "EXTERNAL",
+              "text": "Just me. Our ops manager wanted to be here but there's a load stuck at a weigh station, so he's dealing with that. Trucking, everything's on fire somewhere."
+            },
+            {
+              "line": 10,
+              "speaker": "Roy",
+              "speaker_type": "EXTERNAL",
+              "text": "I'll describe. Half these phones aren't in front of me anyway, they're out on the road. I'm going off what drivers told me and a couple I looked at yesterday."
+            }
+          ]
+        }
+      ],
+      "summary": "Android app crashes on launch for some users after the 4.2 update",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "35cca7fcc4b87560b7e3",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-160",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:ios-logout",
+      "source": {
+        "account": "Palmetto Hotels",
+        "call_id": "call-040",
+        "owner": "Derek Okafor",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Wesley",
+            "speaker_type": "EXTERNAL",
+            "text": "We're deep in summer season, so everything's full and everyone's exhausted. But full is good. Full pays the bills."
+          },
+          {
+            "line": 8,
+            "speaker": "Wesley",
+            "speaker_type": "EXTERNAL",
+            "text": "That's going on a motivational poster in the break room. How's your summer? You get any time off, or is it CSM-all-the-time?"
+          },
+          {
+            "line": 10,
+            "speaker": "Wesley",
+            "speaker_type": "EXTERNAL",
+            "text": "No signal is the real luxury now. I took my family to one of our own coastal properties for a few days \u2014 staff discount, obviously \u2014 and I still ended up putting out fires from a beach chair."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Palmetto Hotels",
+          "call_id": "call-040",
+          "owner": "Derek Okafor",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Wesley",
+              "speaker_type": "EXTERNAL",
+              "text": "We're deep in summer season, so everything's full and everyone's exhausted. But full is good. Full pays the bills."
+            },
+            {
+              "line": 8,
+              "speaker": "Wesley",
+              "speaker_type": "EXTERNAL",
+              "text": "That's going on a motivational poster in the break room. How's your summer? You get any time off, or is it CSM-all-the-time?"
+            },
+            {
+              "line": 10,
+              "speaker": "Wesley",
+              "speaker_type": "EXTERNAL",
+              "text": "No signal is the real luxury now. I took my family to one of our own coastal properties for a few days \u2014 staff discount, obviously \u2014 and I still ended up putting out fires from a beach chair."
+            }
+          ]
+        }
+      ],
+      "summary": "iOS app logs users out after an iOS system update",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "3bd8f26d03e1df6626d2",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-138",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:outlook-reschedule",
+      "source": {
+        "account": "Berkfield University",
+        "call_id": "call-026",
+        "owner": "Sam Oduya",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Alan",
+            "speaker_type": "EXTERNAL",
+            "text": "Winding down is generous. Grades are due, everyone's exhausted, and the faculty who swore they'd engage with coaching \"once the semester calms down\" are discovering the semester never calms down."
+          },
+          {
+            "line": 8,
+            "speaker": "Alan",
+            "speaker_type": "EXTERNAL",
+            "text": "You understand us frighteningly well. Rosa runs the day-to-day, so she'll have the real ground truth. I mostly provide gravitas and sign things."
+          },
+          {
+            "line": 9,
+            "speaker": "Rosa",
+            "speaker_type": "EXTERNAL",
+            "text": "He provides more than that but he likes the bit. Okay \u2014 engagement's actually decent for faculty, which is a low bar but we cleared it. We've got the department chairs and a good chunk of tenure-track folks booking regularly."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Berkfield University",
+          "call_id": "call-026",
+          "owner": "Sam Oduya",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Alan",
+              "speaker_type": "EXTERNAL",
+              "text": "Winding down is generous. Grades are due, everyone's exhausted, and the faculty who swore they'd engage with coaching \"once the semester calms down\" are discovering the semester never calms down."
+            },
+            {
+              "line": 8,
+              "speaker": "Alan",
+              "speaker_type": "EXTERNAL",
+              "text": "You understand us frighteningly well. Rosa runs the day-to-day, so she'll have the real ground truth. I mostly provide gravitas and sign things."
+            },
+            {
+              "line": 9,
+              "speaker": "Rosa",
+              "speaker_type": "EXTERNAL",
+              "text": "He provides more than that but he likes the bit. Okay \u2014 engagement's actually decent for faculty, which is a low bar but we cleared it. We've got the department chairs and a good chunk of tenure-track folks booking regularly."
+            }
+          ]
+        }
+      ],
+      "summary": "Rescheduled sessions show the old time in Outlook calendar invites",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "3dffdf42fc05bf478e1e",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-101",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:timezone",
+      "source": {
+        "account": "Delft Imports",
+        "call_id": "call-105",
+        "owner": "Maya Chen",
+        "snippet": [
+          {
+            "line": 28,
+            "speaker": "Saskia",
+            "speaker_type": "EXTERNAL",
+            "text": "That is exactly what I concluded. It is showing UTC. Not our timezone. And I checked our workspace settings \u2014 the workspace is correctly set to Eastern. Everywhere else in the product, the times are right. When I look at a member's session detail in the app, it says nine a.m., correct. When I look at the calendar, correct. It is only this scheduled report \u2014 the emailed PDF and the in-app scheduled version of it \u2014 where the times come out in UTC."
+          },
+          {
+            "line": 30,
+            "speaker": "Saskia",
+            "speaker_type": "EXTERNAL",
+            "text": "Precisely isolated. That is the frustrating part \u2014 it is not a global timezone misconfiguration on our side, because then everything would be wrong. It is only the scheduled report. Which tells me the report generator is ignoring the workspace timezone and defaulting to UTC."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Delft Imports",
+          "call_id": "call-105",
+          "owner": "Maya Chen",
+          "snippet": [
+            {
+              "line": 28,
+              "speaker": "Saskia",
+              "speaker_type": "EXTERNAL",
+              "text": "That is exactly what I concluded. It is showing UTC. Not our timezone. And I checked our workspace settings \u2014 the workspace is correctly set to Eastern. Everywhere else in the product, the times are right. When I look at a member's session detail in the app, it says nine a.m., correct. When I look at the calendar, correct. It is only this scheduled report \u2014 the emailed PDF and the in-app scheduled version of it \u2014 where the times come out in UTC."
+            },
+            {
+              "line": 30,
+              "speaker": "Saskia",
+              "speaker_type": "EXTERNAL",
+              "text": "Precisely isolated. That is the frustrating part \u2014 it is not a global timezone misconfiguration on our side, because then everything would be wrong. It is only the scheduled report. Which tells me the report generator is ignoring the workspace timezone and defaulting to UTC."
+            }
+          ]
+        }
+      ],
+      "summary": "Scheduled reports display times in UTC instead of the workspace timezone",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "4e3ec537beb80d6cc414",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-149",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:photo-upload-size",
+      "source": {
+        "account": "Glasshouse Studios",
+        "call_id": "call-035",
+        "owner": "Derek Okafor",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Tobias",
+            "speaker_type": "EXTERNAL",
+            "text": "We're contractually obligated to be well-dressed, it's a design studio. If I showed up to a client in this hoodie they'd revoke my badge."
+          },
+          {
+            "line": 8,
+            "speaker": "Tobias",
+            "speaker_type": "EXTERNAL",
+            "text": "It's aggressively normcore, thank you for noticing. How's your week? You sound chipper."
+          },
+          {
+            "line": 10,
+            "speaker": "Tobias",
+            "speaker_type": "EXTERNAL",
+            "text": "A calendar with gaps. Living the dream. Mine looks like a ransom note."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Glasshouse Studios",
+          "call_id": "call-035",
+          "owner": "Derek Okafor",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Tobias",
+              "speaker_type": "EXTERNAL",
+              "text": "We're contractually obligated to be well-dressed, it's a design studio. If I showed up to a client in this hoodie they'd revoke my badge."
+            },
+            {
+              "line": 8,
+              "speaker": "Tobias",
+              "speaker_type": "EXTERNAL",
+              "text": "It's aggressively normcore, thank you for noticing. How's your week? You sound chipper."
+            },
+            {
+              "line": 10,
+              "speaker": "Tobias",
+              "speaker_type": "EXTERNAL",
+              "text": "A calendar with gaps. Living the dream. Mine looks like a ransom note."
+            }
+          ]
+        }
+      ],
+      "summary": "Profile photo upload fails for images over 8MB with a generic error",
+      "type": "Bug"
+    },
+    {
+      "action": "file-new",
+      "candidate_id": "5af9f3910c6c317a21e1",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P1",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P1",
+      "signature": "bug:dashboard-card",
+      "source": {
+        "account": "Meridian Health",
+        "call_id": "call-001",
+        "owner": "Priya Nair",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Dana",
+            "speaker_type": "EXTERNAL",
+            "text": "Exhausting in a good way. Three days in Scottsdale, came back to four hundred emails."
+          },
+          {
+            "line": 8,
+            "speaker": "Dana",
+            "speaker_type": "EXTERNAL",
+            "text": "Surface of the sun. They scheduled a \"team building hike\" for ten in the morning and three people nearly filed workers' comp. The hotel had misters on the patio and we all just stood under them like sad houseplants."
+          },
+          {
+            "line": 10,
+            "speaker": "Dana",
+            "speaker_type": "EXTERNAL",
+            "text": "Believe it or not, yes. We locked the FY plan for the clinical ops group, which is the thing I've been chasing since February. So worth the sunburn."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Meridian Health",
+          "call_id": "call-001",
+          "owner": "Priya Nair",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Dana",
+              "speaker_type": "EXTERNAL",
+              "text": "Exhausting in a good way. Three days in Scottsdale, came back to four hundred emails."
+            },
+            {
+              "line": 8,
+              "speaker": "Dana",
+              "speaker_type": "EXTERNAL",
+              "text": "Surface of the sun. They scheduled a \"team building hike\" for ten in the morning and three people nearly filed workers' comp. The hotel had misters on the patio and we all just stood under them like sad houseplants."
+            },
+            {
+              "line": 10,
+              "speaker": "Dana",
+              "speaker_type": "EXTERNAL",
+              "text": "Believe it or not, yes. We locked the FY plan for the clinical ops group, which is the thing I've been chasing since February. So worth the sunburn."
+            }
+          ]
+        },
+        {
+          "account": "Kiwi Southern Freight",
+          "call_id": "call-052",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Hemi",
+              "speaker_type": "EXTERNAL",
+              "text": "Ha, we're living in your tomorrow down here. It's Friday morning for us, so happy Thursday to you."
+            },
+            {
+              "line": 8,
+              "speaker": "Hemi",
+              "speaker_type": "EXTERNAL",
+              "text": "Nobody is, which is going to be relevant in about five minutes, believe it or not. But first \u2014 how are you? We only ever talk when something's up, which isn't fair to you."
+            },
+            {
+              "line": 10,
+              "speaker": "Hemi",
+              "speaker_type": "EXTERNAL",
+              "text": "Big picture's good. We onboarded the second depot in the autumn \u2014 your autumn, our \u2014 whatever, a few months back \u2014 and adoption's climbing. People like the training, the drivers especially, which surprised me. Turns out half of them have a dog riding shotgun in the cab, so it lands. I figured they'd never touch it."
+            }
+          ]
+        }
+      ],
+      "summary": "Usage dashboard active-members summary card disagrees with its per-team breakdown",
+      "type": "Bug"
+    },
+    {
+      "action": "file-new",
+      "candidate_id": "5cee39bf4ff3706ec6e3",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P1",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P1",
+      "signature": "bug:blank-deactivated-mobile",
+      "source": {
+        "account": "Sunrise Hospitality",
+        "call_id": "call-014",
+        "owner": "Tom\u00e1s Vela",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Gloria",
+            "speaker_type": "EXTERNAL",
+            "text": "You have no idea. I've had eleven vendor calls this month and every single one of them opened with \"thanks for the full hour.\" You're at least the first to acknowledge the irony out loud."
+          },
+          {
+            "line": 8,
+            "speaker": "Gloria",
+            "speaker_type": "EXTERNAL",
+            "text": "People first, it's the good news, and I could use some good news before we get to the paperwork part."
+          },
+          {
+            "line": 10,
+            "speaker": "Gloria",
+            "speaker_type": "EXTERNAL",
+            "text": "The GM cohort's dogs graduated the new-puppy foundations track. Genuinely loved it, not politely-tolerated-it. My Denver GM \u2014 a man I would describe as aggressively unimpressible, the kind who thinks every corporate program is a waste of a good afternoon \u2014 called it, quote, \"actually useful.\" From him, that's a standing ovation. That's him weeping openly."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Sunrise Hospitality",
+          "call_id": "call-014",
+          "owner": "Tom\u00e1s Vela",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Gloria",
+              "speaker_type": "EXTERNAL",
+              "text": "You have no idea. I've had eleven vendor calls this month and every single one of them opened with \"thanks for the full hour.\" You're at least the first to acknowledge the irony out loud."
+            },
+            {
+              "line": 8,
+              "speaker": "Gloria",
+              "speaker_type": "EXTERNAL",
+              "text": "People first, it's the good news, and I could use some good news before we get to the paperwork part."
+            },
+            {
+              "line": 10,
+              "speaker": "Gloria",
+              "speaker_type": "EXTERNAL",
+              "text": "The GM cohort's dogs graduated the new-puppy foundations track. Genuinely loved it, not politely-tolerated-it. My Denver GM \u2014 a man I would describe as aggressively unimpressible, the kind who thinks every corporate program is a waste of a good afternoon \u2014 called it, quote, \"actually useful.\" From him, that's a standing ovation. That's him weeping openly."
+            }
+          ]
+        }
+      ],
+      "summary": "Deactivated members with an active mobile session see a blank screen",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "5eadcd62f736ffaff390",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-101",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:timezone",
+      "source": {
+        "account": "Cedar Grove Schools",
+        "call_id": "call-004",
+        "owner": "Priya Nair",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Will",
+            "speaker_type": "EXTERNAL",
+            "text": "Yeah, sorry, I'm on the district wifi and it does this thing where it thinks about it before it commits. We're good now."
+          },
+          {
+            "line": 8,
+            "speaker": "Will",
+            "speaker_type": "EXTERNAL",
+            "text": "Two more weeks and then blessed silence. The district office is already in summer mode; I'm the last one answering email, which means I'm also the last one anyone can find to complain to."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Cedar Grove Schools",
+          "call_id": "call-004",
+          "owner": "Priya Nair",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Will",
+              "speaker_type": "EXTERNAL",
+              "text": "Yeah, sorry, I'm on the district wifi and it does this thing where it thinks about it before it commits. We're good now."
+            },
+            {
+              "line": 8,
+              "speaker": "Will",
+              "speaker_type": "EXTERNAL",
+              "text": "Two more weeks and then blessed silence. The district office is already in summer mode; I'm the last one answering email, which means I'm also the last one anyone can find to complain to."
+            }
+          ]
+        }
+      ],
+      "summary": "Scheduled reports display times in UTC instead of the workspace timezone",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "63e58267ed028489e53b",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-142",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:password-reset-delay",
+      "source": {
+        "account": "Juniper Media",
+        "call_id": "call-015",
+        "owner": "Priya Nair",
+        "snippet": [
+          {
+            "line": 10,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "A pothos. The one they swear you can't kill. We'll see \u2014 I've killed a cactus before, so nothing is truly safe around me."
+          },
+          {
+            "line": 12,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "Yeah, let's get the boring stuff out of the way while I'm caffeinated. Renewal's what, September?"
+          },
+          {
+            "line": 16,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "I appreciate you not upselling me into a corner. My last vendor did the \"you're almost at your limit\" thing and I was at 60% utilization."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Juniper Media",
+          "call_id": "call-015",
+          "owner": "Priya Nair",
+          "snippet": [
+            {
+              "line": 10,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "A pothos. The one they swear you can't kill. We'll see \u2014 I've killed a cactus before, so nothing is truly safe around me."
+            },
+            {
+              "line": 12,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "Yeah, let's get the boring stuff out of the way while I'm caffeinated. Renewal's what, September?"
+            },
+            {
+              "line": 16,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "I appreciate you not upselling me into a corner. My last vendor did the \"you're almost at your limit\" thing and I was at 60% utilization."
+            }
+          ]
+        }
+      ],
+      "summary": "Password-reset emails delayed up to 30 minutes during peak hours",
+      "type": "Bug"
+    },
+    {
+      "action": "file-new",
+      "candidate_id": "6a2ae0e1ee73079af785",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P3",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P3",
+      "signature": "bug:betterbrak-typo",
+      "source": {
+        "account": "Northwind Logistics",
+        "call_id": "call-008",
+        "owner": "Sam Oduya",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "We made two offers, both accepted, so I'll call it a win. Now I just have to onboard them into the cornfield DC, which brings its own joy. But that's not why I'm here."
+          },
+          {
+            "line": 8,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "Corn as far as the eye can see. You drive twenty minutes past the last gas station and then there's a distribution center the size of an airport. It's surreal in July."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Northwind Logistics",
+          "call_id": "call-008",
+          "owner": "Sam Oduya",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "We made two offers, both accepted, so I'll call it a win. Now I just have to onboard them into the cornfield DC, which brings its own joy. But that's not why I'm here."
+            },
+            {
+              "line": 8,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "Corn as far as the eye can see. You drive twenty minutes past the last gas station and then there's a distribution center the size of an airport. It's surreal in July."
+            }
+          ]
+        }
+      ],
+      "summary": "Correct the BetterBrak typo in outbound email footer",
+      "type": "Bug"
+    },
+    {
+      "action": "file-new",
+      "candidate_id": "6c290c510715f16ed480",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P1",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P1",
+      "signature": "feature:saml-role-mapping",
+      "source": {
+        "account": "Atlas Financial",
+        "call_id": "call-003",
+        "owner": "Ambiguous owner",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "Frayed is accurate. We're a regulated financial-services shop trying to stand up a new vendor, which means everything I do gets read three times by three different committees. My job this month is basically translating \"the dog-training app\" into a language my audit team will sign off on."
+          },
+          {
+            "line": 8,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "You get it. My favorite part is that the training product itself, the actual thing people use \u2014 nobody's worried about that. It's genuinely well-liked. It's the plumbing behind it that gets me summoned to conference rooms."
+          },
+          {
+            "line": 10,
+            "speaker": "Renee",
+            "speaker_type": "EXTERNAL",
+            "text": "Three, and it's not yet nine. My auditors run on a different clock than the rest of us. Speaking of which \u2014 you're an hour behind me, right? You're on the West Coast?"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Atlas Financial",
+          "call_id": "call-003",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "Frayed is accurate. We're a regulated financial-services shop trying to stand up a new vendor, which means everything I do gets read three times by three different committees. My job this month is basically translating \"the dog-training app\" into a language my audit team will sign off on."
+            },
+            {
+              "line": 8,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "You get it. My favorite part is that the training product itself, the actual thing people use \u2014 nobody's worried about that. It's genuinely well-liked. It's the plumbing behind it that gets me summoned to conference rooms."
+            },
+            {
+              "line": 10,
+              "speaker": "Renee",
+              "speaker_type": "EXTERNAL",
+              "text": "Three, and it's not yet nine. My auditors run on a different clock than the rest of us. Speaking of which \u2014 you're an hour behind me, right? You're on the West Coast?"
+            }
+          ]
+        },
+        {
+          "account": "Beaumont Insurance",
+          "call_id": "call-088",
+          "owner": "Derek Okafor",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Harold",
+              "speaker_type": "EXTERNAL",
+              "text": "Appreciate the fast turnaround. We put in the escalation yesterday afternoon and having a call today is honestly better than I expected from most vendors."
+            },
+            {
+              "line": 8,
+              "speaker": "Harold",
+              "speaker_type": "EXTERNAL",
+              "text": "Busy is one word for it. We're mid-way through a broader IT modernization so my team's stretched thin, which is part of why this landed so hard, we don't have spare cycles to babysit a login problem."
+            },
+            {
+              "line": 10,
+              "speaker": "Harold",
+              "speaker_type": "EXTERNAL",
+              "text": "Exactly my concern. That's why I wanted a real call, not a ticket number and a \"we'll get back to you.\""
+            }
+          ]
+        }
+      ],
+      "summary": "Automatic role assignment from SAML group membership at login",
+      "type": "Feature"
+    },
+    {
+      "action": "file-new",
+      "candidate_id": "80cf97d07c39af51bc6f",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P2",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P2",
+      "signature": "feature:session-webhook",
+      "source": {
+        "account": "Ridgeway Manufacturing",
+        "call_id": "call-013",
+        "owner": "Priya Nair",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Hank",
+            "speaker_type": "EXTERNAL",
+            "text": "Loud and profitable, which is the goal. If it's quiet on a plant floor, something's wrong. Loud means money."
+          },
+          {
+            "line": 8,
+            "speaker": "Hank",
+            "speaker_type": "EXTERNAL",
+            "text": "Last quarter I was in the middle of a heat wave and half my HVAC was fighting me. This quarter the weather's cooperating and so are the machines. Ask me again in August and I'll be back to the sigh."
+          },
+          {
+            "line": 10,
+            "speaker": "Hank",
+            "speaker_type": "EXTERNAL",
+            "text": "Three, plus the little fabrication shop in Tennessee we picked up last year that I keep forgetting to count. So three and a half. The half is scrappy but they punch above their weight."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Ridgeway Manufacturing",
+          "call_id": "call-013",
+          "owner": "Priya Nair",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Hank",
+              "speaker_type": "EXTERNAL",
+              "text": "Loud and profitable, which is the goal. If it's quiet on a plant floor, something's wrong. Loud means money."
+            },
+            {
+              "line": 8,
+              "speaker": "Hank",
+              "speaker_type": "EXTERNAL",
+              "text": "Last quarter I was in the middle of a heat wave and half my HVAC was fighting me. This quarter the weather's cooperating and so are the machines. Ask me again in August and I'll be back to the sigh."
+            },
+            {
+              "line": 10,
+              "speaker": "Hank",
+              "speaker_type": "EXTERNAL",
+              "text": "Three, plus the little fabrication shop in Tennessee we picked up last year that I keep forgetting to count. So three and a half. The half is scrappy but they punch above their weight."
+            }
+          ]
+        },
+        {
+          "account": "Redgate Systems",
+          "call_id": "call-053",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "We're on v4, yeah. Migrated off v3 back in the spring. That went smoothly, for the record \u2014 your migration guide was actually good, which I don't say often about API docs."
+            },
+            {
+              "line": 8,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "Yeah. Appreciate you jumping on it. First, so you have context on why I care so much \u2014 I own the integration layer here. We're a mid-size firm but we run a genuinely serious data platform internally, everything flows into one warehouse, and the training data is one of the feeds."
+            },
+            {
+              "line": 10,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "Exactly. So background \u2014 we consume your webhooks to sync session and membership events into that HR data platform. Every time a session completes, a member's added, that kind of thing, you fire a webhook at our endpoint and we process it."
+            }
+          ]
+        },
+        {
+          "account": "Bancroft Mills",
+          "call_id": "call-107",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Priyanka",
+              "speaker_type": "EXTERNAL",
+              "text": "You know me too well. Yes, this is a plumbing call. Wade runs our data platform and the thing I want to discuss is more his world than mine, but it started as an HR problem so I'm along for the ride."
+            },
+            {
+              "line": 7,
+              "speaker": "Wade",
+              "speaker_type": "EXTERNAL",
+              "text": "I'm the pipes guy, hi. I'll try not to be too much of a pipes guy."
+            },
+            {
+              "line": 9,
+              "speaker": "Wade",
+              "speaker_type": "EXTERNAL",
+              "text": "Oh good, a CSM-adjacent person who won't glaze over when I say \"landing zone.\" You have no idea how rare that is. Usually I say \"SFTP\" and the room goes quiet."
+            }
+          ]
+        },
+        {
+          "account": "Ryecroft Analytics",
+          "call_id": "call-130",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Tim",
+              "speaker_type": "EXTERNAL",
+              "text": "Yeah, so this is mostly a Nadia show. Her team owns the integration between BetterBark and our internal people-data warehouse, and she's got a couple of engineering-level questions I can't answer. I'm here to nod and take notes."
+            },
+            {
+              "line": 8,
+              "speaker": "Nadia",
+              "speaker_type": "EXTERNAL",
+              "text": "Go as deep as you want. I built the original integration about eighteen months ago and I've maintained it since. I know your webhook payloads better than I know some of my coworkers' names."
+            },
+            {
+              "line": 10,
+              "speaker": "Nadia",
+              "speaker_type": "EXTERNAL",
+              "text": "Please don't. If you say \"so a webhook is like a phone call for computers\" I'm hanging up."
+            }
+          ]
+        }
+      ],
+      "summary": "Add a session-completed webhook event for LMS integrations",
+      "type": "Feature"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "86947aeb19f1afa679d9",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-110",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:android-crash",
+      "source": {
+        "account": "Northwind Logistics",
+        "call_id": "call-008",
+        "owner": "Sam Oduya",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "We made two offers, both accepted, so I'll call it a win. Now I just have to onboard them into the cornfield DC, which brings its own joy. But that's not why I'm here."
+          },
+          {
+            "line": 8,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "Corn as far as the eye can see. You drive twenty minutes past the last gas station and then there's a distribution center the size of an airport. It's surreal in July."
+          },
+          {
+            "line": 10,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "Then you'd feel right at home. The parking lot alone is bigger than the town I recruit half the crew from."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Northwind Logistics",
+          "call_id": "call-008",
+          "owner": "Sam Oduya",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "We made two offers, both accepted, so I'll call it a win. Now I just have to onboard them into the cornfield DC, which brings its own joy. But that's not why I'm here."
+            },
+            {
+              "line": 8,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "Corn as far as the eye can see. You drive twenty minutes past the last gas station and then there's a distribution center the size of an airport. It's surreal in July."
+            },
+            {
+              "line": 10,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "Then you'd feel right at home. The parking lot alone is bigger than the town I recruit half the crew from."
+            }
+          ]
+        }
+      ],
+      "summary": "Android app crashes on launch for some users after the 4.2 update",
+      "type": "Bug"
+    },
+    {
+      "action": "file-new",
+      "candidate_id": "907010f2ab1351694af3",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P3",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P3",
+      "signature": "bug:apostrophe-links",
+      "source": {
+        "account": "Brightpath Insurance",
+        "call_id": "call-011",
+        "owner": "Priya Nair",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Sofia",
+            "speaker_type": "EXTERNAL",
+            "text": "Barely. Open enrollment ended in May but the cleanup is eternal. Someone always picks the wrong plan, someone always adds a spouse who doesn't exist, and I get to reconcile all of it. It's like being a detective, except the crime is always a typo."
+          },
+          {
+            "line": 8,
+            "speaker": "Sofia",
+            "speaker_type": "EXTERNAL",
+            "text": "Not maliciously, usually. They fat-finger a form, or they think their kid counts as a spouse, or they add their mother because \"she depends on me.\" Which, emotionally, sure. Not per the plan documents."
+          },
+          {
+            "line": 10,
+            "speaker": "Sofia",
+            "speaker_type": "EXTERNAL",
+            "text": "I've suggested it. Benefits was not amused. They rarely are \u2014 occupational hazard of the department."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Brightpath Insurance",
+          "call_id": "call-011",
+          "owner": "Priya Nair",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Sofia",
+              "speaker_type": "EXTERNAL",
+              "text": "Barely. Open enrollment ended in May but the cleanup is eternal. Someone always picks the wrong plan, someone always adds a spouse who doesn't exist, and I get to reconcile all of it. It's like being a detective, except the crime is always a typo."
+            },
+            {
+              "line": 8,
+              "speaker": "Sofia",
+              "speaker_type": "EXTERNAL",
+              "text": "Not maliciously, usually. They fat-finger a form, or they think their kid counts as a spouse, or they add their mother because \"she depends on me.\" Which, emotionally, sure. Not per the plan documents."
+            },
+            {
+              "line": 10,
+              "speaker": "Sofia",
+              "speaker_type": "EXTERNAL",
+              "text": "I've suggested it. Benefits was not amused. They rarely are \u2014 occupational hazard of the department."
+            }
+          ]
+        }
+      ],
+      "summary": "Notification email profile links truncate at apostrophes in member names",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "9b65ee983fab170c7531",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-142",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:password-reset-delay",
+      "source": {
+        "account": "Foxglove Pharma",
+        "call_id": "call-055",
+        "owner": "Maya Chen",
+        "snippet": [
+          {
+            "line": 8,
+            "speaker": "Simone",
+            "speaker_type": "EXTERNAL",
+            "text": "Still in flight, and I've learned not to ask the scientists about it because the answer is always a forty-minute lecture. I just wait for the email that says yes or no."
+          },
+          {
+            "line": 32,
+            "speaker": "Simone",
+            "speaker_type": "EXTERNAL",
+            "text": "The reset email takes forever to arrive. Sometimes. That's the maddening part \u2014 it's not always. Someone clicks \"reset my password,\" the screen says check your email, and then... nothing. For a long time. And they sit there refreshing their inbox getting frustrated, and half of them give up and email my team instead, which is how I keep hearing about it."
+          },
+          {
+            "line": 36,
+            "speaker": "Simone",
+            "speaker_type": "EXTERNAL",
+            "text": "I do, actually. One of my coordinators actually timed it because she was so annoyed. She said it was close to half an hour before the reset email showed up. Twenty-five, thirty minutes. By then she'd already messaged my team and moved on. When it finally arrived she didn't even need it anymore."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Foxglove Pharma",
+          "call_id": "call-055",
+          "owner": "Maya Chen",
+          "snippet": [
+            {
+              "line": 8,
+              "speaker": "Simone",
+              "speaker_type": "EXTERNAL",
+              "text": "Still in flight, and I've learned not to ask the scientists about it because the answer is always a forty-minute lecture. I just wait for the email that says yes or no."
+            },
+            {
+              "line": 32,
+              "speaker": "Simone",
+              "speaker_type": "EXTERNAL",
+              "text": "The reset email takes forever to arrive. Sometimes. That's the maddening part \u2014 it's not always. Someone clicks \"reset my password,\" the screen says check your email, and then... nothing. For a long time. And they sit there refreshing their inbox getting frustrated, and half of them give up and email my team instead, which is how I keep hearing about it."
+            },
+            {
+              "line": 36,
+              "speaker": "Simone",
+              "speaker_type": "EXTERNAL",
+              "text": "I do, actually. One of my coordinators actually timed it because she was so annoyed. She said it was close to half an hour before the reset email showed up. Twenty-five, thirty minutes. By then she'd already messaged my team and moved on. When it finally arrived she didn't even need it anymore."
+            }
+          ]
+        }
+      ],
+      "summary": "Password-reset emails delayed up to 30 minutes during peak hours",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "9e28781178aa8eed94c4",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-110",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:android-crash",
+      "source": {
+        "account": "Galway Foods",
+        "call_id": "call-114",
+        "owner": "Ambiguous owner",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Deirdre Foran",
+            "speaker_type": "EXTERNAL",
+            "text": "That's the one. Thanks for following up. Honestly the timing is a bit funny because things have changed since I opened it."
+          },
+          {
+            "line": 8,
+            "speaker": "Deirdre Foran",
+            "speaker_type": "EXTERNAL",
+            "text": "Let me back up and give you the whole picture, because I think I know what happened and I want to close the loop properly rather than leave you chasing a ghost."
+          },
+          {
+            "line": 10,
+            "speaker": "Deirdre Foran",
+            "speaker_type": "EXTERNAL",
+            "text": "Actually, before I get into it \u2014 is this call being recorded? I only ask because I'm going to name our internal device-management setup and I want to know where it lands."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Galway Foods",
+          "call_id": "call-114",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Deirdre Foran",
+              "speaker_type": "EXTERNAL",
+              "text": "That's the one. Thanks for following up. Honestly the timing is a bit funny because things have changed since I opened it."
+            },
+            {
+              "line": 8,
+              "speaker": "Deirdre Foran",
+              "speaker_type": "EXTERNAL",
+              "text": "Let me back up and give you the whole picture, because I think I know what happened and I want to close the loop properly rather than leave you chasing a ghost."
+            },
+            {
+              "line": 10,
+              "speaker": "Deirdre Foran",
+              "speaker_type": "EXTERNAL",
+              "text": "Actually, before I get into it \u2014 is this call being recorded? I only ask because I'm going to name our internal device-management setup and I want to know where it lands."
+            }
+          ]
+        }
+      ],
+      "summary": "Android app crashes on launch for some users after the 4.2 update",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "a56e575a12a2bede023c",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-087",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:duplicate-webhook",
+      "source": {
+        "account": "Vanta Retail",
+        "call_id": "call-005",
+        "owner": "Sam Oduya",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Jordan",
+            "speaker_type": "EXTERNAL",
+            "text": "This is the eye of the hurricane. Right now it's calm. In about six weeks we hire two thousand seasonal store associates and my entire life becomes provisioning laptops and resetting passwords for people who've had their account for four hours."
+          },
+          {
+            "line": 8,
+            "speaker": "Jordan",
+            "speaker_type": "EXTERNAL",
+            "text": "I don't, that's the secret. Coffee and spite. Last year I set a personal record \u2014 forty-one password resets before lunch on the first Monday."
+          },
+          {
+            "line": 10,
+            "speaker": "Jordan",
+            "speaker_type": "EXTERNAL",
+            "text": "My wife got me a mug that says \"I survived the seasonal ramp.\" It's aspirational. I have not, technically, survived one gracefully yet."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Vanta Retail",
+          "call_id": "call-005",
+          "owner": "Sam Oduya",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Jordan",
+              "speaker_type": "EXTERNAL",
+              "text": "This is the eye of the hurricane. Right now it's calm. In about six weeks we hire two thousand seasonal store associates and my entire life becomes provisioning laptops and resetting passwords for people who've had their account for four hours."
+            },
+            {
+              "line": 8,
+              "speaker": "Jordan",
+              "speaker_type": "EXTERNAL",
+              "text": "I don't, that's the secret. Coffee and spite. Last year I set a personal record \u2014 forty-one password resets before lunch on the first Monday."
+            },
+            {
+              "line": 10,
+              "speaker": "Jordan",
+              "speaker_type": "EXTERNAL",
+              "text": "My wife got me a mug that says \"I survived the seasonal ramp.\" It's aspirational. I have not, technically, survived one gracefully yet."
+            }
+          ]
+        }
+      ],
+      "summary": "Occasional duplicate webhook deliveries to customer endpoints",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "ab644d72212429c342a3",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-138",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:outlook-reschedule",
+      "source": {
+        "account": "Twin Pines Farms",
+        "call_id": "call-082",
+        "owner": "Ambiguous owner",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Hank Brubaker",
+            "speaker_type": "EXTERNAL",
+            "text": "We've been on it about a year now. Rolled it out to the leadership team last summer."
+          },
+          {
+            "line": 8,
+            "speaker": "Lacey Dunn",
+            "speaker_type": "EXTERNAL",
+            "text": "That's the thing, it used to be fine. This started maybe a month ago. Before that, reschedules updated cleanly as far as I remember."
+          },
+          {
+            "line": 10,
+            "speaker": "Hank Brubaker",
+            "speaker_type": "EXTERNAL",
+            "text": "Well, Lacey deals with the calendars more than me, so she'll have the details. But the short version is our meeting times are getting crossed up."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Twin Pines Farms",
+          "call_id": "call-082",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Hank Brubaker",
+              "speaker_type": "EXTERNAL",
+              "text": "We've been on it about a year now. Rolled it out to the leadership team last summer."
+            },
+            {
+              "line": 8,
+              "speaker": "Lacey Dunn",
+              "speaker_type": "EXTERNAL",
+              "text": "That's the thing, it used to be fine. This started maybe a month ago. Before that, reschedules updated cleanly as far as I remember."
+            },
+            {
+              "line": 10,
+              "speaker": "Hank Brubaker",
+              "speaker_type": "EXTERNAL",
+              "text": "Well, Lacey deals with the calendars more than me, so she'll have the details. But the short version is our meeting times are getting crossed up."
+            }
+          ]
+        }
+      ],
+      "summary": "Rescheduled sessions show the old time in Outlook calendar invites",
+      "type": "Bug"
+    },
+    {
+      "action": "corroborate",
+      "candidate_id": "e2f3ddf9d53b02c7cd69",
+      "confidence": 0.96,
+      "existing_issue_key": "PROJ-087",
+      "reason": "External call evidence matches an existing tracked issue.",
+      "review_status": "pending",
+      "signature": "known:duplicate-webhook",
+      "source": {
+        "account": "Redgate Systems",
+        "call_id": "call-053",
+        "owner": "Ambiguous owner",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "We're on v4, yeah. Migrated off v3 back in the spring. That went smoothly, for the record \u2014 your migration guide was actually good, which I don't say often about API docs."
+          },
+          {
+            "line": 8,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "Yeah. Appreciate you jumping on it. First, so you have context on why I care so much \u2014 I own the integration layer here. We're a mid-size firm but we run a genuinely serious data platform internally, everything flows into one warehouse, and the training data is one of the feeds."
+          },
+          {
+            "line": 10,
+            "speaker": "Marcus",
+            "speaker_type": "EXTERNAL",
+            "text": "Exactly. So background \u2014 we consume your webhooks to sync session and membership events into that HR data platform. Every time a session completes, a member's added, that kind of thing, you fire a webhook at our endpoint and we process it."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Redgate Systems",
+          "call_id": "call-053",
+          "owner": "Ambiguous owner",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "We're on v4, yeah. Migrated off v3 back in the spring. That went smoothly, for the record \u2014 your migration guide was actually good, which I don't say often about API docs."
+            },
+            {
+              "line": 8,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "Yeah. Appreciate you jumping on it. First, so you have context on why I care so much \u2014 I own the integration layer here. We're a mid-size firm but we run a genuinely serious data platform internally, everything flows into one warehouse, and the training data is one of the feeds."
+            },
+            {
+              "line": 10,
+              "speaker": "Marcus",
+              "speaker_type": "EXTERNAL",
+              "text": "Exactly. So background \u2014 we consume your webhooks to sync session and membership events into that HR data platform. Every time a session completes, a member's added, that kind of thing, you fire a webhook at our endpoint and we process it."
+            }
+          ]
+        }
+      ],
+      "summary": "Occasional duplicate webhook deliveries to customer endpoints",
+      "type": "Bug"
+    },
+    {
+      "action": "file-new",
+      "candidate_id": "e738a82164cb5101f4c2",
+      "confidence": 0.88,
+      "description": "Evidence from the external participant is preserved below. Human review is required before delivery.",
+      "priority": "P3",
+      "project": "PROJ",
+      "review_status": "pending",
+      "severity": "P3",
+      "signature": "bug:search-stale",
+      "source": {
+        "account": "Harborline Media",
+        "call_id": "call-006",
+        "owner": "Tom\u00e1s Vela",
+        "snippet": [
+          {
+            "line": 6,
+            "speaker": "Aisha",
+            "speaker_type": "EXTERNAL",
+            "text": "Loud and clear. Better than the coffee shop I called you from last time, anyway."
+          },
+          {
+            "line": 8,
+            "speaker": "Aisha",
+            "speaker_type": "EXTERNAL",
+            "text": "Gray and drizzly, which is on-brand for us. Perfect weather for hiding indoors and doing admin work, honestly."
+          },
+          {
+            "line": 10,
+            "speaker": "Aisha",
+            "speaker_type": "EXTERNAL",
+            "text": "\"Survived\" is generous. We collapsed five content teams into three, renamed everything, and I personally moved about sixty people between teams in your admin panel over two days. I have moved more people in the last week than a furniture company."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "account": "Harborline Media",
+          "call_id": "call-006",
+          "owner": "Tom\u00e1s Vela",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Aisha",
+              "speaker_type": "EXTERNAL",
+              "text": "Loud and clear. Better than the coffee shop I called you from last time, anyway."
+            },
+            {
+              "line": 8,
+              "speaker": "Aisha",
+              "speaker_type": "EXTERNAL",
+              "text": "Gray and drizzly, which is on-brand for us. Perfect weather for hiding indoors and doing admin work, honestly."
+            },
+            {
+              "line": 10,
+              "speaker": "Aisha",
+              "speaker_type": "EXTERNAL",
+              "text": "\"Survived\" is generous. We collapsed five content teams into three, renamed everything, and I personally moved about sixty people between teams in your admin panel over two days. I have moved more people in the last week than a furniture company."
+            }
+          ]
+        },
+        {
+          "account": "Gable Group",
+          "call_id": "call-012",
+          "owner": "Sam Oduya",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Devon",
+              "speaker_type": "EXTERNAL",
+              "text": "We're through the worst of it. June was the month of the great merge \u2014 we folded two departments together, which on paper is a slide with two boxes becoming one box, and in practice is three weeks of me living in your admin panel."
+            },
+            {
+              "line": 8,
+              "speaker": "Devon",
+              "speaker_type": "EXTERNAL",
+              "text": "Exactly cursed. The slide took someone twenty minutes. Implementing the slide took me the better part of a month across every system we own. But it's done, people are on the right teams, and I've mostly stopped twitching."
+            },
+            {
+              "line": 10,
+              "speaker": "Devon",
+              "speaker_type": "EXTERNAL",
+              "text": "Oh, don't get me started. HRIS, payroll, the badge system, three different SaaS tools with their own team structures, and you. Every one of them models \"team\" slightly differently, so a clean merge in one is a nightmare in another. You were actually one of the easier ones, for what it's worth."
+            }
+          ]
+        },
+        {
+          "account": "Berkfield University",
+          "call_id": "call-026",
+          "owner": "Sam Oduya",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Alan",
+              "speaker_type": "EXTERNAL",
+              "text": "Winding down is generous. Grades are due, everyone's exhausted, and the faculty who swore they'd engage with coaching \"once the semester calms down\" are discovering the semester never calms down."
+            },
+            {
+              "line": 8,
+              "speaker": "Alan",
+              "speaker_type": "EXTERNAL",
+              "text": "You understand us frighteningly well. Rosa runs the day-to-day, so she'll have the real ground truth. I mostly provide gravitas and sign things."
+            },
+            {
+              "line": 9,
+              "speaker": "Rosa",
+              "speaker_type": "EXTERNAL",
+              "text": "He provides more than that but he likes the bit. Okay \u2014 engagement's actually decent for faculty, which is a low bar but we cleared it. We've got the department chairs and a good chunk of tenure-track folks booking regularly."
+            }
+          ]
+        },
+        {
+          "account": "Copperline Energy",
+          "call_id": "call-072",
+          "owner": "Maya Chen",
+          "snippet": [
+            {
+              "line": 6,
+              "speaker": "Priti Shah",
+              "speaker_type": "EXTERNAL",
+              "text": "Morning Maya. Gerald's here, he's just getting his coffee, he'll be muted for a sec."
+            },
+            {
+              "line": 13,
+              "speaker": "Gerald Voss",
+              "speaker_type": "EXTERNAL",
+              "text": "We onboarded the whole downstream division in March. That's the jump."
+            },
+            {
+              "line": 15,
+              "speaker": "Priti Shah",
+              "speaker_type": "EXTERNAL",
+              "text": "We front-loaded the comms this time. Learned from the first rollout."
+            }
+          ]
+        }
+      ],
+      "summary": "Search returns stale results after team renames or member moves",
+      "type": "Bug"
+    }
+  ],
+  "created_at": "2026-09-02T16:18:39.442234+00:00",
+  "errors": [],
+  "human_gate": "pending approval; no Jira or Slack writes performed",
+  "metrics": {
+    "candidates": 23,
+    "corroborations": 14,
+    "external_calls": 134,
+    "failed_transcripts": 0,
+    "new_issues": 9,
+    "parsed_transcripts": 140,
+    "transcripts": 140
+  },
+  "run_id": "20260902T161838Z-13080e8b",
+  "run_status": "ok"
+}
