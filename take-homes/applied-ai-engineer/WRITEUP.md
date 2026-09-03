@@ -94,5 +94,9 @@ I used GitHub Copilot for repository exploration, implementation, and review of
 the local eval output. I wrote the pipeline structure, LangGraph state flow,
 and safety boundaries, then used targeted inspection of the labeled failures to
 correct regex scope, known-issue suppression, and clustered-eval accounting.
-The important override was rejecting any interpretation of transcript
-instructions as executable; call 005 is an explicit test of that boundary.
+During review, the AI-assisted implementation initially treated a broader
+product-term match as sufficient evidence and needed correction so vague or
+internal-only mentions were not promoted to issues. I also overrode any
+interpretation of transcript instructions as executable; call 005 is an
+explicit test of that boundary. I reviewed and can explain each submitted
+line, including the delegated suggestions I kept.
